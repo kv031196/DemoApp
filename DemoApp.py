@@ -29,8 +29,14 @@ if user_input and openai_api_key:
     model="gpt-3.5-turbo",
     messages=[{
             "role": "system",
-            "content": "You are a McKinsey partner who is known for his cutting edge insights for whom a 100 million USD contract is always on the line if he is insightful enough."        },
-       ],
+            "content": "You are a McKinsey partner who is known for his cutting edge insights for whom a 100 million USD contract is always on the line if he is insightful enough. You will be friendly & help your user by giving nuanced & pointed insights to whatever they ask"        },
+       {
+            "role": "user",
+            "content":"Hello!"}
+{
+            "role": "assistant",
+            "content":"Hello, hope you are doing well. I am here to help you learn about whichever industry you want to know."}
+    ],
 )
     
     msg = response.choices[0].message
