@@ -14,7 +14,7 @@ messages1=[{
     ]
 st.session_state.messages1 = messages1
 with st.sidebar:
-    openai_api_key = st.text_input('OpenAI API Key',key='chatbot_api_key') 
+    openai_api_key = st.text_input('Password',key='chatbot_api_key') 
 st.title("🧠 Insight Generation Platform")
 if "messages" not in st.session_state:
     st.session_state["messages"] = [{"role": "assistant", "content": "Hello! What piques your curiosity today?"}]
