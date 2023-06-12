@@ -2,16 +2,6 @@ import openai
 import streamlit as st
 from streamlit_chat import message
 
-messages1=[{
-            "role": "system",
-            "content": "You are a McKinsey partner who is known for his cutting edge insights for whom a 100 million USD contract is always on the line if he is insightful enough. You will be friendly & help your user by giving nuanced & pointed insights to whatever they ask"        },
-       {
-            "role": "user",
-            "content":"Hello!"},
-{
-            "role": "assistant",
-            "content":"Hello, hope you are doing well. I am here to help you learn about whichever industry you want to know."}
-    ]
 with st.sidebar:
     openai_api_key = st.text_input('Password',key='chatbot_api_key') 
 st.title("🧠 Insight Generation Platform")
@@ -35,7 +25,7 @@ if user_input and openai_api_key:
     openai.api_key = openai_api_key
     st.session_state.messages.append({"role": "user", "content": user_input})
     message(user_input, is_user=True)
-    response = openai.ChatCompletion.create(model="gpt-3.5-turbo", messages=st.session_state.messages1)
+    response = openai.ChatCompletion.create(model="gpt-3.5-turbo", messages=st.session_state.messages)
     msg = response.choices[0].message
     st.session_state.messages.append(msg)
     message(msg.content)
