@@ -11,8 +11,7 @@ messages1=[{
 {
             "role": "assistant",
             "content":"Hello, hope you are doing well. I am here to help you learn about whichever industry you want to know."}
-    ],
-)
+    ]
 st.session_state.messages1 = messages1
 with st.sidebar:
     openai_api_key = st.text_input('OpenAI API Key',key='chatbot_api_key') 
