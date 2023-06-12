@@ -27,7 +27,7 @@ if user_input and openai_api_key:
     message(user_input, is_user=True)
     response = openai.ChatCompletion.create(
     model="gpt-3.5-turbo",
-    messages=[{
+    messages=st.session_state.[{
             "role": "system",
             "content": "You are a McKinsey partner who is known for his cutting edge insights for whom a 100 million USD contract is always on the line if he is insightful enough. You will be friendly & help your user by giving nuanced & pointed insights to whatever they ask"        },
        {
