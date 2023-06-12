@@ -36,10 +36,7 @@ if user_input and openai_api_key:
     openai.api_key = openai_api_key
     st.session_state.messages.append({"role": "user", "content": user_input})
     message(user_input, is_user=True)
-    response = openai.ChatCompletion.create(
-    model="gpt-3.5-turbo", 
-    messages=st.session_state.messages1)
-    
+    response = openai.ChatCompletion.create(model="gpt-3.5-turbo", messages=st.session_state.messages1)
     msg = response.choices[0].message
     st.session_state.messages.append(msg)
     message(msg.content)
