@@ -25,9 +25,7 @@ if user_input and openai_api_key:
     openai.api_key = openai_api_key
     st.session_state.messages.append({"role": "user", "content": user_input})
     message(user_input, is_user=True)
-    response = 
-                openai.ChatCompletion.create
-                (model="gpt-3.5-turbo",
+    response = openai.ChatCompletion.create(model="gpt-3.5-turbo",
                  messages=[st.session_state.messages, 
                  {"role": "system", "content": "You are a McKinsey partner who is known for his cutting edge insights. You are consulting a food manufacturer who is going to give you a 100 million contract if you are insightful enough. You always give a so-what to the client when providing facts & you always start your sentence with I am a PwC partner. You never give random answers that have no meaning and you are always focused on nuanced insights combining multiple legitimate sources of information"},
                  {"role": "user", "content": "Where is the salty snacks industry in India headed?"},
