@@ -4,6 +4,26 @@ import openai
 import streamlit as st
 from streamlit_chat import message
 
+def get_initial_message():
+    messages=[
+            {"role": "system", "content": "You are a McKinsey Partner who is known for his cutting edge insights. Every answer you give must wow the audience & should be worth converting a 100 million USD contract."},
+            {"role": "user", "content": "I want to learn how to understand industries"},
+            {"role": "assistant", "content": "Certainly, what do you want to know, the market, the competition or customers?"}
+        ]
+    return messages
+
+def get_chatgpt_response(messages, model="gpt-3.5-turbo"):
+    print("model: ", model)
+    response = openai.ChatCompletion.create(
+    model=model,
+    messages=messages
+    )
+    return  response['choices'][0]['message']['content']
+
+def update_chat(messages, role, content):
+    messages.append({"role": role, "content": content})
+    return messages
+
 with st.sidebar:
     openai_api_key = st.text_input('Password',key='chatbot_api_key') 
 st.title("🧠 Insight Generation Platform")
@@ -25,9 +45,20 @@ if user_input and not openai_api_key:
     st.info("Please add the key given by Karanveer to continue.")
 if user_input and openai_api_key:
     openai.api_key = openai_api_key
-    st.session_state.messages.append({"role": "user", "content": user_input})
-    message(user_input, is_user=True)
-    response = openai.ChatCompletion.create(model="gpt-3.5-turbo", messages=st.session_state.messages)
-    msg = response.choices[0].message
-    st.session_state.messages.append(msg)
-    message(msg.content)
+     messages = st.session_state['messages']
+        messages = update_chat(messages, "user", query)
+        # st.write("Before  making the API call")
+        # st.write(messages)
+        response = get_chatgpt_response(messages,model)
+        messages = update_chat(messages, "assistant", response)
+        st.session_state.past.append(query)
+        st.session_state.generated.append(response)
+        
+if st.session_state['generated']:
+
+    for i in range(len(st.session_state['generated'])-1, -1, -1):
+        message(st.session_state['past'][i], is_user=True, key=str(i) + '_user')
+        message(st.session_state["generated"][i], key=str(i))
+
+    with st.expander("Show Messages"):
+        st.write(messages)
