@@ -1,5 +1,5 @@
 import langchain
-import gpt_index
+import llama_index
 import openai
 import streamlit as st
 from streamlit_chat import message
