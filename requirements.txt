@@ -10,6 +10,3 @@ streamlit-chat
 gpt_index
 faiss-cpu
 tiktoken
-pandasai==0.2.15
-pdfplumber==0.9.0
-pypdf==3.9.0
