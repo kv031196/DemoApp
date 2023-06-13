@@ -60,9 +60,16 @@ if user_input and openai_api_key:
         
 if st.session_state['generated']:
 
-    for i in range(len(st.session_state['generated'])-1, -1, -1):
-        message(st.session_state['past'][i], is_user=True, key=str(i) + '_user')
-        message(st.session_state["generated"][i], key=str(i))
+    for i in range(len(st.session_state['generated'])):
+        # Assign a unique key for each message to prevent Streamlit from re-running the same code
+        user_key = f"user_{i}"
+        assistant_key = f"assistant_{i}"
+        
+        # Display user's message
+        message(st.session_state['past'][i], is_user=True, key=user_key)
+        
+        # Display assistant's message
+        message(st.session_state["generated"][i], key=assistant_key)
 
     with st.expander("Show Messages"):
         st.write(messages)
