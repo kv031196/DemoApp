@@ -27,6 +27,10 @@ def update_chat(messages, role, content):
 with st.sidebar:
     openai_api_key = st.text_input('Password',key='chatbot_api_key') 
 st.title("🧠 Insight Generation Platform")
+if 'generated' not in st.session_state:
+    st.session_state['generated'] = []
+if 'past' not in st.session_state:
+    st.session_state['past'] = []
 if "messages" not in st.session_state:
     st.session_state["messages"] = [{"role": "assistant", "content": "Hello! What piques your curiosity today?"}]
 with st.form("chat_input", clear_on_submit=True):
