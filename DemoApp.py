@@ -52,7 +52,7 @@ if user_input and openai_api_key:
     messages = update_chat(messages, "user", user_input)
     # st.write("Before  making the API call")
     # st.write(messages)
-    response = get_chatgpt_response(messages,model)
+    response = get_chatgpt_response(messages,"gpt-3.5-turbo")
     messages = update_chat(messages, "assistant", response)
     st.session_state.past.append(user_input)
     st.session_state.generated.append(response)
