@@ -1,0 +1,19 @@
+Unnamed: 0,Unnamed: 1
+Brand Level,Definition
+,
+GBO,"The GBO work sheet contains data specific to the GBO (Global Brand Owner), i.e. the ultimate, global owner of the brand."
+NBO,"The NBO work sheet contains data specific to the NBO (National Brand Owner), i.e. the national producer (company’s own brand or under license) or distributor of the brand."
+GBOO,The GBOO work sheet contains data specific to the GBOO (Global Brand Owner as local Operator) i.e. where the global brand owner operates more locally than globally or nationally.
+NBOO,The NBOO work sheet contains data specific to the NBOO (National Brand Owner as local Operator) i.e. where the national brand owner operates more locally than nationally.
+GBN,"The GBN work sheet contains data specific to the GBN (Global Brand Name), i.e. brand name used for global and cross-country analysis which consolidates different local variations or spellings of a brand's name under a common GBN."
+LBN,"The LBN work sheet contains data specific to the LBN (Local brand name), i.e. brand recorded by Euromonitor analysts at country product level - this may or may not extend to variant level depending on detail of source data available."
+UBN,The UBN work sheet contains data specific to the UBN (Umbrella Brand Name). i.e brand name used where a group of products possesses the same brand name.
+GBOL,The GBOL work sheet contains data specific to the GBOL (Latest Global Brand Owner).
+NBOL,The NBOL work sheet contains data specific to the NBOL (Latest National Brand Owner).
+GBOOL,The GBOOL work sheet contains data specific to the GBOOL (Latest Global Brand Owner as local Operator).
+NBOOL,The NBOOL work sheet contains data specific to the NBOOL (Latest National Brand Owner as local Operator).
+GBNL,The GBNL work sheet contains data specific to the GBNL (Global Brand Name by Latest Owner).
+LBNL,The LBNL work sheet contains data specific to the LBNL (Local brand name by Latest Owner).
+UBNL,The UBNL work sheet contains data specific to the UBNL (Umbrella Brand Name by Latest Owner).
+,
+© Euromonitor International Ltd 2022,
