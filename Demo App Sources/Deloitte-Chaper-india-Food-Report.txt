@@ -1,0 +1,2597 @@
+Industry 4.0 in Food Industry 
+India Food Report
+January 2018
+For Private circulation only
+
+Contents
+
+Introduction 
+
+Food Ecosystem in India 
+
+Key Trends in the Indian Market 
+
+A sustainable supply chain 
+
+Impact of Technology 
+
+Conclusion 
+
+4
+
+6
+
+10
+
+20
+
+26
+
+32
+
+03
+
+02
+
+Brochure / report title goes here  | Section title goes here Industry 4.0 in Food Industry  | India Food ReportIntroduction
+
+Food is considered to be an inherent 
+factor and a strong backbone of 
+economic growth for any country. In 
+India, the food industry is estimated to 
+be USD 448 Bn in FY 16. This industry is 
+growing at ~10% and contributes to 9-10% 
+of manufacturing GDP in FY171. 
+
+The diversity in Indian culture and 
+changing needs of customers create 
+further complexity in the food production 
+and distribution system in the country. 
+A number of changes are shaping the 
+Indian food landscape with disruptions in 
+business models of companies, in terms 
+
+Current State of Food Ecosystem
+
+of their interaction with consumers and 
+responsiveness to their needs. While 
+packaged food is the fastest growing 
+segment posting a double digit growth 
+yoy, currently only ~10% of agri-produce 
+is being processed in India2.
+
+is expected to witness a radical shift. 
+The complete ecosystem is expected 
+to evolve from being a linear model to 
+a more complex dynamic chain with 
+multiple inter-linkages enabled by 
+technology interventions.
+
+Government of India’s drive to augment 
+processing levels through Make in India 
+campaign; and Industry 4.0 playing a 
+major role in elevating the manufacturing 
+as well as supply chain landscape by 
+usage of technologies including Internet 
+of Things (IoT), Blockchain, Predictive 
+Analytics, the food industry in India 
+
+For the purpose of this article, we have 
+focused on 3 key trends that are shaping 
+up the food industry in India:-
+01.  Consumption Trends
+02.  Supply Trends
+03.  Regulatory Developments
+
+Food 
+Service
+
+Cultivation
+
+Agri-
+logistics
+
+Food 
+Processing
+
+Distributor
+
+Customer
+
+Communication
+
+Product and Service Flow
+
+Future State of Food Ecosystem
+
+Cultivation
+
+Food 
+Service
+
+Food  
+Retail
+
+IoT
+
+Cloud Computing
+
+Food Retail
+
+Agri-
+logistics
+
+Food 
+Processing
+
+04
+
+05
+
+1 News articles, Industry Reports, Deloitte Analysis
+2 Ministry of Food Processing Industries Annual Report 2015-16
+
+Distributor
+
+Industry 4.0 in Food Industry  | India Food ReportIndustry 4.0 in Food Industry  | India Food ReportFood Ecosystem 
+in India 
+
+India is the 7th largest country3 with an 
+area of 31.7 Mn square kms, the 2nd most 
+populous country and the 2nd largest 
+producer of food in the world3. The task of 
+ensuring that the food produced reaches 
+1.2 Bn Indians is complex and involves a 
+number of stakeholders. About 210 Mn 
+farmers and agriculture labourers4 
+cultivate various crops which they harvest 
+and sell in Agriculture Produce Market 
+Committee (APMC) markets or ‘mandis’. 
+There are 2,477 APMCs and 4,843 sub-
+market yards5 regulated by the respective 
+states in India. Multiple levels of value 
+addition activites are undertaken on the 
+
+agri-produce in a food processing plant, 
+which in turn produces the packaged and 
+processed food products. There were 
+38,608 registered food processing units6 
+in FY 15. Distribution in India involves 
+serving a large fragmented base of kirana 
+shops. There are ~14,000 organized retail 
+outlets concentrated largely in urban 
+areas. Unorganized retail consists of 12-14 
+Mn7 stores spread over 5,000 towns and 
+600,000 villages across India. The diversity 
+in Indian culture and changing needs of 
+customers creates further complexity 
+in the food production and distribution 
+system in the country.
+
+Farm to Fork in India
+
+Food 
+Service
+
+Cultivation
+
+Agri-
+logistics
+
+Food 
+Processing
+
+Distributor
+
+Customer
+
+Communication
+
+Product and Service Flow
+
+Food Retail
+
+06
+
+07
+
+3 WorldAtlas.com
+4 EMIS – India Agriculture Sector 2016/2017
+5 http://www.indiabudget.nic.in/es2014-15/echapvol1-08.pdf
+6 EMIS Insights, research reports, Deloitte analysis
+7 News articles 
+
+Industry 4.0 in Food Industry  | India Food ReportIndustry 4.0 in Food Industry  | India Food ReportKey Segments in the Food Value Chain
+
+Major Food Segments in India – FY 17
+
+ • Agriculture, Forestry and Fishing is estimated to be USD 350 Bn in FY 178 , contributing to ~17% 
+
+to India’s GDP
+
+ • India has the 2nd largest arable land in the world with 46 soil types and 20 agri climatic 
+
+Other Packaged Food, 17
+
+Segments in 2016 (USD BN)
+
+Cultivation
+
+regions9
+
+ • However, current productivity levels are low mainly due to 
+
+ – Small farm holding: 67% of land holdings are less than 1 Ha in size9
+ – Rainfall dependence: 50% of the agricultural land is entirely rain fed9
+
+Agri-
+logistics
+
+Food
+processing
+
+ •  Warehousing market is estimated to be USD 1.5 Bn10 and growing at 9% CAGR
+
+ •  85% of warehouses are used for food grains; Food Corporation of India is the biggest user 
+
+driven by public distribution of food
+
+ •  Loss of agri-produce grew at 20% CAGR between FY 12 to FY 17; 6% of food grains and 5-12% of 
+vegetables are lost due to inadequate post-harvest management, transportation and storage 
+infrastructure 
+
+ • Food and Beverage market is estimated to be USD 448 Bn11 in FY 16 growing at 9.5%
+
+ • Contributed 9-10% of manufacturing GDP in India in FY 1713
+
+ • Employment of 1.7 Mn people in 2012-13
+
+ • Packaged food is the fastest growing food segment with double digit growth
+
+ • Only ~10% of agri-produce is being processed in India
+
+ • India’s large geographical spread combined with 68%14 rural population and past tax laws led to 
+
+a requirement for a multi-layer distribution network to reach customers 
+
+Distributor
+
+ • FMCG companies, both regional and national, have developed distribution networks 
+
+comprising superstockists and distributors. Parle, a biscuits major, has one of the largest 
+distribution network in India and reaches 4.5 Mn outlets 
+
+ • India is the 6th largest grocery market in the world and is expected to reach USD 900 Bn by 
+
+202013 
+
+ • Online grocery retail penetration is currently low and estimated to be USD 1 Bn. However, the 
+
+Food retail
+
+market is growing at ~40%
+
+ • While the overall penetration of modern retail is ~10%, the penetration remains low in grocery 
+
+retail with current levels ranging from 2-3%. This is expected to increase to 8-9% by 202513
+
+ • Indian Food Service Industry is estimated to be USD 47 Bn in FY 17 and has grown at 8% from 
+
+FY 13-1612
+
+Item
+
+CAGR 2020
+
+USD 
+BN
+
+Savoury snacks
+
+Biscuits
+
+Confectionaries*
+
+Baked Goods
+
+Pasta. Noodles & 
+Soup
+
+Others
+
+5
+
+4
+
+3
+
+2
+
+1
+
+2
+
+30%
+
+20%
+
+18%
+
+10%
+
+9%
+
+18%
+
+Edible Oil, 
+18
+
+Pulses, 
+44
+
+Sugar, Salt and Spices, 27
+
+Item
+
+Sugar
+
+Salt
+
+Spices
+
+Pickles/
+ingredients
+
+Pasta. Noodles & 
+Soup
+
+Others
+
+CAGR 2020
+
+USD 
+BN
+
+14
+
+1
+
+10
+
+2
+
+1
+
+2
+
+2%
+
+2%
+
+17%
+
+20%
+
+9%
+
+18%
+
+Vegetables, 
+68
+
+Animal Protein, 56
+
+Item
+
+CAGR 2020
+
+USD 
+BN
+
+Fish and Seafood
+
+Chicken 
+
+Mutton
+
+Beef and Veal
+
+Eggs
+
+Pork
+
+10
+
+12
+
+10
+
+7
+
+5
+
+3
+
+10%
+
+12%
+
+12%
+
+10%
+
+13%
+
+15%
+
+ • Organized segment accounts for 33% and consists of standalone restaurants, chains and 
+
+Source: News Articles, EMIS,Dun&Bradstreet, Industry Reports, Deloitte Analysis
+
+Beverages, 12
+
+Item
+
+USD BN
+
+CAGR 2020
+
+Carbonates
+
+Tea
+
+4.3
+
+2.5
+
+Bottled Water
+
+2.2
+
+Juices & 
+Concentrates
+
+Coffee
+
+2
+
+1
+
+8%
+
+4%
+
+16%
+
+10%
+
+10%
+
+Dairy, 95
+
+Item
+
+USD BN
+
+CAGR 2020
+
+Liquid Milk
+
+Ghee
+
+Others
+
+44
+
+22
+
+29
+
+15%
+
+14%
+
+14%
+
+Cereals, 85
+
+Item
+
+Rice
+
+Wheat 
+Products 
+
+Others
+
+USD BN
+
+CAGR 2020
+
+42
+
+21
+
+21
+
+2.40%
+
+6%
+
+4%
+
+Food 
+service
+
+restaurants in hotels
+
+ • Unorganized segment consists of dhabas, roadside eateries including street stalls, hawkers, 
+
+trolleys, and stand-alone sweet shops
+
+ • India has a young population with 65% of the population born after 1980
+
+ • 31% of income spend is on food, much higher than US (9%), China (25%) and Brazil (17%)11
+
+Customer
+
+ • Cereals and pulses account for 24% of average household spend11
+
+ • Growth in per capita income at 7% between FY 07-FY 16
+
+8  Ministry of Statistics and Program Implementation, GoI, Central Statistics office
+9  World Bank data
+10 CRISIL research
+11 EMIS Insights, research reports, Deloitte analysis
+12 Indian food service report, NRAI
+13 Ministry of Food Processing Industries Annua Report 2015-16
+14 https://www.indexmundi.com/india/demographics_profile.html
+
+08
+
+Dairy and cereals constitute 40% of 
+the food consumed in India. However, 
+changing consumption pattern and 
+health consciousness is driving growth 
+in consumption of protein over 
+carbohydrates in the country. Health 
+consciousness has also moderated growth 
+
+of carbonates in India with people shifting 
+towards natural juices and low sugar 
+beverages. Increasing influence of global 
+cuisine and culture has led to emergence 
+of niche segments like cold press juice, 
+vitamin infused water, condiments like 
+oregano etc. in the country.  
+
+09
+
+Industry 4.0 in Food Industry  | India Food ReportIndustry 4.0 in Food Industry  | India Food ReportKey Trends in the 
+Indian Market
+
+A number of changes are shaping the Indian Food landscape affecting how companies 
+function, how companies interact with consumers, and what consumers are seeking. 
+
+Trends in consumption
+
+Trends in supply
+
+Regulatory trends
+
+ • Health in food 
+
+ • Convenience
+
+ • Make in India to support supply
+
+ • GST
+
+ • Regional to National brands
+
+ • SAMPADA
+
+ • Digitally active consumers
+
+ • Unorganized to Organized
+
+ • FSSAI regulations
+
+ • Product to services
+
+ • Sustainable supply chain
+
+Trends in consumption
+Health in Food
+Changing demographics, fast paced 
+lifestyle, low work-life balance and 
+chaging consumption pattern has led 
+to growth of lifestyle diseases in India. 
+Close to two thirds of the disease 
+burden in India is due to lifestyle 
+diseases with National Health Policy 
+2017 for the first time recognizing the 
+shift in epidemilogy of diseases. With 
+30 Mn diabetes patients15, India is 
+known as the diabetes capital of the 
+world. India has 61 Mn patients15 
+suffering from cardio-vascular 
+diseases and recording an increase 
+in number of people suffering 
+from thyroid problems, obesity, 
+hypertension etc.
+
+Increase in awareness has led to 
+people looking for prevention of 
+these disease. People are increasingly 
+looking for healthier alternatives in 
+food to incorporate health in daily 
+consumption. 
+
+The consumer health market is 
+estimated to be USD 4.8 Bn growing 
+at 5%.
+
+25%
+
+11%
+
+7%
+
+Occurrence of 
+hypertension in 
+urban areas
+
+Occurrence of 
+coronary heart disease 
+in urban areas
+
+CHD patients  
+in India
+
+Health Conscious Food Pattern
+
+Low sugar 
+desserts
+
+Premium cold 
+press juice
+
+Multi-grain, 
+high fibre atta
+
+Low carb high 
+protein diet
+
+10
+
+11
+
+Industry 4.0 in Food Industry  | India Food ReportIndustry 4.0 in Food Industry  | India Food ReportKey Categories in the Consumer Health Market 
+
+Note : All Figures in USD Mn
+
+Consumer Health
+
+4817
+
+~5%
+
+1561
+
+1444
+
+1502
+
+Supplements
+
+OTC
+
+CH 
+Food & Beverage
+
+7%
+
+715
+
+5%
+
+556
+
+14%
+
+290
+
+2%
+
+Dietary 
+Supplements
+
+Weight 
+Management
+
+Vitamins & 
+Minerals
+
+5%
+
+941
+
+5%
+
+339
+
+5%
+
+152
+
+7%
+
+70
+
+21%
+
+Malt-Based 
+Hot Beverages
+
+Baby
+Food
+
+Sports 
+Energy
+
+Probiotic-  
+Dairy based
+
+4%
+
+244
+
+2%
+
+199
+
+3%
+
+155
+
+~2%
+
+128
+
+~1%
+
+100
+
+20%
+
+618
+
+5%
+
+Cough &  
+Cold
+
+Analgesics
+
+GI
+
+Derma
+
+Probiotics
+
+Others
+OTC
+
+Traditional Indian 
+Medicine
+
+Ayurveda- 
+Based
+
+Chyawan-
+prash
+
+310
+
+~3%
+
+208
+
+4%
+
+102
+
+1%
+
+Consumer Health 
+market as defined 
+by Deloitte
+
+Revenue (USD Mn)
+
+CAGR (2013-16) (%age)
+
+Source: Deloitte Analysis, Euromonitor Consumer Health report, 2016 Nicholas Hall DB, Mintel India OTC reports
+
+15 Euromonitor Report, News articles, Deloitte Analysis
+
+12
+
+Saffola’s Healthy Heart Foundation
+
+ •  Saffola launched several campaigns to spread the awareness on role on importance of low cholesterol food for heart health. 
+
+It has brought together stakeholders (doctors, hospitals, citizen groups, etc.) to create partnerships
+
+ •  The company leveraged digital media through online health questionnaires like ‘Heart Age Finder’ and videos like ‘Fit Foodie’  
+
+etc in turn promoting its productrs like low cooking oil and oats
+
+ •  The campaign was estimated to Reach over 100,000 people spurring them to make healthy choices on oil and oats purchases, 
+
+enhancing Safola sales
+
+Health Conscious Food Pattern
+
+Convenient 
+Format
+
+Out of home 
+consumption
+
+On-the go 
+consumption
+
+Convenient to 
+prepare/ order
+
+Convenience 
+Of the total population of India, 443 Mn 
+people are Millenials and 393 Mn people 
+are Generation Z16. A larger percentage 
+of young population and growth in dual 
+income households and nuclear families 
+has led to changes in consumption pattern 
+in the country. Long and stressful work 
+hours, increasing travel time, need to 
+socialize and high disposable income 
+has created a need for convenient 
+food options.
+
+ •  Convenient Format 
+
+People are increasingly looking at 
+packaging to provide convenience. 
+Eastern Spices recently launched idly 
+dosa mix in a package which can be 
+easily carried, used and stored in 
+refrigerator without additional hassles 
+of transferring into containers. Paper 
+boat’s packaging is known to increase 
+shelf life and also gives the feeling of 
+squeezing pulp from a fruit
+
+ •  On-the go consumption 
+
+Mintel research states over half of 
+Indian consumers who snack on dairy 
+drinks do so for convenience. This need 
+for on-the-go consumption has changed 
+pack preferences:
+ –  Sachets over bottlesEx: Rooh Afza
+ –  Ready to drink formats over 
+
+powdersEx: Nityam Churan, Pudin 
+Hara
+
+ –  Food delivered in disposable 
+
+plates–Ex: Freshmenu
+
+16 India Consumer Close-up Report dated 1-June-17
+
+13
+
+Industry 4.0 in Food Industry  | India Food ReportIndustry 4.0 in Food Industry  | India Food ReportBengalore-based Idly and Dosa batter company
+
+ •  The founder of the company, identified the need for a branded product in the 
+
+Idly and Dosa batter industry and established the company in 2005
+
+ •  It provides hygienic and healthy Idly and Dosa batter at competetive prices 
+
+ •  Recognizing the potential of such prodct segments, Azim Premji Led Premji 
+
+Invest pumped USD 25 Mn into iD fresh foods in January 2017
+
+Revenue (In INR Cr)
+
+1000
+
+100
+
+150
+
+250
+
+2016
+
+2017
+
+2018 (P)
+
+2020 (P)
+
+Source: News articles
+
+Indian consumer are becoming digitally aware
+
+Mobile 
+users
+
+Internet 
+users
+
+Smart phone 
+users
+
+2015
+
+1,000 Mn
+
+2020
+
+1,200 Mn
+
+300 Mn
+
+650 Mn
+
+240 Mn
+
+520 Mn
+
+Source: Industry reports
+
+ •  Convenient to Prepare/ Order 
+
+Among all food categories the Ready To 
+Cook/Ready To Eat and packaged food 
+has grown at the fastest rate (CAGR of 
+18-20%)17. The need for convenience 
+has led led to growth of e-grocery and 
+food delivery in India. Further, some 
+companies have started providing food 
+kits and semi-prepared food which is 
+gaining popularity with urban women.
+
+ •  Out of home consumption 
+
+The food service segment is estimated 
+to be USD 48 Bn growing at 10%19. 
+Less time to prepare food at home, 
+increasingly affordability and 
+disposable income has led to growth 
+of Quick Service Restaurants (QSR) and 
+casual dining at CAGR of 22% between 
+2013 and 2016.18
+
+Digitally Active
+Today’s dinner table looks quite different 
+than it did 10 years ago- there is likely a 
+smartphone next to the fork and a laptop 
+or tablet on the dining table. Technology 
+and its awareness among the consumers 
+has changed how people buy, prepare, 
+order, perceive and consume food. 
+
+ •  Online grocery and packaged food 
+
+shopping 
+A significant change that we have seen 
+in favour of online food shopping is that 
+consumers are increasingly overcoming 
+their biases against purchasing items 
+without inspection and safety of online 
+transactions. The e-FMCG market was 
+estimated to be USD 600 Mn in 2016 
+and is set to grow at 60% YoY to reach 
+USD 960 Mn by the end of 201720. 
+Many online giants like Amazon and 
+Flipkart, have launched online grocery 
+businesses in 2017. 
+
+17 Euromonitor report, The Hindu- Business Line
+18 Economic times news article dated 9-June-2017
+19 The Hindu Business line news article dated 22-Sept-16
+20 Financial Express news article dated 7-April-2017
+
+14
+
+ • Online food ordering and delivery 
+Changing consumer lifestyle, young 
+population and increasing disposable 
+income have led to a demand for online 
+food delivery players. These food 
+delivery apps provide convenience 
+of scanning menus, prices and peer 
+reviews across the restaurant. Apart 
+from the restaurants, many aggregators 
+like Food Panda, Swiggy, Zomato, etc. 
+and standalone kitchens like HolaChef, 
+Frehmenu etc have ventured into online 
+food delivery. Recognizing potential 
+in this space, many global giants like 
+Google and Uber have entered this 
+space with Google Areo and UberEATS 
+respectively. 
+
+ •  Online payments 
+
+Payment mechanisms like digital 
+wallets and credit and debit cards have 
+reduced the need of carrying cash. 
+Increased confidence of consumers 
+in security of these mechanisms have 
+largely benifited online transactions 
+of food items. Many apps like paytm, 
+mobikwick, etc. have started giving 
+offers and discounts on payments to 
+selected restaurants..
+
+ •  Social media, blogging, research and 
+
+discussion forums 
+Over 168 Mn social media users in India 
+discuss and share ideas for multiple 
+topics including reviews, suggestions, 
+ratings, etc. on social media platforms. 
+
+Social media websites and apps like 
+Facebook, Twitter, Instagram, Snapchat, 
+Pinterest, etc. are used to read and 
+write reviews, find new places, find new 
+brands of foods and experiment with new 
+cuisines. An industry study suggested that 
+almost 45% of restaurant-goers below the 
+age of 28 years seek at least some review 
+of the restaurant before visiting. More and 
+more consumers are connecting with each 
+other on apps like Zomato, Yelp, etc.
+
+Online food delivery market (In USD Mn)
+
+300
+
+~150%
+
+120
+
+2015
+
+2016
+
+Source: Industry reports
+
+Zomato's monthly visitors (In Mn)
+
+~185%
+
+90
+
+35
+
+11
+
+2013
+
+2014
+
+2016
+
+Source: Financial Express
+
+Nestle-Snapdeal exclusive deal21
+
+ •  Nestle entered into an exclusive deal with e-commerce player Snapdeal
+
+ •  Conducted a flash sale to re-introduce Maggi Noodles into the market in 2015
+
+ •  Sold 70,000 packets in 5 minutes due to the buzz created by advertising and 
+
+social media
+
+ •  Partnered with Snapdeal to launch Maggi Hot Heads and Sunrise Insta filter on 
+
+the website
+
+Source: News articles
+
+21 Industry Reports
+
+15
+
+Industry 4.0 in Food Industry  | India Food ReportIndustry 4.0 in Food Industry  | India Food ReportSupply Trends
+Make in India Initiative
+Government has given priority sector 
+status to food processing industry under 
+the new manufacturing policy 2011 with 
+the aim to improve processing levels from 
+10% to 25% by 202521. Several initiatives 
+have been undertaken to support the agri 
+and food sector in India:
+
+ •  Loans to food and agro based 
+
+processing units and cold chains have 
+been classified as priority sector 
+lending
+
+ •  100% FDI has been allowed in all 
+processed food segment under 
+automatic route leading to growth in 
+FDI investments in food at 13% between 
+FY 13 to FY 1722
+
+ •  In Union Budget FY 18, government 
+created a fund of USD 1.5 Bn for 
+setting up Dairy processing units over 
+three years
+
+ •  Animal husbandry and 
+
+slaughterhouses: Ministry of Food 
+Processing Industries runs a scheme 
+for modernisation of slaughterhouses 
+under the Public Private Partnership 
+mode involving local bodies through 
+Build operate transger (BOT), build-
+own-operate (BOO) or joint venture (JV) 
+mode. 32 slaughterhouses have been 
+approved under this scheme which 
+aim to:
+ –  Set- up new facilities and modernise 
+
+the existing ones
+
+ –  Improve productivity and utilisation 
+
+of bones, skins etc
+
+ –  Promote scientific and hygenic 
+
+slaughtering along with effective 
+waste management
+
+ –  Facilitate better Chilling facility and 
+
+retail cold chain management
+
+ •  Farmer Produce Organisations 
+
+(FPOs): Rising farmer distress and 
+increased farmer debt has led to an 
+increase in FPOs. FPOs are helping 
+mobilize farmer groups at the village 
+
+level to help strengthen farmer capacity 
+and increase productivity. FPOs 
+enable access to fair and remunerative 
+markets by linking producer groups 
+to marketing opportunities through 
+market aggregators. FPOs also reduce 
+supply chain complexity for processing 
+companies as they don’t need to deal 
+with large number of traders but one 
+FPO. At present, there are about 350 
+registered FPOs in India. Further, 
+about 400 FPOs are under registration 
+process and are expected to be active 
+by 2019. A market study suggested 
+increase in per hectare production 
+of up to 10% in 2 years as a result of 
+increase in FPOs23.
+
+Rise of regional brands
+There are several distinct culinary regions 
+in India with tastes and spices preferences 
+varying greatly between states and within 
+states also. Packaged food brands have 
+realised this varied taste and introduced 
+products catering to these different tastes. 
+Regional brands have exhibited agility in 
+experimenting with new products and 
+launching products to capture these 
+regional palate preferences. 
+
+It is estimated that the Indian snack 
+market shall reach USD 5 Bn by 2020 
+growing from the current USD 2 Bn. 
+This growth is expected to be driven 
+by regional snack companies like Balaji 
+wafers, Prataap snacks, Bikaji foods and 
+DFM foods. Crisil research estimates that 
+the regional packaged food players could 
+grow twice as fast as their multinational 
+rivals by 2020.
+
+Banking on more quantity per pack, 
+smaller value packs and increased 
+marketing spends to win market share, on 
+an average, regional snack brands are 
+offering ~30% higher quantity of snacks 
+in their packs than multinational rivals 
+at similar price points, especially in small 
+packet size categories.
+
+22 The Economic Times article dated 28-July-2017
+23 Ministry of Food Processing Industries Report
+
+16
+
+24 Livemint.com article dated 7-Sept-2017
+
+Growth for Indian players in packaged food Revenue in INR Cr
+
+14%
+
+1600
+
+1400
+
+1200
+
+1000
+
+800
+
+600
+
+400
+
+200
+
+0
+
+35%
+
+18%
+
+35%
+
+Balaji wafers
+
+Prataap snacks
+
+Bikaji foods
+
+DFM foods
+
+Source: The Hindu
+
+2015
+
+2016
+
+Examples of growing regional brands:
+
+ •  Haldirams, a leading Indian snack 
+
+company has become household name 
+by catering to the Indian palate with 
+products like “Aloo Bhujia” and “Bhujia 
+Sev”. This has led MNC’s to launch 
+Indian falvoured snacks, for e.g., Nestle 
+launched Bengali Jhhaal, Super Chennai, 
+Amritsari Achari and Mumbaiya Chatak 
+flavours
+
+ •  Paper Boat led the revival of packaged 
+
+ethnic drinks which resulted in 
+category leaders Dabur's Real and 
+PepsiCo's Tropicana to also launch 
+coconut water, jaljeera and mosambi 
+beverages
+
+Recognizing this change in consumer 
+perception towards regional brands, many 
+private equity funds have invested in 
+domestic regional snacking companies.
+
+ •  Sequoia Capital invested USD 30 
+
+Mn in 2011 and USD 3 Mn in 201424 in 
+Prataap Snacks, owner of Yellow 
+Diamond snacks brand. Currently, 
+the brand has presence in Madhya 
+Pradesh, Delhi, Haryana, Uttar Pradesh, 
+Maharashtra and Rajasthan with the 
+aim of becoming a national player. In 
+line with their growth plans, they are 
+also setting up a plant in Chennai to 
+expand in South India 
+
+ •  Lighthouse Funds invested less than 
+USD 14 Mn in Bikaji Foods in 2014
+
+ •  WestBridge Capital Partners picked up a 
+
+25% stake in DFM Foods in 2016
+
+Unorganised to Organised 
+Need for seamless experience and better 
+quality food are the two key drivers for 
+people to chosebranded products over 
+non-branded variants. This has impacted 
+the industry in the following ways:
+
+ •  Platform to shift from unorganized 
+
+to organized 
+Hyperlocal delivery models create a 
+platform for unorganized players to 
+play in the organized market through 
+collaboration. Futher, Goods and 
+Service Tax is driving a shift towards 
+organized suppliers to gain benefits 
+under the new regulations
+
+ •  Emergence of private labels 
+
+Modern retailers have introduced 
+private labels which are priced lower 
+than their branded counterparts. Price 
+sensitive customers who preferred to 
+buy non-branded products because of 
+the price discount are now considering 
+buying private labels, thus shifting to 
+branded products without disturbing 
+their household budgets. Future Group 
+plans to launch a new product, brand 
+or category every two weeks to grow 
+share of private labels to about 70% of 
+the store revenue
+
+17
+
+Industry 4.0 in Food Industry  | India Food ReportIndustry 4.0 in Food Industry  | India Food ReportIndustry 4.0 in Food Industry  | India Food Report
+
+ •  Growth of food chains 
+
+While unorganized food retail is 
+growing at 7%25, standalone organized 
+food chains are expected to grow at 
+14% and chained food brands at 20% 
+in India. BBQ Nation a large food chain, 
+grew from 32 outlets26across 11 states 
+and union territories in FY 13 to 81 
+outlets covering 19 states and union 
+terrirotes by June 2017
+
+Products to Services
+Historically, product companies 
+introduced variants, new product 
+categories and packaging to gain market 
+share. However, we have seen that 
+there is a growing trend of companies 
+launching services to promote captive 
+consumption, increasing share of 
+wallet, creating synergies through 
+ecosystem and hence increasing 
+customer lifetime value. 
+
+Diversification into services enables 
+product oriented companies to bypass 
+retailers and focus on securing consumer 
+loyalty and capturing an increased share 
+of their wallet. Multiple touchpoints 
+with consumers through service models 
+leads to a potentially improved and 
+lasting relationship. It also provides an 
+opportunity for companies to gain insights 
+about their customer preferences and 
+buying behaviour.
+
+Coca Cola offers a rented self-serve 
+restaurant soda dispenser with over 100 
+flavors. The company uses data from 
+sales to improve products. Sula started it’s 
+own vinery resort where it conducts wine 
+tastings and teaches consumers about 
+types of wine.
+
+Drive Brand 
+awareness
+
+Drive Brand 
+awareness
+
+Drive Brand 
+awareness
+
+Drive Brand 
+awareness
+
+Haldiram’s
+
+Venky’s
+
+Karachi Bakery
+
+Wai Wai
+
+ • Established in 1937
+
+ • Established in 1971
+
+ • Famous Hyderbad 
+
+ • Nepal's’ CG Corp which 
+
+ • One of the leading 
+
+ • One of the leading 
+
+snacks and 
+confectionaries players 
+in India
+
+ • Launched stores in 
+
+frozen snacks player 
+in the country offering 
+both frozen poultry and 
+veg snacks
+
+1960
+
+ • Entered QSR business 
+
+ • 100+ stores across the 
+country in 3 formats- 
+QSR, small restaurants 
+and food courts
+
+in 2010
+
+ • Operates 50 outlets 
+
+in major tier-I cities in 
+India
+
+based biscuits brand 
+established in 1953
+
+ • Launched QSR in 2014
+
+ • Currently operating 15+ 
+
+outlets in tier-I cities
+
+manufactures and 
+distributes noodles in 
+India plans to invest 
+USD 38MN in opening 
+restaurants in India 
+over the next 5 yrs
+
+25 Care Ratings Industry report
+26 Forbes India Article dated 21-June-2016
+
+18
+
+19
+
+Industry 4.0 in Food Industry  | India Food ReportA sustainable 
+supply chain
+
+In the changing consumer landscape, 
+the young consumers hold a significant 
+purchasing share in the market. These 
+consumers are relatively more responsible 
+towards handling environment and social 
+concerns. In order to support this, both 
+international and domestic brands are 
+progressively looking for sustainable 
+products to gain business advantage.
+
+The following concepts are gaining 
+importance to promote a sustainable 
+supply chain:
+
+% of shoppers who prefer sustainably produced products (2017)
+
+85%
+
+85%
+
+88%
+
+73%
+
+53%
+
+100%
+90%
+80%
+70%
+60%
+50%
+40%
+30%
+20%
+10%
+0%
+
+01.  Triple Bottomline (TBL) 
+
+UK
+
+USA
+
+Turkey
+
+Brazil
+
+India
+
+Source: FICCI Deloitte Report: KONNECTED to consumers, 2017
+
+Shift required to unlock India’s Potential
+
+High connectivity
+
+Unchecked 
+Consumption 
+
+M
+a
+r
+k
+e
+t
+s
+
+Open-source 
+Sustainability
+
+Resource- 
+intensive 
+consumption 
+
+Demand Shift
+
+Resource- 
+efficient 
+consumption 
+
+Survival of the 
+Richest 
+
+Local Is the  
+New Global
+
+Low connectivity
+
+Source: Deloitte’s report for World Economic Forum
+
+It is an accounting framework with 
+three parts: social, environmental 
+(or ecological) and financial. Some 
+organizations have adopted the 
+TBL framework to evaluate their 
+performance in a broader perspective 
+to create greater business value.
+Focusing on social and environmental 
+responsibility is perceived to drive long 
+term financial gains, improve brand 
+value and consequently enhance 
+shareholder value.
+
+02.  Traceability 
+
+A dynamic regulatory environment 
+with stricter scrutiny on product quality 
+is making it vital for companies to 
+take note of how goods are flowing in 
+the supply chain. The ability to verify 
+the origin and location of products 
+helps identify the source and point 
+of contamination. This helps reduce 
+costs, improved products sourcing and 
+creates a transparent supply chain.
+03.  Need to shift towards open source 
+
+sustainability 
+Increasing pressure on existing 
+resources like land and water needed 
+for agriculture creates a need to 
+adopt a sustainable model in the food 
+industry. Increasinglyconsumers have 
+started to correlate sustainability 
+with healthy food habits. With 
+increasing connectivity and open trade, 
+communities across the globe are 
+becoming vulnerable to demand supply 
+fluctuations. Linking highly connected 
+market with resource efficient 
+consumption is likely to increase 
+international cooperation thereby 
+creating a sustainable supply chain.
+
+20
+
+21
+
+Industry 4.0 in Food Industry  | India Food ReportIndustry 4.0 in Food Industry  | India Food ReportRegulatory Trends
+GST
+Goods & Services Tax (GST) implemented by 
+India is perceived to be one of the largest 
+tax reforms in the world and has had a 
+major impact on the food industry. 
+
+ •  Unorganized to Organized: Companies 
+can look at vendor rationalization and 
+increase share of organized vendors in 
+order to be able to claim tax benefits 
+available under GST. 
+
+ •  Easier Transportation: The removal 
+
+of octroi and entry tax is likely to 
+significantly reduce the time and hassle of 
+transporting goods across State borders.
+
+ •  Logistics Efficiency: GST implementation 
+
+is expected to result in efficiencies in 
+warehousing and logistics space, thereby 
+reducing wastage in food industry. 
+GST could reduce the logistics costs of 
+companies producing non-bulk goods 
+by as much as 20%27, according to an 
+estimate by Crisil Ltd.
+
+ •  Government of India (GoI) Support: The 
+Ministry of Food Processing, GoI has set 
+up a GST facilitation cell for queries in the 
+sector. Recently, GST rates of pasta and 
+noodles have been moved to 12% slab 
+from 18%.
+
+SAMPADA
+Illustrative Mega Food Park
+
+Allow increased control over 
+procurement operations
+
+Provide a touch point for all stake-
+holders in the value chain
+
+Feed Mills
+
+Silage
+
+Fish and Shrimp 
+Processing
+
+Live Stock Farming
+
+Marine fishing 
+Processing
+
+Horticulture
+
+Export
+
+Domestic 
+Sales
+
+Fresh 
+Produce 
+and 
+Value-
+added 
+products
+
+Mega Food 
+Park
+(CPC)
+
+Primary 
+Processing 
+Centre
+
+CC
+
+CC
+
+CC
+
+Farmer 
+Producer 
+Organization
+
+Hybrid Solar/ 
+NG/ Biomass gas 
+power plants
+
+Packaging 
+material and 
+recycling
+
+Skill training and 
+agri machinery 
+services
+
+Logistics and 
+Storage
+
+Finance 
+Management 
+and Financing
+
+Real time 
+farm 
+counselling
+
+Digital 
+Services – 
+IT/ ERP
+
+Waste and 
+effluent 
+management
+
+Increased quality control,  
+especially for exports
+
+27 Livemint.com article dated 26-July-2016
+
+22
+
+Prevent wastage by allowing access 
+to greater storage capacity
+
+In 2017, the GoI launched SAMPADA 
+(Scheme for Agro-Marine Processing 
+and Development of Agro-Processing 
+Clusters) which aims at creation of modern 
+infrastructure with efficient supply chain 
+management from farm to retail outlet. 
+
+ •  Allocation of USD 923 Mn is expected to 
+leverage investment of USD 4,831 Mn28
+
+ •  Handling of 334 lakh MT agro-produce 
+
+valuing at USD 16,019 Mn
+
+ •  Benefit 20 lakh farmers through 
+
+improvements in supply chain, value 
+addition and food safety standards
+
+It is an umbrella scheme for incorporating 
+ongoing and new schemes:
+
+ •  Mega Food Parks 
+
+The aim of this scheme is to link agro-
+processing clusters with key production 
+centers and improve supply chain 
+efficiencies. Mega Food Parks have 
+a hub and spoke architecture with 
+collection centers (CCs) and Primary 
+Processing centers (PPCs) as spokes 
+linked to a central processing center 
+(CPC). CPC is an industrial park in an 
+area of ~ 50 acres that has processing 
+units of different business houses. 42 
+projects have been taken-up of which 
+8 have been made operational (For ex. 
+Patanjali Food and Herbal park in 
+Hardwar, Srini Food Park in Chittoor, 
+North East Mega Food Park) including 
+3 completed. A sum of USD 230 Mn has 
+been allocated for the remaining 34 
+through the duration of the scheme.29
+
+ •  Integrated Cold Chain and Value 
+
+Addition Infrastructure 
+The aim of this scheme is to provide 
+integrated cold chain and preservation 
+infrastructure facilities, without any 
+break, from the farm gate to the 
+consumer. There is an allocation of 
+USD 253 Mn and 101 projects have 
+been approved across 20 states which 
+is expected to add capacity of 2.76 lakh 
+tonnes of cold/ controlled atmosphere/ 
+frozen storage, 56 lakh litres per day 
+of milk processing, 629 refrigerated/ 
+insulated vehicles etc.
+
+ • Creation / Expansion of Food 
+
+Processing & Preservation Capacities 
+The aim of this scheme is to set up new 
+units and modernization/ expansion 
+of existing units. Grants for 35% (50% 
+in north-eastern states and difficult 
+areas) of cost of plant & machinery and 
+technical civil works, maximum of USD 
+0.77 Mn is proposed to be provided to 
+the promoters of qualifying projects.
+
+ •  Infrastructure for Agro-processing 
+
+Clusters 
+This schemen aims to create modern 
+infrastructure for food processing 
+closer to production areas. There 
+are 2 components of the scheme: 
+Basic Infrastructure (roads, water 
+supply, power supply etc.) and Core 
+Infrastructure (sorting, grading, ware 
+houses, cold storages etc.).
+
+ • Creation of Backward and Forward 
+
+Linkages 
+The aim is to create effective backward 
+& forward linkages for perishable 
+agriculture and horticulture produce 
+through setting up of primary processing 
+centers/ collection centers, distribution 
+hub and retail outlets at the front end.
+
+ •  Food Safety and Quality Assurance 
+
+Infrastructure 
+This aims at setting up/ upgradation of 
+quality control/ food testing laboratories. 
+It also aims to motivate food processing 
+industry for adoption of food safety and 
+quality assurance mechanisms such as 
+Total Quality Management, including ISO 
+9000, ISO 22000, Hazard Analysis and 
+Critical Control Points (HACCP), Good 
+Manufacturing Pactrices (GMP) and 
+Good Hygiene Practices (GHP).
+
+ • Human Resources and Institutions 
+
+This scheme aims to promote Research 
+& Development in food processing 
+sector. It also aims to organize 
+promotional activities (seminars, 
+workshops, fairs & exhibitions), 
+advertisements, studies and surveys. 
+
+28 http://mofpi.nic.in/Schemes/pradhan-mantri-kisan-sampada-yojana
+29 http://mofpi.nic.in/Schemes/pradhan-mantri-kisan-sampada-yojana
+
+23
+
+Industry 4.0 in Food Industry  | India Food ReportIndustry 4.0 in Food Industry  | India Food Report 
+ 
+FSSAI regulations
+Food Safety and Standards Authority 
+of India (FSSAI) is an autonomous body 
+established under the Food Safety 
+and Standards Act, 2006 which is a 
+consolidating statute related to food 
+safety and regulation in India. FSSAI is 
+responsible for protecting and promoting 
+public health through the regulation 
+and supervision of food safety. Over 
+the last 2 years, FSSAI has strengthened 
+the regulatory environment as well 
+as improved the compliance of these 
+regulations.
+
+ •  December 2017, FSSAI to establish 
+a self-regulation platform for food 
+companies, retailers stocking packaged 
+food and fast-food restaurant chains. 
+The Responsible Food Companies 
+Score (ReFoc Score) is proposed to be 
+a publicly accessible online platform 
+for companies to rate themselves 
+against parameters such as compliance 
+with regulations, nutritive content, 
+dealing with consumer grievances, 
+upstream and downstream supply chain 
+capacity and promoting food safety in 
+schools. 
+
+ •  May 2017, FSSAI reported that milk 
+
+adulteration in more in North India 
+than South India - FSSAI developed 
+testing kits to check quality of milk and 
+is negotiating with investors for mass 
+production and marketing of the kit           
+
+ • March 2017, import of food items with 
+balance shelf life of less than 60% 
+was banned. This is expected to result 
+in better quality products arriving in 
+India        
+
+ •  October 2016, new standards on 
+
+fortification of food were released. 
+This included increased regulation of 
+fortified foods and Integrated Child 
+Development Schemes to include 
+fortified food           
+
+ •  2015 - Impact of the Maggi ban on 
+
+other companies as compliance levels 
+increased – almost 20 popular brands 
+including Ching's Secret, Top Ramen 
+and Hindustan Unilever's Knorr were 
+selling without requisite approvals from 
+FSSAI when the Maggi ban happened. 
+Hindustan Unilever voluntarily decided 
+to recall its Knorr instant noodles 
+from the market till such time as its 
+application was approved by FSSAI
+
+ •  2015, FSSAI banned Maggi over 
+
+high lead content affecting sales of 
+the entire noodles category. Tamil 
+Nadu banned the sale of Wai Express 
+Noodles, Reliance Select Instant 
+Noodles and Smith & Jones chicken 
+masala noodles         
+
+24
+
+25
+
+Industry 4.0 in Food Industry  | India Food ReportIndustry 4.0 in Food Industry  | India Food ReportImpact of 
+Technology
+
+“Industry 4.0” refers to the digitization of 
+manufacturing and the increasing digital 
+connectivity of product, process, and 
+factory. It marks the rise of smart factories 
+in which new manufacturing technologies 
+allow for greater communication between 
+machines, and machine-level processing of 
+data allows them to adapt instantly to new 
+production requirements. It also refers to 
+the connecting of information systems and 
+sharing of data across the supply chain 
+to improve efficiency. Industry 4.0 offers 
+opportunities for greater efficiencies 
+in energy consumption, real-time yield 
+optimization, and other processes that 
+can be mined from the heaps of data it 
+generates.
+
+Food and drink manufacturers are likely 
+to benefit from the implementation of 
+Industry 4.0 more than most industries. 
+
+ •  The interoperability of connecting the 
+production facility with distributors 
+implies the product gets to market 
+more quickly. This enables for 
+“freshness” to be maintained
+
+ •  Interconnectedness of various 
+
+components of the supply chain is likely 
+to enable end-to-end traceability.
+
+ •  Greater flexibility is likely to enable 
+
+bespoke production for each customer 
+and rapid adaption to changing product 
+specifications
+
+ •  The data mined will help predict 
+
+consumer demand and benefit from 
+increased efficiencies. This is expected 
+to lead to a reduction in demand-supply 
+mismatches
+
+ •  Energy usage could also be monitored 
+
+and optimised to new levels 
+
+Food Ecosystem of the Future
+
+Cultivation
+
+Food 
+Service
+
+Food  
+Retail
+
+Agri-
+logistics
+
+Food 
+Processing
+
+IoT
+
+Cloud Computing 
+
+Distributor
+
+26
+
+27
+
+Industry 4.0 in Food Industry  | India Food ReportIndustry 4.0 in Food Industry  | India Food ReportHowever, there are challenges with 
+adoption of this revolution:
+
+ •  IoT under development: The 
+
+technology for linking manufacturing 
+and supply chain is still under 
+development. It requires collaboration 
+and a high level of trust between 
+diverse businesses at the production, 
+processing, wholesale, and retail levels. 
+Sharing that much information does 
+not come naturally to companies. This 
+kind of transparency also requires 
+improvements in Internet security.
+
+ •  Capital Costs: In addition, many food 
+and beverage companies are using 
+processing and packaging equipment 
+that was installed well before the IoT 
+became a reality with a significant 
+capital overlay. Replacing it may not 
+be an immediate possibility. This 
+manufacturing equipment may have 
+years of useful service remaining if 
+companies are able to upgrade the 
+electronics, the drives, and software.
+
+ •  Skilled Workforce: Another concern 
+for many manufacturers is finding 
+the ideal labour force to run their 
+transformed facilities. 
+
+Digital Agriculture
+Technology is expected to act as a great 
+enabler in improving farm productivity 
+and reducing losses through precision 
+farming. Incorporating latest technology 
+in agriculture is expected to increase 
+farm productivity by as much as 70% by 
+202530 as per a research by Beecham 
+Research. Innovations in farm monitoring 
+devices, forecasting tools, analytics etc. is 
+expected to help farmers achieve target 
+productivity goals. 
+
+ •  Farm Monitoring Devices 
+
+Using robotics for continuous 
+monitoring of farmlands can 
+
+substantially reduce reaction time to 
+threats like pest attack, weed growth 
+etc. Drones can help capture real time 
+images and data to identify origin or 
+spread of problems. Infrared images can 
+help capture crop health. For Eg: plants 
+with higher chlorophyll content look 
+red in infrared. This also helps in taking 
+selective actions for crisis management 
+thereby limiting loss of crops
+
+ •  Data Analysis 
+
+Using effective farm management 
+techniques to gather historical data on 
+soil performance, moisture requirement 
+etc. could help create strategies
+
+ •  Advanced farm equipment  
+
+Sensor fitted tractors and harvesters 
+collect crucial data on soil and plant 
+health. This information is likely to 
+further flow into farm management 
+systems which shall help analyze the 
+data and provide effective insights. 
+As per Machina Research, 225 Mn 
+interconnected devices are expected to 
+be used in agriculture across the globe 
+by 202431
+
+ •  Alternate Farming Techniques  
+
+Though Aeroponics, Hydroponics, Soil-
+less farming, Vertical farming etc. are 
+being practiced in limited scale under 
+controlled environment, it is believed to 
+be the future of farming. With increasing 
+pressure on resources like soil and 
+water, innovation in alternate farming 
+techniques is expected to ensure 
+food security. Temperature controlled 
+environment helps limit use of chemicals 
+and grow seasonal crops throughout 
+the year, thereby improving farmer 
+remuneration and profitability. 
+
+The flexibility provided by digital systems 
+ensure that such tools and techniques 
+could be used for both small scale and 
+larger scale operations.
+
+Panchgaon village in Manesar district in Haryana has launched a project to grow crops in a soil-less environment. The project, 
+commissioned by the Haryana Department of Horticulture, uses coconut fibre instead of soil to grow crops. The fibre is treated 
+with liquid nutrients in a controlled environment to limit use of fertilisers and pesticides. Also, use of LED lights can help crops 
+synthesize in adverse conditions. The crops grown are sold through bulk buyers in Gurgaon and Delhi. The project involved an 
+initial capital investment of USD 90,000 with an annual operating cost of USD 30,000. However, the cost is expected to reduce 
+with increase in scale.
+
+Source: The Better India Article-“Gurguram Adopts Soil-less farming” – July 2017
+
+Blockchain in Food Supply Chain
+Blockchain is a protocol for a digital 
+ledger that enables proof of ownership 
+and the transfer of ownership from one 
+entity to another without using a trusted 
+third party intermediary (like a bank). 
+The value that is transferred could also 
+move through an extended supply chain 
+while ensuring that what occurs at each 
+point in the chain could be chronologically 
+recorded. Blockchain, an immutable 
+shared network, provides each participant 
+end-to-end visibility based on their 
+level of permission. Each participant in 
+a supply chain ecosystem can view the 
+progress of goods through the supply 
+chain, understanding where a container 
+is in transit. They can also see the status 
+of customs documents, or view bills of 
+lading and other data. No one party can 
+modify, delete or even append any record 
+without the consensus from others on the 
+network. This level of transparency helps 
+reduce fraud and errors, reduce the time 
+products spend in the transit and shipping 
+process, improve inventory management 
+and ultimately reduce waste and cost.
+
+Key benefits of blockchain in the food 
+supply chain include:
+
+ •  Transparency: Digital tracking and 
+
+storage of all product information at all 
+stages of supply chain including:
+ –  Farm origination data, growing / 
+
+raising conditions
+
+ –  Factory/processing data
+ –  Batch numbers
+ –  Expiration dates
+ –  Storage temperatures and conditions
+ –  Shipping data 
+
+Register time, location, price, 
+parties involved, and other relevant 
+information can be updated each time 
+an item changes ownership. Thus, 
+no one party is able to manipulate 
+ledger to their own benefit, thereby 
+improving supply chain traceability. 
+This strengthens safeguards related to 
+food authenticity, thus avoiding food 
+fraud. Consumer confidence increases 
+because producers and other related 
+parties are held accountable.
+
+ •  Efficiency: Blockchain improves how 
+
+food is tracked, transported, and 
+sold by:
+ –  Reducing inaccuracies caused by 
+
+traditional paper tracking and manual 
+inspection systems
+
+ –  Enabling retailers to better manage 
+
+product shelf-life
+
+ –  Streamlining distribution process
+ –  Cutting costs and reduces food waste: 
+can be the difference between being 
+able to identify a few tainted packages 
+instead of removing the entire stock 
+from hundreds of stores
+
+ •  Food safety 
+
+Blockchain could create huge progress 
+in food safety - cutting costs and 
+saving lives
+ –  Fewer contamination incidents
+ –  Faster detection of problems
+ –  Recalls can be addressed more 
+
+quickly: can be a difference of days 
+and minutes in discovering why and 
+when contamination occurred
+
+30 Bayer Annual Report FY 2016-17
+31 Bayer Annual Report FY 2016-17
+
+28
+
+29
+
+Industry 4.0 in Food Industry  | India Food ReportIndustry 4.0 in Food Industry  | India Food ReportCoffee is the world’s second-most-traded commodity, after petroleum. According to estimates from the Fairtrade Foundation, 
+~125 Mn people make a living growing coffee. Most of these farmers are smallholders whose families live on less than USD 2 a 
+day. A Denver based company, Bext Holdings is using a combination of visual assaying and weighing (aka a mobile robot), and 
+blockchain for this problem. It allows buyers of coffee to rapidly analyze the quality and weight of a farmer’s product in the field. 
+The robot uses optical sorting to understand what percent of coffee cherries look perfect or spoiled in a batch. A batch, typically 
+a 30-40 lb. bag, will get higher or lower marks, which are revealed to both buyers and farmers on the spot. They then negotiate a 
+fair price through Bext360’s mobile app. The combination of a reliable tracing and blockchain technology allows the company to 
+bring in complete transparency to the coffee supply chain, and other commodities like cocoa etc
+
+Carrefour, a French supermarket chain, significantly increased the customer engagement through the installation of beacons in 
+the store. The technology enabled customers to navigate in-store promotions through their smartphone or tablet. The retailer 
+was able to increase its digital engagement by 400% and app users by 600%
+
+Source: FICCI Deloitte Report: KONNECTED to consumers, 2017
+
+Source: News articles
+
+Things (IoT) in Agriculture and Food 
+Manufacturing
+Growing IoT acceptance is likely to 
+generate more consumer data, helping 
+retailers and consumer companies to 
+deliver more personalized experience to 
+the next-gen shoppers. IoT primarily helps 
+the brands in location-based marketing to 
+target the tech-savvy population. By using 
+IoT, the retailers are enhancing their ability 
+to collect crucial insights, which is helping 
+them to provide an exclusive shopping 
+experience. According to the market 
+sources, the number of IoT connected 
+devices globally are predicted to increase 
+more than two-fold to reach 20.4 Bn in 
+2020 as compared to 6.4 Bn in 2016. In 
+India, though the adoption of IoT started 
+relatively late, it growing at a fast rate.
+
+Number of IoT connected devices - Global vs. India (in Bn units)
+
+CAGR 33.6%
+
+20.3
+
+6.4
+
+CAGR 137.2%
+
+0.06
+
+2016
+
+Global
+
+India
+
+1.9
+
+2020F
+
+Predictive Analytics in Food Retail and 
+Food Service
+The global predictive analytics market 
+is likely to grow at a CAGR of 21% to 
+reach ~USD 10 Bn in 202232. In India, 
+e-commerce, retail and consumer 
+companies are increasingly leveraging 
+analytics for various functions and 
+currently constitute about 1/4th of the 
+user market. Predictive analytics continues 
+to be the most preferred approach as 
+compared to other techniques. The data 
+
+approach helps retailers predict customer 
+needs and consequently increase sales by 
+offering personalized promotional offers 
+to consumers. Retailers are increasingly 
+investing in forecasting techniques to take 
+their complex business decisions more 
+intelligently.
+
+ •  Demand Shaping and Recommending 
+
+similar or related products
+
+ •  Location-based triggers
+
+ •  Customer targeting
+
+In 2016, Starbucks introduced a feature in the USA that uses the customer’s vicinity to receive orders and deliver at the most 
+suitable store, thereby saving a lot of time and improving service delivery. Starbucks has seen an increased loyalty and repeat 
+orders from customers using the “Mobile Order and Pay” app. Orders through this technology account for around 8% of 
+Starbucks’ total U.S. transactions.
+
+Source 1 KONNECTED to consumers, 2017 by FICCI and Deloitte
+
+Source: FICCI Deloitte Report: KONNECTED to consumers, 2017
+
+Industry
+
+Player
+
+IoT Application
+
+Agriculture
+
+Semios 
+
+Sensors to monitor insects and pests and schedule release of pesticides
+
+John Deere 
+
+Sensors installed on farm equipment can communicate sensor data to an app to assist 
+farmers to make adjustments to the mapping layers. Users can set how many seeds are to 
+be planted per acre, how far apart they are to be planted and so on
+
+Dansk Supermarked Group (DSG) is a Denmark based mass-market retailer that serves up to 1.4 Mn store customers a day. 
+DSG is using analytics to match its inventory needs to customer preferences, ensuring that there are no stock-outs yet no 
+overstocking. It does so by predicting the types of food consumers will purchase by analysing recent sales data trends. The 
+approach generates accurate and timely insights into each store’s overall shopping history. The point-of-sale transactions are 
+rapidly analysed to deliver information-rich, actionable reports to key decision-makers throughout the company. Store managers 
+can view in detail exactly what customers purchased the day before which helps the company make the best possible inventory 
+stocking decisions. At the firm level, DSG has the insights it needs to plan for future growth, including opening additional stores, 
+introducing a new convenience-store format, and pursuing promising e-commerce opportunities.
+
+Clean Grow 
+
+Carbon nanotube sensors to monitor level of nutrients in crops, assisting farmers to assess 
+the maturity of produce
+
+Source: LinkedIn Article
+
+Observant
+
+Geo-fencing of livestock, along with irrigation scheduling and pump control
+
+Topcon 
+
+Connected equipment with GPS, real-time monitoring, electronic controls and data 
+analysis for smart decision making during every phase of the farming cycle
+
+OpenIoT 
+
+Remote sensors to help farmers monitor vitals such as humidity, air, temperature, soil, etc.
+
+JJ Food Service
+
+Sensors to monitor different temperature bands and quality of the food being delivered
+
+Purfresh 
+
+Sensors to check on the condition of grocery and other consumables supplied
+
+32 Business Wire Report dated 27-Dec-17
+
+31
+
+Transport & 
+Logistics 
+
+30
+
+Industry 4.0 in Food Industry  | India Food ReportIndustry 4.0 in Food Industry  | India Food ReportConclusion
+
+Industry 4.0 offers the opportunity to be 
+prepared and also to benefit from the 
+changing consumer behavior while helping 
+overcome the resource limitations from 
+
+the supply side. However a sustainable 
+partnership model is essential between 
+government, private firms and industry 
+bodies for promoting Industry 4.0.
+
+Food Value 
+Chain
+
+Drivers
+
+Impact of Industry 4.0
+
+Extent of  
+Impact
+
+Ease of 
+Implementation
+
+Cultivation Improving 
+
+Productivity
+
+Precision farming, digital agriculture for efficient use of 
+resources
+
+Ensuring Supply Use blockchain to connect demand at commodity 
+
+exchange to crop planning
+
+Agri-
+logistics
+
+Quality Control 
+and Loss 
+Reduction
+
+Technologies like blockchain, RFID, IoT allow for 
+traceability across value chain
+
+Efficient storage 
+and distribution
+
+Leveraging technology for implementation of agri-
+logistics platforms such as e-NAM and e-mandis
+
+Food 
+Processing
+
+Food Safety
+
+Identification and containment of foodborne illness and 
+recall/loss through blockchain 
+
+Automation in 
+manufacturing
+
+Exploring automation and predictive maintenance 
+to reduce dependence on manpower and improve 
+efficiency
+
+Regulatory 
+Impetus
+
+FSSAI compliances for label claims, packaging, freshness, 
+along with impetus to processing under Make in India 
+and SAMPADA schemes
+
+Regional to 
+National Brands
+
+Scale up capacity in-line with demand through predictive 
+analytics and use of IoT to be able to react to demand 
+fluctuations
+
+Distributor Ensuring Supply
+
+Food Retail Convenience
+
+IoT allows real-time connectivity between processing 
+facility and distributors which would allow the product 
+to get to market faster and retain "freshness"
+
+Integrate online and offline processes to provide 
+consumers seamless browsing and shopping experience
+
+Customer 
+Engagement
+
+Keep a tab on consumers’ requirements and explore 
+other retail channels and means to appropriately cater 
+to their specific set of requirements
+
+Unorganized to 
+Organized
+
+Leveraging technology to create collaborative and 
+hyperlocal networks
+
+Food 
+Service
+
+Convenience  
+
+Predictive analysis to help predict consumer demand 
+and benefit from increased efficiencies
+
+Customer 
+Experience
+
+Customer
+
+Digitally Active
+
+Dynamic and agile service delivery model
+
+Embed IoT sensors and predictive analytics to track 
+in-store movement of consumers and enable data led 
+decisions
+
+32
+
+33
+
+Legend:
+
+Very high         
+
+High         
+
+Medium
+
+Low
+
+Very low 
+
+Industry 4.0 in Food Industry  | India Food ReportIndustry 4.0 in Food Industry  | India Food ReportContacts
+
+Anand Ramanathan 
+Bengaluru
+ranand@deloitte.com
+
+Avinash Chandani 
+Mumbai
+achandani@deloitte.com
+
+34
+
+Industry 4.0 in Food Industry  | India Food ReportDeloitte refers to one or more of Deloitte Touche Tohmatsu Limited, a UK 
+private company limited by guarantee (“DTTL”), its network of member firms, 
+and their related entities. DTTL and each of its member firms are legally 
+separate and independent entities. DTTL (also referred to as “Deloitte Global”) 
+does not provide services to clients. Please see www.deloitte.com/about for a 
+more detailed description of DTTL and its member firms.
+
+This material is prepared by Deloitte Touche Tohmatsu India LLP (DTTILLP). 
+This material (including any information contained in it) is intended to provide 
+general information on a particular subject(s) and is not an exhaustive 
+treatment of such subject(s) or a substitute to obtaining professional 
+services or advice. This material may contain information sourced from 
+publicly available information or other third party sources. DTTILLP does 
+not independently verify any such sources and is not responsible for any 
+loss whatsoever caused due to reliance placed on information sourced 
+from such sources. None of DTTILLP, Deloitte Touche Tohmatsu Limited, its 
+member firms, or their related entities (collectively, the “Deloitte Network”) 
+is, by means of this material, rendering any kind of investment, legal or other 
+professional advice or services. You should seek specific advice of the relevant 
+professional(s) for these kind of services. This material or information is not 
+intended to be relied upon as the sole basis for any decision which may affect 
+you or your business. Before making any decision or taking any action that 
+might affect your personal finances or business, you should consult a qualified 
+professional adviser.
+
+No entity in the Deloitte Network shall be responsible for any loss whatsoever 
+sustained by any person or entity by reason of access to, use of or reliance on, 
+this material. By using this material or any information contained in it, the user 
+accepts this entire notice and terms of use.
+
+©2018 Deloitte Touche Tohmatsu India LLP. Member of Deloitte Touche 
+Tohmatsu Limited
+
+
