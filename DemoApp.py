@@ -4,6 +4,7 @@ import openai
 import streamlit as st
 from streamlit_chat import message
 
+model="gpt-3.5-turbo"
 def get_initial_message():
     messages=[
             {"role": "system", "content": "You are a McKinsey Partner who is known for his cutting edge insights. Every answer you give must wow the audience & should be worth converting a 100 million USD contract."},
@@ -14,7 +15,7 @@ def get_initial_message():
 
 def get_chatgpt_response(messages, model="gpt-3.5-turbo"):
     response = openai.ChatCompletion.create(
-    model="gpt-3.5-turbo",
+    model=model,
     messages=messages
     )
     return  response['choices'][0]['message']['content']
