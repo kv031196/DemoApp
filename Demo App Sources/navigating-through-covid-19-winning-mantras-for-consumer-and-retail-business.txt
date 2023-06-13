@@ -1,0 +1,1289 @@
+Navigating through COVID-19:
+winning mantras for consumer
+and retail businesses
+Re-imagine, re-invent, reach out!
+A detailed survey (our second edition) on best
+practices adopted by consumer companies
+operating in India while dealing with the global
+COVID-19 pandemic.
+
+June 2022
+home.kpmg/in
+
+Foreword
+The recent 2020 report that we had undertaken, carried a survey of 140+ CXOs across multiple consumer companies to aid
+consumer companies and retailers across India to comprehend how innovative strategies and best practices could lead to a
+positive change over the long run. While we are not yet over the pandemic, we thought of attempting to understand how
+business models are evolving in the new normal as businesses have now resumed closer to normalcy. As part of this survey this
+year, we interviewed close to 100 CXOs across consumer companies covering 10 sub-sectors.
+The COVID-19 pandemic led to profound changes in business models, driven by consumers’ preference for new channels
+offering value and comfort. That consumers are still willing to pay for convenience has persuaded businesses to enhance the
+online presence and go closer to them through innovative means.
+Harsha Razdan
+Partner and Head Consumer Markets
+and Internet Business
+KPMG In India
+
+Analytics-driven culture is increasingly being practiced to understand consumers better and offer personalised experiences—44
+per cent of our survey respondents, for instance, revamped their online platforms to ensure better customer experience (CX).
+ESG has emerged as one of the top considerations for most customers, driving companies to align their corporate purpose and
+values with customers’ expectations. Leading FMCG companies are creating their sustainability plans with a clear focus to
+achieve net zero emission by 2040.
+Industry data suggests that India's consumer digital economy is expected to become a USD1 trillion market by 2030, growing
+from USD537.5 billion in 2020*, driven by strong adoption of online services such as e-commerce and education technology
+(edtech) in the country.
+The key objective of this survey is to show how consumer companies and retailers are adapting to new realities of the postCOVID world by detailing various steps taken by them. While digital transformation is happening at a rapid pace, cyber security
+is an area where more progress is required.
+As the saying goes – ‘A crisis is an opportunity riding a dangerous wind.’ Has your company adopted the new set of
+opportunities to emerge stronger and embrace the future?
+*Ibef, accessed on 14 June 2022
+
+© 2022 KPMG Assurance and Consulting Services LLP, an Indian Limited Liability Partnership and a member firm of the KPMG global organization of independent member firms affiliated with KPMG International Limited,
+a private English company limited by guarantee. All rights reserved.
+
+2
+
+Close to 100 CXOs interviewed across consumer companies covering 10 sub-sectors
+Research methodology
+
+18%
+
+15%
+
+12%
+
+12%
+
+9%
+
+Personal
+care
+
+Consumer
+durables
+
+Retail apparel
+
+Packaged
+foods
+
+FMCG
+
+9%
+
+8%
+
+7%
+
+5%
+
+4%
+
+Manufacturing
+
+Beverages
+
+Health &
+hygiene
+
+Other
+retail
+
+E-commerce
+
+•
+
+Each of the CXOs was
+interviewed digitally on best
+practices used to innovate and
+adapt to changing market and
+operating dynamics.
+
+•
+
+Survey questions were
+structured across the value
+chain to include front office,
+middle office and back office.
+
+© 2022 KPMG Assurance and Consulting Services LLP, an Indian Limited Liability Partnership and a member firm of the KPMG global organization of independent member firms affiliated with KPMG International Limited,
+a private English company limited by guarantee. All rights reserved.
+
+3
+
+Some areas from our previous survey conducted in 2020 continue to gain momentum this year
+as well, while ESG and M&A are new focus areas
+Key trends
+
+2020
+
+Customer centricity
+Digital investments across key
+business processes
+
+2021 and 2022
+
+Over the last two years, consumer companies
+surveyed indicated increased efforts around
+customer centricity, operational improvements
+and employee welfare. However, this year, we
+have seen a rise in digital investments.
+Across sales and channels, focus has been
+on reaching customers with the right value
+proposition along with customer engagement.
+
+Cyber investments
+Operations improvement and cost
+optimisation focus
+
+Order fulfillment and sales and operations
+planning (S&OP), faster R&D and
+alternate sourcing,
+payment cycles
+to vendors and
+cost focused
+procurement
+continue to
+gain traction.
+
+Evolved vendor ecosystem and multisourcing procurement strategies
+Resilient and agile supply chain
+ESG
+M&A
+
+Business as usual
+
+Gaining momentum
+
+© 2022 KPMG Assurance and Consulting Services LLP, an Indian Limited Liability Partnership and a member firm of the KPMG global organization of independent member firms affiliated with KPMG International Limited,
+a private English company limited by guarantee. All rights reserved.
+
+4
+
+Five areas where consumer companies are investing efforts this year
+1
+
+2
+
+3
+
+4
+
+5
+
+Consumer
+centricity
+
+Digital infrastructure
+investments
+
+Operational and cost
+efficiencies
+
+The big ESG
+agenda
+
+M&A and
+valuations
+
+• Enhancing online presence
+
+• Improving operations through
+digitisation
+
+• Amplifying D2C initiatives
+• Opting for digital and social
+media platforms
+
+• Deploying advanced analytics
+to gain visibility into supply
+chains
+
+• Aligning partnership strategies
+• Enhancing production
+with evolving consumer
+efficiency through next
+demands
+generation technologies
+
+• Digitisation of factories, smart
+warehouses powered by data
+and analytics, becoming a
+norm
+
+• Central and State government • Current investment trends
+schemes such as PLI,
+seem to be providing a
+reduction in corporate tax
+premium for ESG-accretive
+rate, etc. providing impetus to
+assets, however establishing
+domestic manufacturing in
+a specific upside remains
+India
+difficult
+• Improving S&OP through
+digital and AI/ML initiatives
+• Changing procurement
+strategies to de-risk supply
+chains
+
+• The market focus has shifted
+from ESG compliance-driven
+to ESG opportunity-driven
+
+• Attractive valuations due to
+distressed companies selling
+at a discount
+• Elongated deal timelines, but
+minimal effect on inorganic
+growth plans
+
+• Cost optimization by
+improving operations as well
+as sourcing and procurement
+
+© 2022 KPMG Assurance and Consulting Services LLP, an Indian Limited Liability Partnership and a member firm of the KPMG global organization of independent member firms affiliated with KPMG International Limited,
+a private English company limited by guarantee. All rights reserved.
+
+5
+
+There is a growing focus on personalised and customisable experiences. Now,
+it is imperative for companies to move out of traditional models and
+experiment with personally relevant platforms that deliver a differentiated
+customer experience.
+
+Pallab Roy,
+Partner – Business Consulting,
+Consumer Markets,
+KPMG in India
+
+©©2022
+2022KPMG
+KPMGAssurance
+Assuranceand
+andConsulting
+ConsultingServices
+ServicesLLP,
+LLP,an
+anIndian
+IndianLimited
+LimitedLiability
+LiabilityPartnership
+Partnershipand
+andaamember
+memberfirm
+firmof
+ofthe
+theKPMG
+KPMGglobal
+globalorganization
+organizationof
+ofindependent
+independentmember
+memberfirms
+firmsaffiliated
+affiliatedwith
+withKPMG
+KPMGInternational
+InternationalLimited,
+Limited,
+aaprivate
+privateEnglish
+Englishcompany
+companylimited
+limitedby
+byguarantee.
+guarantee.All
+Allrights
+rightsreserved.
+reserved.
+
+6
+
+1. Consumer companies witness strong channel shifts
+Trend
+
+Impact
+
+Major changes in consumer
+buying journey
+
+1
+
+• 61 per cent witness strong shift
+to eCom marketplaces
+• 20 per cent see increased
+preference to buy directly from
+the company
+• 19 per cent prefer buying from the
+nearest available option
+
+D2C initiatives on rise
+•
+
+63 per cent rise in
+D2C initiatives
+
+•
+
+For 33 per cent, D2C
+accounted for more
+than 20 per cent of
+overall sales
+
+•
+
+24 per cent took the
+way of hyper
+localisation and hyper
+personalisation
+
+2
+Ecommerce
+gaining clout
+• For 24 percent, eCom
+accounted for more
+than 20 per cent of
+overall sales
+• 44 per cent witnessed
+augmentation of
+company owned
+platforms and growth in
+marketplaces
+
+3
+Focus on sales
+excellence enabled by
+digital marketing
+• 44 per cent tied up
+logistics company for
+last mile delivery and
+used payment options –
+gateway, wallets
+• For 30 per cent, digital
+media spend accounted
+for more than 30 per
+cent of the total media
+spends
+
+© 2022 KPMG Assurance and Consulting Services LLP, an Indian Limited Liability Partnership and a member firm of the KPMG global organization of independent member firms affiliated with KPMG International Limited,
+a private English company limited by guarantee. All rights reserved.
+
+7
+
+2. Digital infrastructure investments across the value chain
+Trend
+
+Impact
+
+Digital initiatives
+gaining clout
+
+Enhanced supply chain
+
+• 80 per cent believe digital
+initiatives aid growth
+
+• 68 per cent have
+improved and/or digitised
+S&OP/supply chain network
+
+• 65 per cent say it is for
+enhanced CX
+
+• 73 per cent witness a shift in
+manufacturing location
+
+• 42 per cent believe it is for
+optimising cost
+
+Improved production
+efficiency and innovation
+• 75 per cent took initiatives to
+improve manufacturing
+capacity (own and/third party)
+• Of the total S&OP initiatives,
+27 per cent focussed on R&D
+and innovation
+
+Impediments to digital transformation
+
+Amplified Cloud
+transformation and
+cybersecurity
+• For 67 per cent cloud
+transformation is on senior
+management agenda
+• More impetus needed on
+cybersecurity, as 28 per cent
+have not done a complete
+assessment
+
+To curb malpractices
+
+33%
+
+24%
+
+22%
+
+18%
+
+43%
+
+20%
+
+19%
+
+17%
+
+Expertise/
+bandwidth
+
+Business
+environment
+
+Change
+management
+
+High cost
+
+conducted training
+and awareness
+session
+
+set up
+deterrent
+
+introduced
+Ethics helpline
+
+used surveillance
+and detection
+mechanism
+
+© 2022 KPMG Assurance and Consulting Services LLP, an Indian Limited Liability Partnership and a member firm of the KPMG global organization of independent member firms affiliated with KPMG International Limited,
+a private English company limited by guarantee. All rights reserved.
+
+8
+
+3. Operational and cost efficiencies to improve EBITDA
+Trend
+
+Impact
+
+• Prices of manufactured
+products increased due
+to rising inflation
+• 73 per cent believe
+Government initiatives
+would provide impetus
+to domestic
+manufacturing
+• 42 per cent and 27 per
+cent, respectively,
+believed the PLI
+scheme and reduction
+in the corporate tax rate
+could support
+manufacturing
+• 24 per cent considered
+revalidating
+the Group’s
+Transfer
+Pricing
+
+Undertook cost
+optimisation
+initiatives
+
+Took price
+increase
+partially/fully
+
+Changed
+supplier base/
+sourcing
+locations
+
+Negotiated with
+vendors for
+better rates
+
+Used
+substitute
+products
+
+32%
+
+25%
+
+19%
+
+18%
+
+5%
+
+34 per cent changed operating model and
+set up a shared service/outsourced
+
+Shared services
+
+Outsourced
+
+60%
+
+Companies managing employee cost
+
+33%
+
+25%
+
+Changed
+compensation
+structure
+
+Outsourced/
+optimized
+shared services
+
+23%
+Increased part
+time/contractor
+mix
+
+20%
+Increased
+fungibility of
+resources
+
+40%
+66 per cent did not make any downward revision and
+delivered growth and bonuses
+
+© 2022 KPMG Assurance and Consulting Services LLP, an Indian Limited Liability Partnership and a member firm of the KPMG global organization of independent member firms affiliated with KPMG International Limited,
+a private English company limited by guarantee. All rights reserved.
+
+9
+
+4. The ESG opportunity as companies are now seeking to be environmentally and social y responsible
+Trend
+
+Impact
+Key drivers behind ESG measures
+
+Key ESG issues impacting consumer companies in the next five years
+
+39%
+
+15%
+
+11%
+
+10%
+
+17%
+
+15%
+
+14%
+
+Enhance corporate
+reputation and
+brand image
+
+Attract investor
+attention
+
+Reduce waste
+and cost
+
+Improve resilience
+to long-term risks
+
+Changing preference
+towards responsible
+products
+
+Environmental
+regulations
+
+Employee Health
+and safety
+
+Resource and
+water availability
+
+7%
+
+6%
+
+5%
+
+5%
+
+11%
+
+11%
+
+8%
+
+5%
+
+Gain competitive
+advantage
+
+Identify
+opportunities to
+grow and innovate
+
+Increase market
+share
+
+Climate change
+and carbon
+emissions
+
+Supply chain
+ESG issues
+
+Labour and
+skill shortage
+
+AI and
+automation
+
+Others
+
+14%
+
+Of all the respondents, 4 per cent do not see ESG issues affecting
+business objectives in the next 5 years
+Consumers' preference for brands with a strong sense of social responsibility as well as employee's health becoming priority
+are driving companies to turn socially responsible and support ESG in the workplace.
+
+© 2022 KPMG Assurance and Consulting Services LLP, an Indian Limited Liability Partnership and a member firm of the KPMG global organization of independent member firms affiliated with KPMG International Limited,
+a private English company limited by guarantee. All rights reserved.
+
+10
+
+5. M&A gaining traction as valuations continue to be steep
+Trend
+
+Impact
+
+• Retail tech segments, within
+the start-up sector, garnered
+42 per cent of deal volume
+• FMCG (retail and consumer)
+witnessed some of the
+marquee transactions in
+2021
+• The food and beverage
+(F&B) sector, along with the
+apparel sector, saw
+heightened traction on the
+deals front, on the back of
+attractive valuations.
+
+M&A
+
+Valuations
+
+•
+
+86 per cent continue to
+look at the opportunities
+with same rigor, despite
+long deal timelines and
+notice no effect on any
+inorganic growth plans.
+
+•
+
+83 per cent see no change in
+valuations, while 24 per cent
+believe valuations have become
+attractive as companies/brands
+under distress are willing to sell
+at a discount
+
+•
+
+60 per cent foresee
+strategic M&A
+opportunities/consolidation
+due to the financial crisis
+posed by the pandemic
+
+•
+
+17 per cent have re-looked their
+strategy and are looking
+aggressively to make
+acquisitions
+
+•
+
+26 per cent believe valuations
+have become expensive as
+COVID-19 has positively
+impacted certain companies
+(e.g.: DTC brands)
+
+© 2022 KPMG Assurance and Consulting Services LLP, an Indian Limited Liability Partnership and a member firm of the KPMG global organization of independent member firms affiliated with KPMG International Limited,
+a private English company limited by guarantee. All rights reserved.
+
+11
+
+As the shift to digital accelerates,
+innovation has become the need of the
+hour. With newer technologies, finding
+solutions to tailor to evolving customer
+experience can play a central role in
+enhancing the digital experience.
+
+Harsha Razdan,
+Partner and Co-head for Clients and Markets
+Sector Head - Consumer Markets
+and Internet Business, KPMG in India
+
+©©2022
+2022KPMG
+KPMGAssurance
+Assuranceand
+andConsulting
+ConsultingServices
+ServicesLLP,
+LLP,an
+anIndian
+IndianLimited
+LimitedLiability
+LiabilityPartnership
+Partnershipand
+andaamember
+memberfirm
+firmof
+ofthe
+theKPMG
+KPMGglobal
+globalorganization
+organizationof
+ofindependent
+independentmember
+memberfirms
+firmsaffiliated
+affiliatedwith
+withKPMG
+KPMGInternational
+InternationalLimited,
+Limited,
+aaprivate
+privateEnglish
+Englishcompany
+companylimited
+limitedby
+byguarantee.
+guarantee.All
+Allrights
+rightsreserved.
+reserved.
+
+12
+
+Eye catching best practices…
+An FMCG
+conglomerate
+established dedicated
+marketing command
+centres and
+introduced its own
+doorstep delivery
+services offering over
+700+ products –
+pan India
+
+A food delivery
+service firm introduced
+a 10-minute
+delivery service,
+targeting a 1-2 km
+radius to fulfil the orders.
+It will use dish-level
+demand prediction
+algorithms, and futureready in-station robotics
+
+A renowned
+payments gateway is
+moving into
+‘assisted
+eCommerce,’ which
+helps individuals and
+families outside of
+India’s largest cities
+move more fully into
+the digital
+ecosystem.
+
+One of the largest Sciencebased Ayurveda majors in the
+country has now become a
+complete 'Plastic Waste
+Neutral company' in India, after
+it collected, processed and
+recycled nearly 27,000 metric
+tonnes of post-consumer plastic
+waste in FY2021-22
+
+Factories are being
+digitised and
+warehouses are
+automated for agile
+operations. Usage of
+intelligent data and
+analytics ensures
+smooth and optimised
+operations
+
+© 2022 KPMG Assurance and Consulting Services LLP, an Indian Limited Liability Partnership and a member firm of the KPMG global organization of independent member firms affiliated with KPMG International Limited,
+a private English company limited by guarantee. All rights reserved.
+
+Contactless orders
+were enabled by an
+ordering app for
+retailers to safely place
+orders while providing
+visibility on logistics
+tie-ups and intuitive
+interfaces
+
+13
+
+‘Now’ is the time to act for consumer companies…
+
+1
+
+2
+
+Growing focus on
+personalised product
+recommendations and
+going beyond
+traditional pointsbased loyalty
+schemes into much
+more customisable
+and personally
+relevant applications
+
+Need a
+multidimensional view of
+your customer. Hence,
+imperative to
+understand the balance
+of digital and
+ecommerce and invest
+to expand ecosystem
+and alliances. Need to
+monitor profitability
+across channels.
+
+3
+Demand for purpose
+is making companies
+move beyond their
+regulatory journey
+and look at key areas
+that would change
+their ways of doing
+business.
+
+4
+
+5
+
+Major force behind
+consumer M&A,
+especially in D2C
+personal care, daily
+groceries and
+companies with
+innovative business
+models
+
+Time to turn to
+chatbots and AI
+driven devices as this
+can be an efficient
+way to cover greater
+volume for lower cost
+
+© 2022 KPMG Assurance and Consulting Services LLP, an Indian Limited Liability Partnership and a member firm of the KPMG global organization of independent member firms affiliated with KPMG International Limited,
+a private English company limited by guarantee. All rights reserved.
+
+14
+
+We see greater adoption of the identified themes across sectors basis our global sector analysis
+Emerging
+themes
+
+Sectors making efforts to adapt to these themes
+
+Observations
+
+Customer
+centricity
+
+FS
+
+PE
+
+G
+
+H
+
+TM
+
+CR
+
+ENR
+
+LS
+
+LS
+
+A
+
+Digital
+transformation
+
+FS
+
+PE
+
+G
+
+H
+
+TL
+
+TM
+
+CR
+
+ENR
+
+IM
+
+LS
+
+Operational and
+cost efficiencies
+
+FS
+
+PE
+
+G
+
+H
+
+TL
+
+TM
+
+CR
+
+ENR
+
+LS
+
+A
+
+ESG and
+sustainability
+
+FS
+
+PE
+
+G
+
+G
+
+G
+
+G
+
+H
+
+B
+
+TL
+
+TM
+
+M&A and
+valuation
+
+FS
+
+PE
+
+H
+
+TM
+
+CR
+
+ENR
+
+IM
+
+LS
+
+A
+
+A
+
+CR
+
+ENR
+
+LS
+
+IM
+
+A
+
+FS
+
+Financial services,
+Includes bank,
+AMCs & insurance
+
+G
+
+Government
+
+B
+
+Building and
+construction
+
+CR
+
+Consumer
+and retail
+
+ENR
+
+Energy and
+natural resource
+
+LS
+
+Life science
+
+PE
+
+Private
+equity
+
+H
+
+Healthcare
+
+TL
+
+Transport
+& leisure
+
+TM
+
+Tech and
+media
+
+IM
+
+Ind
+manufacturing
+
+A
+
+Automobile
+
+Source : KPMG in India analysis based on internal studies, industry and sectoral views from experts
+
+• Consumers are getting spoilt
+with choices across multiple
+sectors. With growing
+aspirations, they are
+communicating with
+stakeholders across the
+ecosystem. Companies now
+need to keep up with these
+trends outside their sectors
+as well
+• Customer experience is
+constantly upgrading, hence
+imperative for companies to
+remain relevant from an
+experience context.
+• Adoption of sustainable
+practices has been on the rise
+across sectors, as consumers
+increasingly prefer socially
+responsible businesses
+• Deal making activity in India
+remains upbeat due to the
+prospects for a stronger
+economy, encouraging
+businesses to look for
+inorganic growth opportunities
+
+© 2022 KPMG Assurance and Consulting Services LLP, an Indian Limited Liability Partnership and a member firm of the KPMG global organization of independent member firms affiliated with KPMG International Limited,
+a private English company limited by guarantee. All rights reserved.
+
+15
+
+A new consumer is looking forward to such
+products that can have a positive impact on
+their lives, society and the environment. In
+the current scenario, focusing on customer
+needs and experience will be a lighthouse
+for staying relevant in business.
+
+Mustafa Surka,
+Partner – Risk Advisory, Consumer Markets, ,
+KPMG in India
+
+©©2022
+2022KPMG
+KPMGAssurance
+Assuranceand
+andConsulting
+ConsultingServices
+ServicesLLP,
+LLP,an
+anIndian
+IndianLimited
+LimitedLiability
+LiabilityPartnership
+Partnershipand
+andaamember
+memberfirm
+firmof
+ofthe
+theKPMG
+KPMGglobal
+globalorganization
+organizationof
+ofindependent
+independentmember
+memberfirms
+firmsaffiliated
+affiliatedwith
+withKPMG
+KPMGInternational
+InternationalLimited,
+Limited,
+aaprivate
+privateEnglish
+Englishcompany
+companylimited
+limitedby
+byguarantee.
+guarantee.All
+Allrights
+rightsreserved.
+reserved.
+
+16
+
+Acknowledgements
+The report has been summarised through various conversations with
+KPMG in India’s client fraternity which included CEOs, CFOs and
+other CXOs of leading consumer companies in India. We sincerely
+thank all each and every CEO/CXO for sharing their thoughts and
+perspectives to make this report an insightful one.
+
+Report Authors
+•
+•
+•
+•
+•
+•
+
+Harsha Razdan
+Pallab Roy
+Mustafa Surka
+Shreya Bapna Jain
+Balamurali Radhakrishnan
+Aparna Nidhi
+
+Compliance and Design
+•
+•
+•
+
+Nisha Fernandes
+Anupriya Rajput
+Venkatesh R
+
+About KPMG in India
+KPMG entities in India are professional
+services firm(s). These Indian member firms
+are affiliated with KPMG International Limited.
+KPMG was established in India in August
+1993. Our professionals leverage the global
+network of firms, and are conversant with local
+laws, regulations, markets and competition.
+KPMG has offices across India in Ahmedabad,
+Bengaluru, Chandigarh, Chennai, Gurugram,
+Hyderabad, Jaipur, Kochi, Kolkata, Mumbai,
+Noida, Pune, Vadodara and Vijayawada.
+KPMG entities in India offer services to
+national and international clients in India
+across sectors. We strive to provide rapid,
+performance-based, industry-focussed and
+technology-enabled services, which reflect a
+shared knowledge of global and local
+industries and our experience of the Indian
+business environment.
+
+© 2022 KPMG Assurance and Consulting Services LLP, an Indian Limited Liability Partnership and a member firm of the KPMG global organization of independent member firms affiliated with KPMG International Limited,
+a private English company limited by guarantee. All rights reserved.
+
+17
+
+KPMG in India contacts
+Harsha Razdan
+Partner and Head - Consumer
+Markets and Internet Business
+E: harsharazdan@kpmg.com
+
+Pallab Roy
+Partner – Business Consulting,
+Consumer Markets
+E: pallabroy@kpmg.com
+
+Mustafa Surka
+Partner – Risk Advisory,
+Consumer Markets,
+E: mustafasurka@kpmg.com
+
+home.kpmg/in
+Follow us on:
+
+home.kpmg/in/socialmedia
+
+The information contained herein is of a general nature and is not intended to address the circumstances of any particular individual or entity. Although we endeavor to provide accurate and timely information, there can be no guarantee that such information is accurate
+as of the date it is received or that it will continue to be accurate in the future. No one should act on such information without appropriate professional advice after a thorough examination of the particular situation.
+KPMG Assurance and Consulting Services LLP, Lodha Excelus, Apollo Mills Compound, NM Joshi Marg, Mahalaxmi, Mumbai - 400 011 Phone: +91 22 3989 6000, Fax: +91 22 3983 6000.
+© 2022 KPMG Assurance and Consulting Services LLP, an Indian Limited Liability Partnership and a member firm of the KPMG global organization of independent member firms affiliated with KPMG International Limited, a private English company limited by guarantee.
+All rights reserved.
+The KPMG name and logo are trademarks used under license by the independent member firms of the KPMG global organization.
+This document is for e-communication only. 009-THL_0622_AR-RV
+
+

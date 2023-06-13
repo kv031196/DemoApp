@@ -1,0 +1,3855 @@
+Resilience in the
+FMCG & Retail Sector
+September 2021
+
+Brochure / report title goes here |
+ Section title goes here
+
+02
+
+Resilience in the FMCG & Retail Sector
+
+Contents
+Foreword
+
+04
+
+Executive summary
+
+06
+
+Redefine the channels
+
+09
+
+FMCG channels (past and future)
+
+09
+
+Emerging trends in channels
+
+10
+
+Challenges for companies to grow online
+
+13
+
+Sustainable initiatives to conduct business responsibly
+
+15
+
+Understanding the green recovery for the FMCG sector
+
+15
+
+What are the consumers looking for?
+
+16
+
+What are the key aspects in the sector to look out for?
+
+18
+
+Leveraging innovation in technology
+
+21
+
+Introduction
+
+21
+
+Agile planning and forecasting
+
+23
+
+Industry 4.0 and IoT
+
+25
+
+Digital procurement
+
+29
+
+Enabling kiranas
+
+35
+
+Evolving channels in India
+
+35
+
+Changing ecosystem around Kiranas
+
+37
+
+The way forward for the Kiranas
+
+38
+
+Connected employees in a new work environment
+
+41
+
+Future of Work Accelerated?
+
+41
+
+Working from home is the new normal. How is India Inc. coping?
+
+41
+
+How will organisations sustain the change?
+The journey from “respond” to “recover” to “thrive”.
+
+43
+
+Conclusion
+
+45
+
+Earlier reports by Deloitte and FICCI
+
+46
+
+About Deloitte
+
+50
+
+About FICCI
+
+50
+
+References
+
+51
+
+Connect with us
+
+52
+
+03
+
+Resilience in the FMCG & Retail Sector
+
+Foreword Deloitte
+
+Rajat Wahi
+Partner
+Deloitte Touche
+Tohmatsu India LLP
+
+Porus Doctor
+Partner and Consumer
+Industry leader
+Deloitte Touche
+Tohmatsu India LLP
+
+04
+
+The COVID-19 pandemic continues to
+affect the Indian economy across sectors,
+including FMCG and retail. What was
+envisaged as a temporary shutdown
+for a few months in 2019, has continued
+to extend to the second and possibly
+third waves globally and in India. Each
+wave brings its own set of challenges for
+sectors as they face massive disruptions
+across the value chain − ranging
+from manufacturing and logistics, to
+distribution and retail due to sporadic/ad
+hoc and continuous lockdowns. We have
+also seen major changes in consumers’
+behaviour as they continued to study
+and work from home for long periods. As
+FMCG companies and retailers continue
+to adapt to the ‘new normal’, they are
+developing alternate routes to market,
+building new business models (including
+Direct to Consumer/D2C), increasing their
+online presence while preserving their
+offline stores and footprint, expanding
+their rurban and rural coverage, etc.
+They have had to embrace technology
+and digitisation to make their businesses
+more agile to minimise disruptions in
+the future. With the shopper journeys
+becoming non-linear, enabled by
+technology and connectivity, companies
+have had to learn to proactively respond
+
+to consumers’ new shopping habits. With
+high streets and malls reopening and
+footfalls returning, FMCG companies
+and retailers will need to adapt their
+marketing plans to the evolved shopper
+journey. They need to create a seamless
+shopping and consumer experience for
+their customers, and put consumers/
+shoppers in the centre of everything they
+do.
+The Deloitte−FICCI report “RESILIENCE IN
+THE FMCG AND RETAIL SECTOR” looks
+at how FMCG and retail companies have
+rapidly adapted to the “new normal” by
+displaying resilience and their desire to
+succeed and realigned their businesses
+and business priorities to enhance
+consumer and shopper experience. They
+have accomplished this by building a
+flexible distribution network, accelerating
+the adoption of the omni-channel
+strategies across brands, continuously
+improving and digitising the supply chain,
+and focusing on sustainable business
+practices to operate efficiently and thrive
+in a new business landscape.
+
+Resilience in the FMCG & Retail Sector
+
+Foreword FICCI
+
+Dilip Chenoy
+Secretary General
+FICCI
+
+Amidst the pandemic, the Indian
+economy has emerged as a vibrant
+economy and contributed immensely
+to global development. The country
+has evolved as one of the most
+attractive investment destinations
+with its expanding middle class, rapid
+industrialisation, and a shift in the
+demographic pattern. In our economy,
+sectors such as retail, Fast Moving
+Consumer Goods (FMCG), and e–
+commerce are consumer centric and
+can be the significant accelerators of the
+economy soon as consumer confidence
+enhances. The government is also
+framing policies and putting in place
+regulations to assist in mitigating the
+pandemic’s impact. While India is one
+of the world’s fastest-growing economy
+and has immense potential, it needs to
+promote participation and involvement
+of businesses to enhance the cause of
+nation-building and achieve the goals of
+inclusive growth and empowerment of
+the people.
+The COVID-19 outbreak made it evident
+how each and every economy is
+vulnerable to disruptions in this VUCA*
+world. As the vaccination campaign
+
+progresses and restrictions ease,
+businesses move from the “respond”
+phase to the “recovery” phase. They
+must incorporate various strategies to
+their model with a special emphasis on
+digital infrastructure. In line with this
+view, the theme for Massmerize 2021 is
+RESILIENCE.
+FICCI Massmerize is a C-level exclusive
+dialogue between the government
+and the retail, FMCG, and e-commerce
+sectors to discuss regulatory issues,
+and macro-economic and consumer
+trends. With the underlying theme of
+‘‘RESILIENCE,’’ the FICCI−Deloitte report
+focuses on analysing the FMCG, retail,
+and e-commerce industries to explore
+innovative strategies assisting industries
+to be resilient.
+We hope that the insights shared
+in this report will help identify new
+opportunities across areas such as supply
+chains, innovative retail business models,
+sustainability, workforce management,
+and leveraging technology to improve
+performance in various sectors, which
+will encourage improved performance in
+various sectors.
+
+* Volatility, uncertainty, complexity and ambiguity
+05
+
+Resilience in the FMCG & Retail Sector
+
+Executive summary
+
+Madhusudan Gopalan
+MD & CEO, P&G Indian Subcontinent
+Chair FICCI FMCG Committee
+
+The two waves of the pandemic have
+rapidly evolved and transformed the way
+businesses and the industry operate, the
+way we operate as businesses, and overall,
+as an industry. Companies and brands
+across sectors, including FMCG and retail,
+have been affected in every aspect of
+the business. The crisis has also given
+us an opportunity to adapt to changing
+realities and meet consumer needs with
+unprecedented agility. The FMCG sector is
+well-positioned to rise to the challenge. In
+the past 18 months, technology adoption
+took place at a breakneck pace across
+the entire value chain; this would have
+taken several years in a pre-pandemic
+world. Companies have accelerated
+innovation across every business aspect
+− product development and marketing,
+manufacturing, retail, or strengthening the
+organisational culture in the new normal.
+
+Although the outlook for the FMCG
+sector remains positive in the long term,
+challenges remain in the near term.
+The most competitive advantage that
+will help businesses chart their course
+through uncertainty, and the fast-evolving
+consumer and retail landscape will be
+RESILIENCE. Resilience needs to be built
+into every aspect of the business rather
+than bolted on as an additional muscle. It
+needs to be built into the manufacturing
+process, daily operations, retail and
+logistic channels, consumer insights, and
+communication. It should also be a part
+of the way we recruit, train, and develop
+people. This will enable businesses to
+withstand short-term challenges and
+continue creating value for consumers and
+the economy. This year’s Deloitte−FICCI
+report has the key theme as RESILIENCE:
+
+R E S I L I E N C E
+
+REdefine the
+channels
+
+Sustainable
+Initiatives to
+conduct business
+responsibly
+
+Leveraging
+Innovation in
+technology
+
+As consumers and brands continue
+to be more “KONNECTED” through
+technology and the internet/e-commerce
+ecosystem, brands must realise that today
+the consumer LEADS the conversation
+(moving from B2C to C2B). They need to
+cater to consumers’ needs in their product
+and service offerings. As a result, brands
+
+06
+
+ENabling
+Kirana’s
+
+Connected
+Employees in
+the new work
+environment
+
+must EVOLVE and REBOOT their business
+models to succeed. The FMCG and retail
+sector has shown resilience and rapidly
+adapted to the new normal. With the right
+support and interventions, the sector
+will play a decisive role in fuelling India's
+economic growth and making a resilient
+comeback.
+
+Resilience in the FMCG & Retail Sector
+
+RESILIENCE for FY ’21 and beyond
+R E S I L I E N C E
+
+REdefine the
+channels
+
+Sustainable
+Initiatives to
+conduct business
+responsibly
+
+COVID-19 brought several challenges and created
+fresh opportunities for trade channels in India. As a
+result, FMCG companies were forced to redefine their
+go-to-market strategies to create a digital ecosystem
+spanning across channels to reach end-consumers.
+Riding on the growth of online channels, FMCG
+companies are exploring their D2C operations and
+expanding their social commerce.
+The FMCG and retail industries exhibited strong
+“RESILIENCE” to overcome the challenges posed by
+the first and second waves. As a result, 2021, so far,
+has been the year of turnaround and innovation.
+Since the beginning of this year, companies have
+been using technology to re-engineer their business
+models to find a way around frequent lockdowns and
+closures, movement restrictions, and consumption
+shift from offline to online.
+
+The crisis forced companies to significantly revamp
+their digital programmes and transition to the
+future of work, with work from home becoming the
+new normal. As a result, many organisations are
+redesigning work, and exploring newer workplace
+and workforce models. The hybrid workplace model
+(physical and remote) is gaining traction. Many
+organisations are gradually embracing a model
+where the office could be used as a collaboration
+zone rather than a pure workplace.
+
+Each chapter of the report looks at current
+major trends in the Indian retail and
+FMCG sector from an Indian perspective.
+The chapters further highlight some
+best practices through case studies. We
+
+Leveraging
+Innovation in
+technology
+
+ENabling
+Kirana’s
+
+Connected
+Employees in
+the new work
+environment
+
+The global pandemic has also pushed the FMCG
+sector to adopt sustainable initiatives across the
+value chain. With the fast-evolving attitude of
+millennials, companies will need to focus more on
+sustainable practices in their businesses, including
+responsible sourcing and sustainable production
+and packaging, end-to end visibility, integration,
+agility, and optimisation. The global disruption has
+also forced organisations to adopt agile planning
+and forecasting as well as accelerate smart
+manufacturing initiatives, digital transformation,
+and procurement to stay competitive in the future.
+
+COVID-19 also pushed the adoption of digital
+technology, enabling kirana stores/neighbourhood
+mom-and-pop shops to adopt technology to expand
+their businesses. More kirana stores are going
+online providing app-based ordering and last mile
+delivery; offering a variety of payment options;
+and automating their bookkeeping, invoicing, and
+inventory management processes. The future of
+retail comprises digitally connected stores with
+customer data integration, real-time inventory
+management, mobile POS, and store operations.
+
+believe that the content and information
+provided in the report will be beneficial
+for stakeholders — consumers, shoppers,
+companies/corporates/industries, the
+government, and the academia.
+
+07
+
+Resilience in the FMCG & Retail Sector
+
+08
+
+Resilience in the FMCG & Retail Sector
+
+Redefine the channels
+In India, the FMCG sector has grown
+on the back of diverse channels, such
+as general trade (GT) (kirana shops,
+mom-and-pop stores, etc.), modern
+trade (regional and national chains), and
+online channels (Direct-to-consumer
+platforms/aggregators). The COVID-19
+crisis brought with it numerous challenges
+and opportunities not only for FMCG
+companies and retailers, but also for trade
+channels. Although the impact varies by
+channel, the channels have continued to
+co-exist, serving as different customer
+touchpoints. Many of them are trying to
+bounce back as markets open up. While
+urban India continues to be the most
+significant contributor to overall FMCG
+sector revenue, rural India's contribution
+to the sector has grown rapidly during
+the pandemic due to increased spending
+power, large population migration from
+urban to rural India, and rising consumer
+aspirations.
+
+India is witnessing rapid changes in
+consumption and a shift in attitude
+amongst customers. Online shopping
+trends seem to have shifted from "buy
+it if you need it" to "I will buy it to try it
+and then decide". This shift in consumer
+behaviour has led to changes in FMCG
+companies’ portfolios. In addition,
+technology-backed innovations, such
+as demand anticipating algorithms, fast
+order fulfilment through the digitised
+supply chain, and digitised operations,
+are enhancing the efficiency of online
+channels.
+
+Towards the later stages of the pandemic,
+significant growth has been seen in
+shopping through online/e-commerce
+channels, driven by frequent lockdowns
+of offline stores, movement restrictions,
+overall trends of nuclear families,
+rising inclination for consumption from
+millennials, preference for premium
+products amongst higher-income groups,
+etc. Faster delivery by online channels
+and multiple modes of payment have
+also fuelled the exponential growth
+of e-commerce. Riding on this online
+shopping trend, major FMCG companies
+built their online presence through
+platforms and their D2C websites.
+Online presence will not only improve
+their availability, but also provide a
+differentiated customer experience
+and educate customers on their brand
+products and usage.
+
+• FMCG companies relied on channel
+partners and distributors to reach the
+targeted audience.
+
+FMCG channels in the past
+• GT (kirana, grocery, mom-and-pop, and
+paan shops) dominated the retail space.
+• FDI investments made a space for bigbox ‘organised’ retailers, cash-and-carry
+players, and e-commerce giants to
+enter the market.
+
+• There has been a rise in Modern Trade
+(MT), especially in metros, and tier 1
+and 2 cities.
+• GT remained the lifeline of distribution.
+• Chemists/pharmacy channels were
+expanding faster and becoming
+relevant to the FMCG sector.
+Channels of the future
+• Growth in evolved mom-and-pop stores
+(called evolved GT) will be fuelled by
+technology adoption, digitisation, and
+urbanisation.
+• MT, both B2B and B2C, is expected to
+grow rapidly in urban areas.
+
+09
+
+Resilience in the FMCG & Retail Sector
+
+• B2B marketplaces (cash and carry
+chains) wil target kirana shops.
+• B2C online retail will be prominent in
+metros/tier1 and 2 cities. Category
+specialists/start-ups will continue to
+target niche segments.
+• E-commerce will continue to grow faster
+in some categories, such as cosmetics,
+baby care, and wellness.
+
+• GT is expected to lose market share;
+transition from GT to evolved GT will
+continue.
+• The emergence of omni-channel
+distribution will merge all channels for
+the consumer.
+• New models – O2O, social commerce,
+subscription services, EBOs, etc., will
+have a sizable share of the retail pie.
+
+Emerging trends in channels
+
+In the retail pie, GT
+share is expected to
+shrink but remain the
+dominant channel.
+
+Retail outlets are
+expected to evolve
+into modern outlets
+with the help of
+technology and newer
+models.
+
+GT
+Kiranas play a significant role in the Indian
+retail sector and contribute almost 80
+percent to the total retail, 11 percent to
+GDP, and 8 percent to its total workforce1.
+They have seen a strong rebound during
+the pandemic, as most kiranas selling
+essentials were allowed to operate
+throughout the lockdowns. Most FMCG
+companies worked hard to adapt their
+manufacturing and distribution to make
+products available at kiranas to ensure
+that consumers could buy essentials. B2B
+distribution aggregators/companies are
+changing how kiranas were serviced in
+
+1
+
+Urbanisation and
+urban consumers
+will fuel growth of
+modern formats of
+retail, including online
+channels.
+
+the past. They are competing with FMCG
+distribution to reach kiranas. Using eB2B,
+companies connect with manufacturers
+directly and procure products with
+the aim of managing inventory more
+efficiently. These companies also have
+access to a broader category of products
+to offer to kiranas in rurban/rural markets.
+Small rurban/rural retailers using the
+digital ecosystem have led to a rise in
+the number of eB2B start-ups; one such
+start-up became a unicorn in just two
+years, showing the tremendous demand
+potential in rural markets and new
+distribution models.
+
+https://www.investindia.gov.in/team-india-blogs/modernization-kirana-stores-india
+
+10
+
+B2B modern trade
+channel will gain
+momentum and
+has the potential to
+disrupt traditional
+distributor-led
+channel.
+
+New models within
+e-commerce
+O2O,D2C,e-B2B,C2C,
+and social commerce
+are emerging.
+
+Resilience in the FMCG & Retail Sector
+
+The eB2B space focuses on the mass
+market, which is price-sensitive and
+demands local products for faster
+availability and convenience of payments.
+Companies in the eB2B space also provide
+logistics and lending capabilities with
+delivery covering more than 900 cities and
+thousands of pin codes. Their apps also
+help gather direct feedback from retail
+stores to provide deeper insights into
+customer behaviour. These channels assist
+stores in improving margins, profitability,
+and inventory management, facilitating
+wider assortment, and providing delivery,
+logistics, and local/regional consumer
+promotion services. Kirana stores are also
+adopting digital payments mediums,
+such as PhonePe, Paytm, and credit
+cards, where earlier a majority of their
+operations were in cash.
+MT
+MT, which accounts for about 12-15
+percent of the total retail, was directly
+and severely affected by COVID-19. The
+pandemic led to a major drop in footfalls
+as many high streets and malls were
+closed for long periods. However, the
+situation is slowly improving as consumers
+have started visiting stores/outlets after
+a reduction in infection cases and deaths
+(following the government’s vaccination
+drive). Even today, MT and e-commerce
+are considered key growth channels for
+the future. Last year, e-commerce growth
+far outpaced other channels. As India's
+middle class expands, leading to increased
+consumption and spending capacity,
+both channels are expected to continue
+to grow. With three main competing
+channels, brands need a differentiated
+portfolio strategy specifically designed
+for each channel. Some retailers have
+even started accepting orders on calls
+and delivering goods on the curbside/
+parking lot; sometimes, consumers walk
+into the store for pick up only, reducing
+touchpoints. Technology adoption for
+improved visibility of inventory, automated
+backend systems, focused marketing
+interventions, in-store sampling and
+merchandising, better product displays,
+
+and creating best-in-class customer
+experience (driven by analytics) are some
+of the factors driving modern trade.
+Online channels
+E-commerce, which accounted for only
+3-4 percent of the total retail in early 2020,
+has seen the maximum growth over the
+past 18 months. The new-age customer
+expects brands to "know me, engage
+me, hear me, empower me, and delight
+me". With rapid digitisation driven by the
+growth of internet and smartphones, the
+increased association of tech in everyday
+lives has made online media and retail
+omni-present. New-age consumers
+engage with online channels throughout
+their shopper journey – ranging from
+discovering products, making buying
+decisions, and sharing it with others, to
+making payment, and thereby driving
+repeat purchases. Heavy media spend,
+deep discounting, wide assortment and
+range, prompt delivery and returns, and
+ease of payments, along with sentiment
+analysis of consumers through social
+listening (to see if a brand product has a
+positive, negative, or neutral impression
+on the consumer), have become a growth
+driver for e-commerce.
+Voice-enabled search has become
+a major growth area for e-commerce
+businesses, driven by the launch of cloudbased voice services, such as Alexa, Siri,
+etc. In addition, devices provide regional
+language options to enable consumers to
+search and order products. E-commerce
+channels also include voice search
+optimisation in their marketing strategy
+to further improve the search and provide
+better options. Powered with Machine
+Learning (ML) and Artificial Intelligence
+(AI), these devices can capture shopping
+behaviour and habits, and provide
+shopper insights to brands. E-commerce
+is driving personalisation, tailored
+experiences for users, and relevant
+recommendations for consumers, based
+on the data they capture and advance
+analytics. These are some of the factors
+driving higher conversion rates online.
+
+11
+
+Resilience in the FMCG & Retail Sector
+
+User-generated, content-based marketing:
+A product’s positive reviews can nudge a
+customer to try a product from a different
+brand. This is the new trust-based,
+peer-to-peer recommendation enabling
+conversions on online platforms. A robust
+pricing and marketing strategy, along
+with many positive reviews based on user
+experiences, can push customers to
+buy a product.
+Influencer marketing - With people
+staying home longer and affinity with
+social media increasing, influencers
+(usually celebrities or well-known
+personalities who endorse products
+online for brands) are a force to reckon
+with in this new digital age. Influencers
+have a stronger connection with their
+subscriber base usually following them on
+social media. Companies engage local and
+international celebrities to garner more
+extensive market awareness with their
+consumers. They also engage regional
+
+influencers to drive conversions in
+various parts of the country. Many brands
+have reaped the benefits of influencer
+marketing. This is likely to become the
+single-largest medium to reach endconsumers, as many celebrities have
+millions of followers, “following” every
+move they make and every product
+they use.
+Another emerging online shopping
+medium is social commerce, which uses
+social media websites, such as Facebook,
+Instagram, and Twitter, as a medium to
+promote and sell products. The reach
+is measured through likes, shares, and
+retweets. It is still a small emerging market
+in India. However in countries such as
+China, one of the messaging and social
+media app is commonly used for online
+shopping; the company’s market value
+rose to more than US$65 billion in
+early 2021.
+
+Retail landscape: India (Outlook)
+GT
+
+GT(E*)
+
+MT B2B
+
+MT B2C
+
+Online
+
+Others
+
+Old kirana
+
+Old kirana
+
+Cash and carry
+
+Supermarkets
+
+Vertical
+specialists
+
+Experience
+centre
+
+Mom n
+pop
+
+Mom n pop-e
+
+Marketplace
+
+Hypermarkets
+
+Aggregators
+
+EBOs
+
+Pan plus
+
+Kiosks
+
+Discount
+stores
+
+Department
+stores
+
+Brand site/
+apps
+
+Used goods
+
+Chemist
+
+Drug stores
+
+Speciality stores
+
+Social
+commerce
+
+Pop-up
+stores
+
+Wholesaler
+
+Convenience
+stores
+
+Drug stores
+
+C2C
+
+Vending
+machines/
+e-stores
+
+Warehouse
+stores
+
+Subscription
+O2O
+
+Conversion
+Source: Deloitte analysis
+
+12
+
+De-Growth
+
+Sustain
+
+Avg Growth
+
+High Growth
+
+Resilience in the FMCG & Retail Sector
+
+Rural markets helped FMCG businesses
+stay resilient during and post-crisis
+India has more than 650,000 villages, with
+60 percent of the population residing in
+these villages2. Many government schemes
+and private sector-led initiatives have
+helped increase consumption in rural
+India over the past decade. For the past 18
+months, the growth in urban centres has
+been slow due to economic lockdowns,
+etc. However, rural areas where GT acts
+as a critical touchpoint for consumers, the
+FMCG sector’s growth has been strong,
+driven by large migration from the urban to
+rural areas and major government financial
+and development schemes (to support
+rural markets, infrastructure development,
+etc). In addition, rural consumers’
+consumption habits are also changing
+as they move away from unbranded,
+unpacked products to branded, packaged
+products, driven by higher income and
+awareness. The rural market’s growth has
+increased the size of the pie for FMCG
+businesses. FMCG companies now need
+to enhance their rural distribution footprint
+to provide better assortment and range, to
+keep consumers engaged with new product
+segments. While urban centres suffered
+during the lockdowns, the rural areas have
+continued to grow for the sector.
+A consumer goods company scaled up
+its rural distribution network through
+a programme many years ago – this
+involved building micro-entrepreneurs for
+distributing their products to households.
+At present, the company has ~1.4 lakh
+micro-entrepreneurs spread across 18
+states. Many FMCG companies have now
+successfully emulated this model. Another
+consumer goods company currently has
+a rural distribution network spanning
+60,000 villages and aims to increase to
+80,000 in two years. Adding products
+(such as ayurvedic items) to the portfolio
+attuned to rural consumers' demands and
+expectations has further propelled the
+sector's growth.
+Challenges for companies to grow online
+While FMCG companies find it easier
+to start a Direct-to-Consumer (D2C)
+model, the initiative is fraught with many
+challenges. These challenges range from
+customer acquisition and retention, order
+fulfilment, payments, and returns. The
+2
+
+increased cost of advertising, leading to
+limited visibility from social campaigns on
+reach and conversion, along with high cost
+of last mile deliveries (as a percentage of bill
+value), makes the proposition of the D2C
+channel less lucrative for FMCG companies.
+Building a differentiated value proposition
+has become key for D2C models.
+Gaining customer loyalty is becoming
+difficult due to increased noise and spend
+on online channels. In addition, with many
+channels distributing brands, channel
+conflicts are becoming a major bottleneck.
+To avoid channel conflicts, many brands
+need to change their strategies and offer
+exclusive/differentiated products, further
+increasing operating expenses. In addition,
+there is margin pressure as more retailers
+compete in the marketplace. E-commerce
+margins are slim, and shipping and
+warehousing costs are higher due to last
+mile delivery and a high rate of product
+returns.
+Many FMCG companies face challenges
+such as a fragmented view of customer
+journey, lack of inventory planning,
+frequent shutdowns, changing consumer
+behaviours, etc., which hamper their
+growth. Organisations need to pivot
+towards data-driven, decision-making
+and digitised businesses to develop a
+single view of customers and inventory to
+facilitate frictionless order placement and
+superior customer experience. The single
+view of customer/inventory provides
+better visibility to the FMCG company
+to optimise forecasting and planning.
+Omni-channel has become a necessity for
+survival. Precise planning from customer
+needs and investments in technology will
+bring the omnichannel strategy to reality
+and help realise the scale for businesses.
+Omnichannel – The future of retail
+Companies are creating a digital
+customer ecosystem through connected
+stores comprising demand generation,
+capturing, and fulfillment. To meet rising
+customer expectations, companies need
+a holistic approach that involves creating
+an ecosystem experience (instead of
+building different experiences through the
+mobile, website, and social media) using
+every touchpoint together as part of an
+omnichannel strategy.
+
+https://www.ibef.org/industry/indian-rural-market
+13
+
+Resilience in the FMCG & Retail Sector
+
+14
+
+Resilience in the FMCG & Retail Sector
+
+Sustainable initiatives to
+conduct business responsibly
+“Sustainability is not a luxury or to be used as a
+marketing tool; with the heightened consumer
+awareness around the concept, sustainability is
+becoming a business imperative.”
+Understanding the green recovery for
+the FMCG sector
+The global pandemic has had an impact
+on lives, livelihoods, and economies. With
+more than 221 million confirmed cases
+and over 4.5 million deaths worldwide (per
+the World Health Organisation, September
+2021), the pandemic’s impact in terms
+of job losses and economic recession at
+the national and global levels has been
+significant. Asian Development Bank
+(ADB) estimates that the global economy
+could incur losses between US$5.8 trillion
+and US$8.8 trillion, equivalent to 6.4− 9.7
+percent of global GDP. However, the
+pandemic has accelerated structural
+change in the FMCG sector that includes
+a shift in channel strategy towards
+e-commerce and focus on health and wellbeing. These changes exposing problem
+areas in the supply chain.
+The FMCG sector is the fourth-largest
+GDP contributor to the Indian economy,
+with an estimated GDP contribution
+
+of 20 percent3. With the sector’s
+growth, consumer awareness around
+products and the inherent impact on
+the environment has become a point of
+concern. Consumers with better paying
+power have already started transitioning
+to sustainable products and/or making
+responsible product choices.
+The global pandemic has triggered a
+level playing platform for several sectors.
+Revival plans have been conceptualised
+considering sustainability across the
+product value chain. Companies not only
+address how they present and package
+their products but also focus on what
+material they use in their products. To
+meet consumer demand, more FMCG
+companies offer compostable, recyclable,
+and reusable packaging. Additionally, the
+use of vegan ingredients is on the rise
+in food as well as non-food items, such
+as cosmetics and cleaning products. For
+example, in the oral care segment, a brand
+has launched a certified vegan toothpaste.
+
+“Sustainability is becoming the epicentre of FMCG
+business strategy. From innovation in the supply
+chain to energy efficiency in the distribution network,
+the sector will take more steps towards reducing
+environmental damage next year.”
+3
+
+https://www.ibef.org/industry/Fmcg-presentation
+15
+
+Resilience in the FMCG & Retail Sector
+
+What are the consumers looking for?
+Consumers are expecting their products
+to be made and distributed ethically with
+limited impact on the environment. They
+are also concerned about food waste
+and plastic packaging. They want to see
+consumer-facing companies exhibit
+sustainable practices in their businesses.
+For example, concerning themselves
+with human rights, limiting their carbon
+emissions, and reducing their use of
+non-renewable energy and water. The
+key drivers of sustainable consumption in
+India can be recognised as:
+
+India may become
+the third-largest
+consumer economy
+by 2025 (consumption
+expenditure to increase
+three times to reach US$4
+trillion)
+Source: Retail Industry in India - Indian Retail
+Sector, Market (investindia.gov.in)
+
+Evolving consumer attitude and choices: Millenials and gen
+Z are focused on how is anything procured and packaged.
+Global market shift: There is a global surge in the
+way FMCG producers are vieiwng value chains and
+ensuring sustainability from cradle to bin.
+Changing environmental and social
+scenarios: The climate change is being
+viewed as a crisis globally.
+
+The major FMCG industry trends
+that address these changes involve
+sustainable solutions for product
+development and packaging, improving
+customer experience, and implementing
+digitalisation. The key changes in the
+consumer behaviour suggest the following
+asks from companies:
+• Sustainable Production:
+In India, millennial population is
+increasing and the average age is
+expected to be 29 by 20254. The
+country will add nearly 90 million new
+households headed by millennials,
+who were born into liberalised India.
+
+4
+5
+
+These consumers have changed the
+expectation of any business they
+interact with. Millennials focus more
+on procuring sustainably grown and
+produced products globally.
+The FMCG sector is being affected
+substantially and is rapidly evolving,
+pledging a move to more sustainable
+practices and investments. This trend
+is catching on with the Indian market
+as well. A recent research done by
+Stern Center for Sustainable Business
+showcases that products marketed as
+sustainable grew 5 .6 times faster than
+those that were not5.
+
+Leading the way
+By 2020, 100 percent strategic
+suppliers of a consumer goods
+company will participate in its
+sustainability programme. The
+group has developed a two-pronged
+approach. It selects suppliers based
+on their environmental and social
+performance and provides them
+training tools. It is recognised as a
+leading company in fighting climate
+change. In the area of sustainable
+production, it is ahead of the target in
+its transformation towards a model,
+low-carbon enterprise.
+
+https://www.investindia.gov.in/sector/retail-e-commerce#:~:text=India%20will%20add%20nearly%2090,of%20600%20million%2B%20by%202025.
+https://sustainablebrands.com/read/business-case/sustainable-share-index-illustrates-roi-for-sustainably-marketed-products
+
+16
+
+Resilience in the FMCG & Retail Sector
+
+Sensing the change in consumer
+behaviour, the FMCG sector has started
+taking steps towards more conscious
+decision-making. It is using lifecycle
+assessment and emission inventory as
+tools to rethink and redesign products.
+For example, another consumer goods
+company endorses its laundry detergent
+brand with campaigns promoting efficient
+water use. These products are said to use
+very less water in the formula and require
+less water to manufacture as well.
+• Sustainable Packaging:
+In the FMCG market, sustainable
+packaging is moving from being purely
+cost driven, towards using a strategic
+resource management approach. In
+the past few years, the market for
+sustainable packaging in India was
+driven primarily by cost reduction.
+However, corporations are now placing
+more thought leadership into their
+sustainable packaging plans across the
+value chain. With India being on the
+brink of leapfrogging from a traditional
+retail economy to an e-commerce
+economy, packaging will become a key
+aspect in ensuring sustainability of the
+product. FMCG companies will have to
+increase the adoption of sustainable
+packaging, as it minimises the
+environmental footprint over a
+period. This can be achieved in the
+following ways:
+– Promoting the use of recycled raw
+materials for packaging
+– Ensuring an efficient production
+process to minimise the production
+process, supply chain, and carbon
+footprint
+– Enabling reusability by developing a
+circular economy related to packaging
+and extending packaging use. For
+example, a company manufacturing
+oral hygiene products in India has
+introduced recyclable toothpaste
+tubes. It is committed to transition
+from manufacturing toothpastes to
+recyclable tubes in the next few years.
+
+Regulatory push towards
+sustainability
+The Indian government is making
+efforts to ensure that packaging
+moves away from single-use plastic
+and becomes more sustainable in
+the future. It introduced extended
+producer responsibility to ensure that
+hazardous waste, including plastic and
+e-waste, is managed effectively and
+responsibly. It is the responsibility of
+the producer to collect and manage
+disposed-off goods. This has, in a way,
+laid new pressure on producers and
+packaging developers to reduce the
+environmental impact of packaging
+as well as comply with regulations
+while satisfying consumers. However,
+this has also brought to the surface
+the need for innovation to support
+the sustainable packaging aspirations
+of FMCG companies and retailers.
+While FMCG companies and retailers
+are making bold commitments to
+improve both the sustainability of
+their packaging and fundamentally
+rethinking their packaging systems,
+there is a long path for this group
+to tread in terms of sustainable
+packaging.
+Key Example: A multinational food
+and drink processing conglomerate
+has committed that 100 percent
+of its packaging will be recyclable
+or reusable by 2025. It has made
+a number of global commitments,
+including the elimination of nonrecyclable plastics. It is working
+towards achieving a waste-free future.
+In 2019, about 87 percent of its total
+packaging by weight and 66 percent
+of its total plastic packaging was
+recyclable or reusable.
+
+Consumers’ awareness about discarding packaging waste into oceans and landfills is
+pushing regulators and FMCG companies to adopt targets and make bold commitments
+to rethink packaging.
+
+17
+
+Resilience in the FMCG & Retail Sector
+
+• Ethical Procurement
+In the past few years, with the adoption
+of SDGs, businesses are facing more
+pressure to prioritise ethical, sustainable,
+and socially conscious practices across
+their value chains. With the pandemic
+disrupting the entire supply chain, it has
+become more evident that the FMCG
+sector cannot flourish without being
+accountable for ethical sourcing.
+In the future, companies need to
+consciously identify blind spots across
+the supply chain, ensure that the gaps
+are bridged, and finally communicate
+transparently and effectively with
+stakeholders. They need to recognise
+that ethically sourced products tend to
+ensure a more secure supply chain. Also,
+responsible sourcing is evolving as more
+organisations aim to balance profitable
+growth with sustainability.
+What are the key aspects in the sector
+to look out for?
+The FMCG sector’s sustainability depends
+on the implementation of sound ecofriendly practices that minimise the
+negative impact on the environment,
+help conserve natural resources, and
+contribute effectively towards social
+needs.
+• Using AI for efficient growth
+AI was deemed useful for a few
+sectors. However, as the technology is
+evolving, AI has found its applicability
+to more sectors, including FMCG.
+With the advancement in algorithms,
+FMCG businesses can easily analyse
+their production units and supply
+chains to identify inefficiencies such as
+security lapses, wastage, and quality
+inadequacies.
+• Data-driven changes
+With the changing consumption
+behaviour and pattern, customer
+relationships are shifting to online
+platforms. The expansion in data
+availability and analysis has presented
+an opportunity to understand a
+
+18
+
+Leading the way
+A multinational food and drink
+processing conglomerate’s annual
+purchases of cocoa are more than
+300,000 tonnes. The company only
+uses sustainably sourced cocoa from
+suppliers accredited by independent
+third parties to make its chocolate
+bars. The company’s Cocoa Plan
+operates across three key pillars:
+better farming practices, better lives of
+employees and their communities and
+better-quality cocoa.
+
+consumer’s needs. This has made it
+important for the sector to rethink how
+they can deliver products/ services
+tailored to individual needs and create
+an engaging customer journey.
+• Embrace the change:
+The Indian consumer landscape is
+changing, with people now accessing
+global trends and becoming more
+aspirational. This leaves no room for
+the FMCG sector to remain complacent.
+It is becoming more important for
+companies to ensure that they stay
+in touch with the latest societal and
+technological developments and
+demonstrate a willingness to leapfrog
+from traditional business models to
+new digital approaches. This can be
+done by ensuring that employee base is
+representative of the diverse consumer
+base and well equipped to apply
+analytical skills to improve the products.
+The shift to a more sustainable path
+makes the future of the FMCG sector
+exciting. The opportunities for commercial
+growth, sustainability monitoring, and
+operational efficiency need to be grasped
+and turned into an integral piece of the
+business model.
+
+Resilience in the FMCG & Retail Sector
+
+19
+
+Resilience in the FMCG & Retail Sector
+
+20
+
+Resilience in the FMCG & Retail Sector
+
+Leveraging Innovation
+in technology
+Role of digitally connected operations in modern day
+consumer supply chains
+Introduction
+Consumer supply chain professionals have
+long focused on the “four Vs” (volatility,
+volume, velocity, and visibility) as they
+attempt to optimise total cost, service,
+quality, and support for innovation. A
+decades-long focus on supply chain
+optimisation to minimise costs, reduce
+inventories, and drive-up asset utilisation
+has removed buffers and flexibility to
+absorb delays and disruptions. However,
+COVID-19 led many operations to rethink
+their vulnerability to global shocks through
+their tiered supply chain network.
+With supply chain resilience becoming
+the cornerstone in the post-COVID-19
+response strategy, emerging business
+models (such as direct to consumer) in
+niche consumer products, and emergence
+of digital business models (such as payper-use) in consumer durables have come
+to the fore.
+
+broken down within the organisation and
+are connected to full supply network to
+enable end-to end visibility, collaboration,
+responsiveness, agility, and optimisation.
+These digital supply networks are
+being built and designed to anticipate
+disruptions and reconfigure themselves
+to mitigate their respective impacts.
+Early adopters and innovative companies
+are shifting to dynamic and integrated
+networks that deliver a continuous flow
+of products, services, information, and
+analytics for decision-making. Traditional
+organisations are evolving their supply
+chain functions to meet the increasingly
+volatile consumer preferences, while
+trying to stay ahead of the competition.
+While the level of emerging technology
+adoption and use cases are relatively low
+in India, it is only a matter of time before
+supply chains across industries would be
+reimagined, improved, and disrupted.
+
+From an India perspective, traditional
+priorities are not likely to change.
+However, supply chain decision makers
+may achieve better performance, with
+supply chain capabilities developed in a
+non-linear environment. Fortunately, new
+supply chain technologies are emerging
+that can dramatically improve visibility
+across the end-to-end supply chain and
+support much more agility and resiliency
+(without the traditional “overheads”
+associated with risk management
+techniques).
+The earlier view of a linear supply chain
+and optimising it for own business is
+transforming into Digital Supply Networks
+(DSNs). In DSNs, functional silos are
+21
+
+Resilience in the FMCG & Retail Sector
+
+Figure: DSNs
+Traditional Supply Chain
+Make-to-use with
+3D Printing
+
+Analytics/sensor-driven
+suggested replenishment
+
+Proactive sensing
+and quality control
+
+Develop
+
+Plan
+
+Source
+
+Make
+
+Deliver
+
+Support
+
+Product
+Innovation &
+Development
+
+Supply Chain
+Planning
+
+Sourcing and
+Procurement
+
+Manufacturing
+Operations
+
+Logistics &
+Distribution
+
+Customer
+Service
+
+Fast deployment with
+cloud-based technologies
+
+Product traceability and
+inventory control
+
+Manage and monitor product
+quality information
+
+Digital Supply Networks
+
+Digital Supply
+Networks
+Digital Core
+Supply Chain
+Functions
+Differentiators
+Source: Deloitte analysis
+
+22
+
+Resilience in the FMCG & Retail Sector
+
+The nuances of creating the DSN will vary
+from sector to sector and even company
+to company. The FMCG and retail
+industries would need to align DSN with
+their business strategy while considering
+risk management as an integral element
+of that design. The key will be to build
+a “resilient” supply chain that seeks to
+reduce risks and is prepared to quickly
+adjust and recover from any unanticipated
+
+supply chain disruptions that occur.
+When fully adopted, DSNs can cause a
+paradigm shift in the operational delivery
+for the FMCG/retail industry. Innovators
+and market leaders would strive to
+achieve operational digital congruence
+– configuration of the right capabilities
+in the right way within their operating
+models.
+
+Agile planning and forecasting
+In the current environment, agile planning
+and forecasting of fast-changing customer
+preferences and disruptions require
+a collaborative effort across multiple
+functions (often working remotely in a
+dynamic manner).
+
+but something driven by internal and
+external drivers that may be beyond an
+organisation’s control. These require
+articulating different scenarios rapidly,
+identifying essential and at-risk suppliers,
+and building capability to model the
+projected financial impact. In line with
+these changes, organisations are revisiting
+their planning process, which have always
+been a demanding and challenging task
+independent of scale and scope. However,
+in the current age of information overflow
+and connected networks, these challenges
+have become even more daunting.
+
+In the ‘new normal’ driven by the
+pandemic, demand does not necessarily
+drive the entire forecasting process.
+Availability of logistics, labour, or raw
+materials may be equally significant
+drivers. Forecasting is no more a
+calendar and workflow-driven exercise,
+
+23
+
+Resilience in the FMCG & Retail Sector
+
+Some of the considerations for the phased journey of agile planning for the FMCG/ retail industry are summarised
+below:industry are summarised below:
+
+Considerations for
+FMCG/ Retail
+• Region/ Statespecific demand
+characteristics
+• Balancing freshness
+vis-a-vis availability
+on shelf
+• Multiple channels
+for sales – modern
+trade, retailers, Govt
+agencies, institutions
+• Changing consumer
+trends, impact
+of promotions,
+campaigns,
+seasonality
+• Operation focus
+v/s planning focus
+: Frequent plan
+revisions to meet
+variability in demand
+and supply
+• Manual/ offline
+modes of planning,
+and limited use of AI/
+ML technologies
+
+Source: Deloitte analysis
+
+24
+
+Maturity journey in agile planning
+
+Year | Quarter | Month | Week | Day | Shift | Hourly
+
+BU | Zones | States | Warehouse | Distributor | Retailer | Customer
+
+Manual Excel | Automation | Heuristics | Optimization | AI
+
+Point of Arrival
+
+• System driven uniform supply
+chain planning processes
+across the organization
+• Demand sensing and shaping
+leveraging structured and
+unstructured data sources.
+Improve forecast accuracy
+• Achieve the right balance
+between agility and stability in
+planning. Improved availability,
+OTIF, and margins
+• Build the base for doing
+advanced predictive analytics.
+Help drive corrective actions
+
+Digitization | Doing Digital | Being Digital
+
+Forecast | Push | Pull | Shape | Sense
+
+• Optimized inventory across the
+chain.
+• Informed decision-making
+process through scenario
+analysis for plan changes
+• Free up planners from
+operational activities, and help
+focus on strategic initiatives
+
+Capacity utilization | Market share | Net margin maximization
+
+• Single source of truth for the
+organization
+
+Resilience in the FMCG & Retail Sector
+
+As companies start on this journey of
+shifting from traditional operating models
+to insight-driven and agile operating
+models, they need to focus on the
+following key areas:
+
+models, new product development
+using real-time customer feedback and
+upcoming megatrends, and extending
+planning processes and visibility to
+vendors.
+
+• Keep the retail customer at the core:
+Typically, organisations focus on
+internal stakeholder requirements.
+They have monthly meetings and a
+sequential approach to supply and
+demand planning. In today’s dynamic
+environment, this rigid structure is
+unable to accurately and timely respond
+to retail customer requirements. Hence,
+the operating model and planning
+processes would need to be relooked at
+with the retail customer at the core.
+
+• Single integrated platform: The platform
+should connect supply chain to finance
+and sales and marketing; use common
+data models, and be capable of real-time
+data capture (e.g., through IoT) and
+parallel processing. This would then help
+the organisation fully unleash the power
+of DSN.
+
+• Focus on collaboration: The operating
+models with focus on agility, allow
+for new areas of collaboration and
+innovation – hyper segmentation for
+personalised customer experience and
+targeting, collaborative distribution
+
+Industry 4.0 and IoT
+Ongoing disruption and economic
+hardship caused by the pandemic have
+increased the urgency for organisations to
+accelerate smart manufacturing initiatives
+to remain competitive in the future. Over
+the next five years, agility will be key to
+how manufacturers manage disruption.
+Investing in digital transformation across
+production and the supply network can
+help manufacturers respond to disruption
+and build resilience to help them thrive.
+Several organisations leverage smart
+factory’s components in areas such as
+advanced planning and scheduling using
+real-time production and inventory data,
+or augmented reality for maintenance. A
+smart factory is a more holistic endeavour,
+moving beyond the shop floor towards
+influencing the enterprise and broader
+
+• Scalable and customisable: As people
+work from home or remotely, real-time
+access to systems would be critical.
+Hence, there is need for stable and
+scalable platforms that allow concurrent
+logins without affecting performance
+and support with continuous monitoring
+of KPIs (through role-based dashboards).
+
+ecosystem. It is a flexible system that
+can self-optimise performance across a
+broader network, self-adapt to and learn
+from new conditions in real or near-real
+time, and autonomously run entire
+production processes. Broadly, a smart
+factory has five key characteristics:
+• Connected processes, materials, and
+equipment
+• Optimised for minimal manual
+intervention and high reliability
+• Transparent network to enable greater
+visibility across the facility
+• Proactive approach for issue
+identification and troubleshooting
+• Agile operations to self-configure
+equipment and material flows with
+staffing, schedule, and product changes
+
+25
+
+Resilience in the FMCG & Retail Sector
+
+A smart factory’s key characteristics are
+connectivity, optimisation, transparency,
+proactivity, and agility. These features can
+play a role in enabling more informed
+decisions and help organisations improve
+
+the production process. No two smart
+factories will look identical. Organisations
+can prioritise various areas and features
+most relevant to their specific needs.
+
+Connected
+Continuously pull traditional
+equipment datasets, new sensor and
+location-based datasets enabling
+collaboration with suppliers and
+customers
+
+Optimized
+Reliable, predictable production
+capacity planning and enhanced asset
+uptime modelling
+
+Agile
+Configurable factory layouts
+and equipment with flexible
+scheduling and changeovers
+
+Transparent
+Live metrics and tools to support
+timely and consistent decision making
+with real time linkages to customer
+demand forecasts, and transparent
+customer order tracking
+Proactive
+Real-time equipment monitoring with
+predictive anomaly identification and
+resolution capabilities
+
+Secure
+Holistic cyber management program
+that extends across the enterprise (IT
+and OT) to identify, protect, respond
+to, and recover from cyberattacks
+
+…And Enables
+
+Improved asset efficiency,
+OEE and reduced
+downtime via real time and
+predictive maintenance.
+Enabling friction less
+operations
+
+Cost efficient processes
+with improved quality
+compliance, safety,
+throughput and
+productivity
+
+Accurate tracking of
+inventory from raw
+materials to customer
+delivery
+
+Historical and real time
+reporting of production
+status, and analytics to
+pinpoint root causes
+of failures resulting in
+empowered workforce
+
+Source: Deloitte article - https://www2.deloitte.com/us/en/insights/focus/industry-4-0/smart-factory-connected-manufacturing.html
+
+26
+
+Resilience in the FMCG & Retail Sector
+
+Smart factory transformations, when done at the plant or enterprise level, create
+significant cost savings, improved product quality, and increased employee satisfaction.
+
+Potential Benefits
+Improved Asset
+Efficiency ~4 to 10%
+
+Improved Quality
+~ 10 to 15 %
+
+Optimized
+capacity
+Asset utilization
+Changeover time
+
+Reduced Costs
+~ 8 to 12 %
+
+Improved Safety &
+Sustainability
+
+Scrap rates
+
+Labor cost
+
+Safety incidents
+
+Fill rate
+
+Inventory levels
+
+Yield
+
+Maintenance cost
+
+Employee
+satisfaction
+
+Lead times
+
+Warranty cost
+
+Downtime
+
+Sustainable
+practices
+Environmental
+impact
+
+Overall equipment effectiveness (OEE)
+Source: Deloitte article - https://www2.deloitte.com/us/en/insights/focus/industry-4-0/digital-lean-manufacturing.html
+
+The following categories provide an overview of the main capabilities within a smart
+factory and address the most pressing factory challenges in India:
+Factory Asset
+Intelligence /
+Performance
+Management
+• Component Health
+Monitoring
+• OEE Insights
+• Plant Control Tower
+• Production Tracking
+• Recipe Optimization
+• Setpoint Optimization
+
+Quality Sensing &
+Detection
+• Continuous Product
+Inspection
+• Predictive Quality
+Analysis Tools
+• Social Sensing and
+Advanced Detection
+
+Smart
+Conveyance
+• AGV Implementation
+• E Kanban System
+
+Smart Warehousing
+Solutions
+• Automated Storage and
+Retrieval Systems (AS/
+RS)
+• Warehouse
+Management System
+(WMS)
+
+Plant Consumption
+& Energy
+Management
+• Automated Energy
+Management Tools
+(Auto shutoff and
+reduced consumption,
+etc.)
+• Energy Waste Alerts and
+Alarms
+
+Augmented
+Workforce Efficiency
+& Safety
+• Augmented Reality
+Training
+• Augmented Reality
+Troubleshooting and
+Guidance
+• Geo fencing / controlled
+access
+
+Factory
+Synchronization &
+Dynamic Scheduling
+• Material Traceability &
+Prediction
+• Asset Location Tracking
+• Dynamic Production
+Scheduling
+• Demand Forecasting
+Insights
+
+Engineering
+Collaboration /
+Digital Twin
+• Equipment Health
+Monitoring
+• Design Simulation
+• Production Simulation
+• Quality Prediction
+
+Source: Deloitte report - https://www2.deloitte.com/content/dam/insights/us/articles/6276_2019-Deloitte-and-MAPI-Smart-Factory-Study/DI_2019-Deloitteand-MAPI-Smart-Factory-Study.pdf
+
+Resilience in the FMCG & Retail Sector
+
+Opportunity value
+
+Organizations can get started down the path to a true Smart Factory at any level of their
+network – value creation can begin with and scale from a single asset.
+
+Single Asset:
+Maximizing the
+performance of
+a single asset
+(E.g.: bottleneck
+equipment's like
+calendaring,
+extruders )
+
+Production Line:
+Improving the
+performance of a series
+of dependent assets
+(i.e., production line or
+manufacturing cell)
+
+Factory:
+Optimizing the
+performance of an individual
+plant by better connecting
+and utilizing assets
+( End to end lighthouse
+factory )
+
+Factory Network:
+Maximize network
+performance by sharing
+capacity across sites in
+real time and connecting
+to the entire supply
+chain and product
+development cycle
+
+Smart Factory Initiative Scale
+Source: Deloitte article - https://www2.deloitte.com/us/en/insights/focus/industry-4-0/smart-factory-connected-manufacturing.html
+
+Consumer business organisations are
+moving away from a single asset model,
+which may not be relevant for them.
+It is key to adopt a business impact
+approach, with focus on improving bottom
+line through smart factory initiatives.
+Understanding the company-specific
+situation will be key in determining the
+potential value at stake of a smart factory
+transformation.
+The smart factory is an evolving solution
+— one that taps into multiple features,
+such as agility, connectedness, and
+transparency. It requires more than just
+a set of connected assets. Organisations
+
+would need a way to store, manage,
+make sense of, and act upon the
+data gathered. Moreover, companies
+would need the right talent to drive
+the journey and the right processes in
+place. Each smart factory journey would
+require transformation support across
+solution design, technology, and change
+management dimensions. Investing in
+a smart factory capability can enable
+organisations to differentiate themselves,
+and function more effectively and
+efficiently in a complex and rapidly shifting
+ecosystem.
+
+Resilience in the FMCG & Retail Sector
+
+Digital procurement
+Digital procurement is the application of
+disruptive technologies that enhances
+the value delivered by the procurement
+
+function. The future of procurement and
+supply chain management in consumer
+businesses is primarily driven by rapid
+technological advancements.
+
+“Anticipative, proactive, intelligent” are the new norms of the next generation SCM function
+Companies embark on a transformation journey to stay ahead of competition in this evolution
+
+S2C becomes
+PREDICTIVE
+
+P2P becomes
+AUTOMATED
+
+SLM becomes
+PROACTIVE
+
+Operations become
+INTELLIGENT
+
+Supply base, prices, costs are
+all predicted empowering
+you to reach transparent
+agreements
+
+Transactions are all
+automated, requiring
+minimal human intervention
+to address incongruity
+
+Risk mitigation strategies
+are proactive, preemptive,
+allowing you to continuously
+optimize ops
+
+Operational oversight
+is real-time enabling
+optimisation of inventory,
+and logistic costs
+
+Anticipating and
+mitigating supply market
+opportunities & risks
+
+Enabling talent
+redeployment to strategic
+procurement
+
+Managing suppliers
+proactively through
+connected digital assets
+
+Driving intelligent
+procurement
+operations
+
+Imagine…
+
+Imagine…
+
+Imagine…
+
+Imagine…
+
+Monitoring risk in
+real-time
+
+Monitoring
+logistics in
+real time
+
+Managing spend in
+real-time
+Predicting demand
+with AI
+Knowing total cost
+for commodities
+Leveraging market
+intelligence for
+assessing sources
+of supply
+
+Automatically
+sensing material
+demand and
+requisitioning
+delivery
+Eliminating
+repetitive
+processing
+Triggering
+payments in
+real-time
+Exchanging
+goods through
+decentralised
+ledgers
+
+Leveraging
+collaboration
+platform
+Performing
+supplier audits
+through crowd
+sourcing
+Monitoring
+sustainability
+via automatic
+reporting and
+visualisation
+
+Proactively trigger
+inventory
+Connect
+Employees and
+suppliers through
+social media
+platforms
+Monitoring slow/
+non moving
+inventories
+
+Source: Deloitte analysis
+
+29
+
+Resilience in the FMCG & Retail Sector
+
+Technological changes taking place at an
+exponential pace will fundamentally affect
+every component of the procurement
+function. Organisations have to ensure
+
+S2C becomes
+PREDICTIVE
+• Spend Analytics
+• eSourcing
+• Electronic Catalogs
+• Contract
+Management
+• Supplier Information
+Mgmt
+• eProcurement
+• eInvoicing
+• eAuctions
+
+that the core technologies engage with
+mature and emerging technologies to
+deliver value
+
+P2P becomes
+AUTOMATED
+Cognitive / Artificial
+Intelligence
+Use: Categorise
+unstructured spend,
+cost, contract,
+supplier data and
+derive strategic
+insights
+Intelligent Content
+Extraction
+Use: Builds
+databases for
+analysis of content
+in contracts,
+specification
+drawings, BOM, etc.
+3D Printing
+Use: Rapid
+prototyping of
+goods/parts in
+support or RFPs
+Visualisation
+Use: Simplifies
+decision making
+by organising
+information and
+insights
+
+Core | Solutions that are
+already Procurement
+mainstays; Larger
+systems with longer
+implementation
+High
+Source: Deloitte analysis
+
+30
+
+SLM becomes
+PROACTIVE
+Collaboration
+Networks
+Use: Maintain supplier
+information in the
+cloud, measure,
+analyse, & manage
+supplier performance,
+and identify, monitor,
+and escalate
+supplier risk
+Predictive / Advanced
+Analytics
+Use: Predict cost/price
+fluctuations, demand,
+supplier/country risks
+to enable proactive
+decision making
+Crowdsourcing
+Use: Monitoring
+trends and events
+impacting supply
+chains or suppliers
+Robotics (RPA)
+Use: Automates
+multiple repetitive
+manual tasks (e.g.
+some P2P tasks),
+driving efficiency and
+reducing risk
+
+Maturing | Solutions that are transforming Procurement with
+minimal investment
+
+CURRENT DEPLOYMENT IN Supply Chain
+
+Operations become
+INTELLIGENT
+Blockchain
+Use: Verify and
+validate transactions
+in the P2P process;
+trigger automated
+payments
+Sensors / Wearables
+Use: Detect
+movement of goods,
+inventory levels for
+reordering, enable
+audit tracking during
+site visits
+Cyber Tracking
+Use: Proactive
+monitoring of
+supplier behavior
+and social media
+sensing
+Virtual Reality /
+Spatial Analytics
+Use: Conducting
+supplier visits or
+audits
+
+Emerging | Solutions that
+could impact Procurement in
+the future
+
+Low
+
+Resilience in the FMCG & Retail Sector
+
+Why is it important to digitise
+procurement?
+Digital procurement solutions have
+enabled physical and digital inputs to
+be connected, thereby driving improved
+decision-making and efficiency. These
+solutions offer the following benefits:
+• Improved insights and strategies,
+leading to accelerated cost leadership.
+Embracing digital technologies can
+enable companies save considerable
+amount of costs.
+• Improved vendor collaboration for
+enhanced speed to market and easier
+innovation aligned to market dynamics,
+customer preferences, and competitor
+actions.
+• Enhanced process excellence, leading
+to greater organisational efficiency
+and effectiveness. With technological
+advancements, different teams find it
+easier to work in sync. For example,
+collaboration with retailers has become
+more seamless. Increased collaboration
+and integration of data with retail stores
+in real time is gaining significance, as a
+means to sense and shape demand.
+
+• While today’s globalised sourcing
+and manufacturing processes are
+driving down costs, they have a high
+exposure to risk. Consumer electronics
+manufacturers and OEMs will need
+to invest in data integration, business
+intelligence capabilities, KPI tracking
+ability of suppliers, event tracking
+capabilities, etc., This will ensure that
+they are pro-active (rather than reactive)
+and swiftly respond to changes by
+improving risk mitigation.
+• Companies are taking initiatives to
+augment simplicity and increase
+customer satisfaction. For example,
+providing upfront inventory information
+to the customer on the order placing
+platform itself would make the platform
+much more intuitive for the customer.
+• With digital procurement, managing an
+enterprise-wide transformation can be
+executed effectively. Companies will be
+in a better position to react quickly to
+market trends and customer demands.
+
+Key considerations to embark on digital procurement transformation
+• Procurement maturity – A digital procurement strategy should take into account the
+current level of core technology maturity.
+
+Core Technology Maturity
+
+If your Core
+Technology Strategy
+looks like...
+
+Minimalist
+Little to no investment
+in core technology
+
+Typical
+Moderate investment
+in core digital
+technologies
+
+Advanced
+Significant investment
+in core technologies
+and early adopter of
+enhanced applications.
+
+...Then your
+Maturing & Emerging
+Technologies need to
+
+Leapfrog
+Take advantage of
+enhanced digital
+application to offset
+select core investments
+
+Plug Gaps
+Invest in technologies
+that can complement
+your existing core
+
+Accelerate
+Choose where you
+want to excel and
+differentiate
+
+Maturing and Emerging solutions that will transform Procurement in the near future
+
+Source: https://www2.deloitte.com/content/dam/Deloitte/us/Documents/process-and-operations/us-cons-digital-procurement.pdf
+
+31
+
+Resilience in the FMCG & Retail Sector
+
+• Digital strategy – An organisation
+needs to have a well-defined business
+transformation strategy and execution
+plan before embarking on the digital
+transformation journey. Setting the
+strategy is critical and often the hardest
+part. Digital transformation projects
+require a different approach and
+thinking. Hence, a strong ecosystem of
+experts and technology partners are
+required to strategise, execute, and
+reshape the business processes using
+emerging technologies.
+• Choosing the right partner – An
+organisation should choose a partner
+with an extensive technology consulting
+expertise and experience in digital
+transformations. They must have the
+capabilities to use a wide array of
+emerging technologies and technology-
+
+enabled services to act as a catalyst
+to the business transformation. The
+organisation must carefully examine
+their transformation stories, demos,
+and detailed discussions to assess if the
+company is a good fit.
+• Digital solutions - The digital
+transformation partner the company
+chooses must thoroughly understand
+the business goals, existing processes,
+and the ideal technologies of digital
+transformation suited for streamlining
+business processes. The digital solution
+should be customisable, scalable,
+and flexible to meet the business
+requirements. It must enable faster
+time-to-market using advanced
+technological building blocks to expedite
+implementation.the implementation
+
+Digital procurement in consumer context in India
+Focus areas for FMCG and Retail
+Prevalent practices in the
+current scenario
+• Not much effort is spent
+on vendor development &
+performance management
+• Heuristics-based inventory
+norms. Low adherence to the
+defined norms
+• Broad understanding of pricing
+factors, do not use statistical
+modelling techniques
+• Positions on physical inventory
+and derivatives are used for risk
+management.
+• Buyers’ performance measured
+by comparing their wt avg price
+against avg market price
+
+Source: Deloitte analysis
+
+Maturity index
+
+Industry best practice
+
+Overall Maturity Index
+Area
+Analyze supply
+market and
+qualify suppliers
+Procurement and
+inventory strategy
+Manage
+commodity price
+
+Manage
+commodity risk
+Performance
+mgmt. and
+alignment to org
+objectives
+
+1
+
+2
+
+3
+
+4
+
+5
+
+• Use digital tools for supplier
+identification, onboarding &
+performance measurement
+• Prescriptive
+recommendations provided
+by tools are leveraged to
+manage inventory
+• Codify intelligence into
+advanced analytical models
+for forecasting prices
+• Hedging is part of the
+procurement strategy and
+have mature in-house
+trading desks
+• Track buyer performance
+against price forecasts &
+budget through a buyer
+console
+
+Resilience in the FMCG & Retail Sector
+
+• A majority of these firms are in the
+developing stage (scoring 3 on a
+5-point scale) of their supply chain and
+procurement process. They are not in
+the performing/leading stage.
+• Chief Procurement Officers (CPOs’) must
+first analyse their procurement maturity
+and quick wins in this space. After that,
+they must identify the segments needing
+improvement on priority.
+
+• Digital procurement transformation
+primarily requires digitisation
+capabilities. These capabilities can be
+built internally in the organisation.
+However, it often requires expertise of
+seasoned professionals. Hence, external
+recruitment is critical. In India, many
+firms do not have advanced digitisation
+capabilities.
+
+Example
+Digital transformation in procurement for one of the largest global CPGs
+To move from an “operational heavy”
+to a “value focused” organisation,
+the organisation initiated a digital
+transformation programme for its
+procurement function. The programme
+covers its markets and centres of
+excellence in Europe, India, and the US.
+The engagement led to the following
+benefits:
+• About 30-40 percent hours of
+savings from buyers’ effort and ~10%
+enhancement in Value in Purchasing
+(VIP)
+• Contract TAT < 2 days
+• Supplier on-board seven times faster
+• Automated and standardised global
+price forecast generating platform improved no-touch forecasting and
+forecasting accuracies
+• About 90 percent NTPO and ZTPO
+enabling responsive and intelligent
+operation
+
+33
+
+Resilience in the FMCG & Retail Sector
+
+34
+
+Resilience in the FMCG & Retail Sector
+
+Enabling Kiranas
+Evolving channels in India
+The MT and online distribution models are eating into the traditional GT market share.
+However, the GT channel is expected to remain dominant in the short run, especially in
+non-metros and rural markets.
+1%
+
+1%
+
+88%
+
+5%
+
+2%
+1%
+
+4%
+5%
+15%
+
+33%
+
+68%
+
+14%
+
+2%
+8%
+%Share - 2018
+
+1%
+
+5%
+4%
+
+8%
+
+15%
+
+20%
+
+% Share - 2025 (E*)
+
+% Share - 2030 (E*)
+
+EBOs/Experience Centers
+Subscription/D2C(H)
+Home Shopping
+Online Commerce
+General GT/Kiranas
+Evolving GT (with POS,
+tech, instore help)
+Modern Trade B2B
+Modern Trade B2C
+
+Source: Deloitte analysis
+
+More than 12 million neighbourhood
+stores, popularly known as 'kirana walas',
+dominate India's retail. With ~90 percent
+share in retail, kiranas are the highest
+contributor to GT6; they have been the
+backbone of the Indian retail ecosystem.
+These kiranas (Indian mom-and-pop
+stores, family-run shops, “paan” outlets,
+etc.) sell various items, including groceries,
+food, over-the-counter products, and
+vegetables. Their importance grew during
+the pandemic as they were classified as
+an “essentials” business and allowed to
+operate throughout the lockdowns (with
+some restrictions). Indians have continued
+to depend on their neighbourhood kiranas
+for their everyday needs. This trend was
+further reinforced during COVID-19.
+Old kirana shops
+In late 90’s, kirana stores deployed manual
+methods of operations, including billing,
+bookkeeping, and inventory management.
+6
+
+They were not accepting digital modes of
+payment. Shopkeepers did the product
+placement themselves; store layout was
+sub-optimal and stores were cluttered.
+Most kirana stores carried limited stock
+keeping units (SKUs), were dependent on
+distributors/wholesalers, deployed nonregulated credit arrangements, and had
+little or no visibility into their inventory.
+However, kiranas have continued as the
+important link for Route to Market for
+reaching end-consumers in India for many
+categories. A traditional approach with a
+solid distributor-led GT network ensured
+robust growth for large companies.
+New-age channels are contributing to the
+growth of the retail market, creating new
+opportunities for brands and consumers,
+and challenging existing/conventional
+RTMs. In partnership with these new-age
+channels, many FMCGs and start-ups are
+innovating to tackle issues related to supply
+chain, delivery, payment, and credit.
+
+https://www.orfonline.org/research/digitising-indian-retail-analysing-challenges-and-exploring-growth-models/
+35
+
+Resilience in the FMCG & Retail Sector
+
+Low
+
+Control over Trade
+
+High
+
+Traditional Distributor-led
+Company
+
+Wholesaler
+
+Distributor
+
+Up-country
+Retailer
+
+Retailer
+
+Intermediaries
+includes –
+Depots, clearing
+and forwarding
+agents, stockists,
+super stockist,
+sub–distributors
+FoS support for
+Last mile –
+Sales reps with
+permanent
+journey
+plans (PJPs)
+(distributors,
+company, third
+party), hawkers,
+etc.
+
+Mini Distributors
+
+Mega Distributors
+
+Distributor for main
+geography (e.g. city,
+district)
+
+Large business entity
+CnF/stockist chosen to
+cover 1-2 state(s)
+
+Wholesalers cover
+out-of-coverage areas
+(leveraged to enhance
+reach)
+
+May also have local
+influence
+
+Has been the go-to
+model for a large
+number of FMCG
+companies in the past
+
+New Age
+
+Typically involves longterm strategic alliance –
+significant investments
+Used by large
+companies with huge
+product portfolios
+
+B2B
+
+Modern
+Retail
+
+E/M Commerce
+
+On-Demand/
+Tech
+
+Company
+
+Company
+
+Company
+
+Big Box
+Specialty
+Stores
+Cash &
+Carry
+
+Own
+Aggregators
+
+e-B2B
+
+Mrketplace,
+Apps, Social
+Platforms,
+O2O, e-B2B
+
+Social
+
+E-Marketplace
+
+Consumers
+
+Consumers
+
+More control but high
+investment model
+
+Through aggregator
+platforms
+
+Usually a company directly
+bills retailers
+
+Through own sites and apps
+
+B2B, and cash and carry
+(C&C) models are gaining
+traction like metro C&C
+Serves as a branding avenue
+
+Subscription models
+becoming popular in some
+categories
+O2O models successful
+in China; companies are
+exploring O2O routes
+B2B trade platform, designed
+specifically for SMBs
+Social commerce using social
+platforms
+
+Source: Deloitte analysis
+
+36
+
+When
+consumer
+wants, where
+consumer
+wants
+
+Consumers
+
+On-demand models gaining
+traction; already adopted in
+food delivery and personal
+transport
+Leading consumer goods
+company taking initiatives
+Technology-enabled
+distribution platforms for
+rural India
+Food delivery platforms used
+for running daily household
+tasks/delivery
+
+Resilience in the FMCG & Retail Sector
+
+How is Kirana evolving?
+New-age kirana stores offer customers a
+wide variety of payment options ranging
+from credit/debit cards to UPI-based
+mobile payment methods. They use a
+range of technological interventions
+to automate bookkeeping, tax returns,
+inventory management, invoicing, etc.
+Product shelves are better organised to
+ensure maximum visibility. Some stores
+allow a self-service model to provide
+maximum convenience to customers.
+Effective inventory management leads
+to a decrease in a number of damaged,
+expired products and increased inventory
+turnover, while ensuring that consumers
+get products when they need.
+During COVID-19, these stores showed
+resilience and adopted technology to
+support consumers – taking orders
+through mobile calls and WhatsApp and
+delivering the same day . GT is a pricesensitive segment, but the stock turnover
+is high. GT owners used their relationship
+with brands and customers, and trustbased selling during the order placement
+calls by nudging customers to try different
+brands when customers’ requested
+brands were not available during the
+lockdowns.
+Kirana stores have also expanded their
+product portfolios, understanding
+changing product adjacencies due to
+consumer needs and expectations. This is
+especially true as consumer behaviour has
+changed, and the convenience of home
+delivery has gained significant traction.
+The trend has helped increase the basket
+size (as there was a minimum order cap)
+and brought cross-selling and upselling
+opportunities for kirana stores. Based on
+stores owners’ knowledge of customer
+ordering behaviour and preferences, trustbased recommendations for different
+product brands and categories also
+supplemented the sale.
+COVID-19 made some short-term and
+long-term changes in consumption
+
+behaviour. As a result, some product
+segments that were earlier missing from
+the consumer's cart, have become part
+of regular orders. Kirana stores have
+also worked on the visibility of broader
+category items through anticipating
+customer needs. Many stores have also
+taken the initiative to go online and used
+app-based ordering to speed up product
+stocking. Further digitising this channel,
+which is the most significant contributor
+to the FMCG sector, will open new growth
+opportunities.
+Changing Ecosystem around Kirana
+The FMCG industry is being disrupted
+through digital innovation. Companies
+and start-ups are innovating across the
+value chain to service kiranas effectively.
+FMCG companies are focusing more on
+direct to outlets through their portals/apps
+and marketplace models. Companies are
+trying to make their products available
+on-demand with multiple delivery options,
+reducing the cost of supplying to channel
+partners by partnering with B2B delivery
+aggregators. Delivery aggregators also
+help ensure the supply chain is robust
+by reducing dependency on traditional
+transporters. B2B trade platforms/
+aggregators provide stock to kirana
+stores while offering additional benefits,
+such as easy returns, multiple sellers and
+brands, and easy access to credit. With
+access to alternate data sources and
+new-age underwriting models, several
+fintech players are offering kiranas
+working capital loans across the country to
+facilitate their business.
+FMCG companies: FMCG companies have
+a role to play as they deploy innovative
+technologies around order taking, trade
+promotion schemes, and incentives, etc.
+FMCG companies also need to deliver
+customised merchandising and optimised
+product assortment to transform their
+kirana servicing. Companies are facing
+the pressure of channel conflicts between
+traditional channels and online channels,
+especially in B2B players servicing kirana
+
+37
+
+Resilience in the FMCG & Retail Sector
+
+and other outlets. They need to work with
+both the channels and their distributors to
+ease these conflicts.
+Supply Chain Partners: Intermediaries
+such as wholesalers will also need to
+transform and add value to the supply
+chain in inventory management, financing,
+assortment planning, and distribution.
+Third-party logistics providers will need to
+ensure that their systems and processes
+support the transformation of kirana
+shops.
+Government: Suitable government
+policies will drive the large-scale
+transformation of the kirana ecosystem.
+Systems that drive ease of compliance
+and specific interventions from the
+government will ensure that stakeholders
+play their part as we shift towards a more
+digitally enabled retail ecosystem. Retailer
+associations can partner with government
+organisations and technology providers to
+modernise kiranas.
+Start-Up and Technology providers:
+Start-up firms are innovating to
+enable kirana owners to accept digital
+payments and easily access credit. In the
+e-commerce space, players could also
+partner with new kirana store owners
+to solve last-mile delivery challenges in
+semi-urban, rural areas. Several start-ups
+
+38
+
+also provide a host of business service
+solutions to ease the burden of store
+operations, thereby allowing kirana
+owners/operators increase their customer
+focus.
+The way forward for Kiranas
+Kirana store owners need to collaborate
+with logistics companies to solve last-mile
+delivery challenges. Large companies
+can strengthen their hyper-local strategy
+through partnering with kiranas and using
+existing retail space as a warehouse to
+supply to local kiranas. Kirana stores can
+also play an essential role in enabling
+other industries to connect with endcustomers to facilitate last mile connect/
+delivery. Financial services companies
+can use kirana outlets to provide ancillary
+services to customers. FMCG companies
+will need to reimagine their retail
+ecosystem, while continuing to partner
+with kiranas to leverage their strong
+connects and trust with end-consumers.
+
+Resilience in the FMCG & Retail Sector
+
+Digital Store of future: Concept
+
+Digitally connected stores
+
+Clienteling
+integration
+
+Real-time inventory
+visibility
+
+Mobile POS
+integration
+
+Store
+Operations
+
+Enable store
+associates to spend
+more time helping
+the customer during
+their shopping
+journey
+
+IoT-powered
+inventory solution
+provides accurate
+and real-time
+inventory across
+store, and supports
+timely re-orders
+
+Offer mobile
+point of sale for
+speedier checkout
+and endless aisle
+capability (ship-tohome)
+
+Improve capabilities
+to manage the store
+and staff to better
+serve customers and
+complete tasks
+
+Omnichannel shopping enablement: Support buy-online, pick-up in-store for today’s
+digital customer’s “want-it-now” shopping experience
+In-store digital experience promotion: Offer best-in-class in-store digital experiences
+including wayfinding and calling for in-app assistance
+Campaign promotion support: Ability to identify and target specific set of customers based
+on buying propensity
+Digital Reality integration: Offer innovative ways of finding additional product information
+to make purchase decisions
+Self-checkout integration: Provision contact-less self-checkout using IoT sensors and
+embedded payment methods
+Shopper 360: Address pain points of shopping experience
+
+Source: Deloitte analysis
+
+Satisfied customer
+Uptick in average bill value and brand advocacy
+
+Drive in-store traffic
+Provide better experience
+
+Store 360: Assist in elevating experience and overall service level
+
+Resilience in the FMCG & Retail Sector
+
+40
+
+Resilience in the FMCG & Retail Sector
+
+Connected Employees in
+the new work environment
+Future of Work Accelerated?
+As the world copes with the uncertainty of
+the pandemic, India Inc. has been working
+overtime, initially formulating responses
+to the immediate crisis. Now with almost
+a year and half of experience, the industry
+is testing the efficacy and relevance
+of different strategies. Government
+regulations are also evolving in a bid to
+support growth and employment while
+ensuring that subsequent COVID-19 waves
+do not affect the country in the same way
+that it did a few months ago.
+The Future of Work comprises three
+equally important dimensions ‘Work’ (what
+can be automated), ‘Workforce’ (who can
+do the work) and ‘Workplace’ (where is the
+work done).
+COVID-19 as an accelerator in the
+transition to the envisaged future of
+work
+Historically, the pace at which people,
+businesses, and public policy have
+changed has usually been slower than that
+of technology evolution. With the current
+crisis forcing change, we asked CXOs if
+they see the change being sustainable,
+and they answered in a strong affirmative.
+The acceleration of the Future of Work
+seems to have been due to a breakdown
+of legacy mindsets, digital adoption,
+and new demands being placed on
+businesses and employees. This pandemic
+has forced businesses and public policy
+to significantly revamp their digital
+programmes.
+
+Is acceleration uniform across levers of
+work, workforce, and workplace?
+Automation and cognitive technology
+investments have not been a focus area
+during the crisis as leaders are largely in
+the “respond” phase. However, we see
+key shifts in the way “workforce” and
+“workplace” are perceived:
+01. Businesses have started bringing in
+alternative workforce models and
+leveraging the gig economy.
+02. The idea of a hybrid workplace
+(physical and remote) is gaining
+traction. Many organisations are
+gradually embracing a model where
+the office will be used more as a
+collaboration zone than as a pure
+workplace.
+Working from home is the new normal.
+How is India Inc. coping?
+To test our hypotheses, we studied 42
+reputed Indian organisations through a
+combination of survey and one-on-one
+conversations with CXOs. We identified
+seven key learnings from the current crisis,
+which could potentially accelerate the
+Future of Work in India.
+01. Business Continuity Challenges: A
+collaborative effort was required to
+minimise disruption arising from the
+attachment to physical assets, lack of
+IT infrastructure, and social structure.
+About 55 percent CXOs agreed that
+their IT infrastructure (availability
+of hardware, internet, and remote
+access) fell short of facilitating a
+smooth transition to remote working.
+About 40 percent CXOs have already
+
+41
+
+Resilience in the FMCG & Retail Sector
+
+initiated a review of how roles can be
+redesigned to minimise attachment to
+physical assets (heavy machinery and
+confidential systems). Organisations
+will need to redefine their HR policies
+to enable changes in ways of working.
+02. Adoption of Collaboration Tools:
+The key shift seems to have been in
+adoption of, rather than investment
+in, virtual tools for collaboration.
+About 75 percent CXOs said they did
+not have to invest in new platforms
+for virtual collaboration. Instead,
+they saw a surge in ‘forced adoption’
+of tech platforms. About 60 percent
+CXOs stated collaboration seems
+to have significantly increased. The
+decision-making process has also
+become more efficient, possibly
+due to greater efficiency of virtual
+meetings.
+03. Workforce Productivity: Leaders
+believe that individual employee
+productivity has in part, increased
+as a result of remote working. About
+70 percent CXOs have reported ‘no
+impact’ or increase in individual
+employee productivity. Disruption
+to the workplace has placed greater
+demand on operations, IT, and HR
+teams, as they had to play a larger
+role in facilitating remote working.
+Roles that require cognitive thinking
+or independent/project-based work
+have seen a positive impact on
+productivity as employees manage
+their time more effectively. At a
+fundamental level, organisations
+agree that productivity as measured
+by clear process outcomes or hours
+worked, has not suffered. They still
+need to evaluate whether quality or
+innovation has improved.
+04. Employee Wellness and Learning:
+As the crisis has propelled greater
+focus on employees’ physical wellbeing, more than 70 percent CXOs
+confirmed that their organisations
+have set up dedicated programmes to
+work on employee wellness. Several
+
+42
+
+organisations also made massive
+collaborative efforts to manage the
+second wave. The learnings from that
+will remain with companies as they
+plan future wellness initiatives for
+their employees. CXOs also reported a
+three time increase in training efforts,
+as organisations use virtual channels
+to impart future-ready skills.
+05. Everyone in it together: About
+90 percent CXOs say workforce
+is putting in more working hours.
+Absenteeism was significantly low
+during the crisis. About 72 percent
+CXOs also believe that the team lead’s
+role will be important for leading the
+organisation through the change and
+their managers have been stepping
+up to the task.
+06. Agility as a key lever of success:
+About 60 percent CXOs felt that the
+breakdown of traditional organisation
+structures helped them reorganise
+based on priorities. About 85 percent
+leaders stated that agility of their
+workforce to adapt to the new ways
+of working surprised them the most.
+It was the one big takeaway for them
+from the crisis. Organisations that
+proactively created empowered
+teams to facilitate large-scale
+migration to virtual working reported
+lower disruption.
+07. Gig workforce: About 60 percent
+organisations are evaluating
+increasing the share of gig workers,
+while 40 percent said they will reduce
+dependence/maintain status quo and
+favour the full-time workforce.
+How will organisations sustain the
+change? The journey from “respond” to
+“recover” to “thrive”.
+The move from ‘responding to the crises’
+to ‘thriving in the new normal’ is likely to
+depend on how successfully organisations
+take their learnings into the future. These
+learnings need to be applied across three
+levers of the Future of Work − work,
+workplace, and workforce.
+
+Resilience in the FMCG & Retail Sector
+
+Work Option
+
+Workforce Options
+
+01 Automating routine
+tasks: Using automation to
+improve efficiency of routine,
+repetitive tasks, and process
+steps on a need basis
+02 Systemic automation:
+Deploying Robotic Process
+Automation (RPA) to redesign
+processes by eliminating
+redundancies and redirecting
+human involvement towards
+cognitive requirements
+03 Exponential automation:
+Leveraging technologies
+such as ML and Natural
+Language Processing (NLP)
+for perception and judgmentbased tasks to mitigate
+dependency on external
+factors and accelerate growth
+
+01 Fully traditional workforce:
+The workforce that is on fulltime, employment contract and
+engaged in routine business
+activities
+02 Hybrid workforce: Limited
+alternative employment models,
+such as third-party contracting,
+mainly with a view to optimise
+costs with a predominantly fulltime workforce
+03 Augmented workforce: Fit-forpurpose employment models,
+with freelancers, consultants, and
+contractual workers for specific
+roles that are time/project based,
+require niche skills, and can be
+managed remotely
+
+The COVID-19 crisis presented
+organisations an opportunity to move to
+newer workplace and workforce models,
+with many decisions being accelerated
+to support business continuity. CXOs
+we spoke to believe the changes are
+likely to be here to stay. Organisations
+
+moving to the Future of Work are likely
+to see it emerge as a lever of competitive
+advantage in a post COVID-19 world. They
+should consider redesigning work across
+three levers, keeping the work humans do
+best at the centre.
+
+Workplace Option
+
+01
+
+02
+
+03
+
+Physical workplace:
+Operating with the traditional
+workplace model; heavily
+dependent on physical
+proximity of employees to get
+the work done
+‘Phygital’ workplace:
+Earmarking work/roles that
+can use digital platforms and
+virtual working for, beginning
+to rely on “digital” for greater
+efficiency
+Digital workplace:
+Reorganising traditional
+structures and ways of
+working to use the full
+potential of a digitally
+connected, hybrid workplace
+
+43
+
+Resilience in the FMCG & Retail Sector
+
+44
+
+Resilience in the FMCG & Retail Sector
+
+Conclusion
+COVID-19 has fundamentally changed
+consumer demand, challenged the
+integrated supply chains, and altered
+some category dynamics forever, thus
+defining a “new normal” for businesses. It
+has created opportunities for businesses
+across the world, forcing them to
+“respond, recover, and thrive”. Businesses
+are taking this opportunity to understand
+the long-term impact of the crisis on their
+operating models and find new ways
+to quickly adapt to the post-COVID-19
+world. The FMCG and retail industry is
+exhibiting “RESILIENCE” to grow and
+evolve in ways that create more value in
+the future for the entire chain.
+Brands are redefining their models
+to build a holistic approach covering
+every touchpoint to enhance and build
+connects with the next generation of
+
+consumers and shoppers. Companies
+are consciously identifying blind spots
+across their operations to incorporate
+flexible and sustainable initiatives as
+an integral piece of their business model.
+Brands are also leveraging innovation in
+technology to be agile in their planning
+and forecasting. They are digitalising
+their supply chain and procurement,
+undertaking smart manufacturing
+initiatives, and building smart factories
+to evolve with the changing trends.
+Digitisation is enabling kiranas and
+opening new growth opportunities for the
+FMCG sector. Further, organisations will
+have to rethink and reimagine their work,
+workforces, and workplaces to keep their
+employees connected in the new work
+environment, position themselves for the
+next phase, and thrive in new realities.
+
+45
+
+Resilience in the FMCG & Retail Sector
+
+Earlier reports by
+Deloitte and FICCI
+FMCG and retail REBOOT (2020)
+The fourth edition of the report examined
+how brands needed to ‘reboot’ their
+business models and partnerships to
+thrive in the new normal. It highlighted
+the importance of how brands needed
+to realign their businesses and business
+priorities to enhance consumer and
+
+REALIGN
+businesses and
+business priorities
+post COVID-19
+
+shopper experience by building a flexible
+distribution network, accelerating the
+adoption of the omni-channel strategy
+across brands, continuously improving the
+supply chain, and focusing on sustainable
+business practices to operate efficiently
+and thrive in a new business landscape.
+
+R
+Organisations are re-evaluating their priority segments, distribution, and product mixes; reassessing their REALIGN businesses and business priorities post COVID-19 – manufacturing
+footprints; investing in more agile planning solutions; and exploring digitalisation.
+
+E
+ENHANCE
+consumer and
+shopper experience
+
+They are adopting strategies and harnessing digital technologies to cater to elevated consumer
+experience and developing a “single view” of the consumer. They are moving towards personalised
+zero-touch shopping experience across the physical and digital channels, and predictive metrics.
+
+B
+BUILD distribution
+post
+COVID-19
+
+Organisations are re-evaluating and re-building their operating and distribution models during
+the lockdown using new-age distribution channels (such as e-commerce, omni-channel, direct-toconsumer, hyperlocal delivery, and aggregator models).
+
+O
+OMNI-channel for
+expanding reach
+
+OPERATE more
+efficiently
+
+THRIVE by focusing
+on sustainability
+
+46
+
+With consumers shifting to online and low-touch shopping experience, brands and retailers are looking
+to integrate online and offline digital touchpoints to influence and enhance their shopping experience.
+
+O
+As organisations move to the recovery phase, in many cases, they are looking at next-generation
+manufacturing (manufacturing 4.0), digital procurement based on Artificial Intelligence (AI) and
+Machine Learning (ML), sourcing, and physical network reorientation, to reach pre-COVID-19 volumes.
+
+T
+The COVID-19 crisis has put sustainability on the backburner in many cases. More governments
+are likely to push for stringent compliance to existing sustainability norms and establish new
+ones. The move will put pressure on businesses to increase their investment to incorporate
+sustainability across their business strategies.
+
+Resilience in the FMCG & Retail Sector
+
+EVOLVE for Consumer (2019)
+The third edition of the four-year
+annual series of reports delved into
+the major aspects of a consumer’s
+shopping cycle where brands needed
+to “EVOLVE” to thrive in an evolutionary
+consumer landscape. Consumer markets
+are evolving rapidly with the help of
+technology in an environment where data
+is the new oil. In such a highly competitive
+scenario, the report highlighted that
+
+companies could not afford to overlook
+any aspect of the shopper journey and
+lag behind in the competitive market.
+Consumer experience has become more
+crucial today, and brands must constantly
+innovate to offer novel products and
+services to cater to modern consumers’
+evolving demands. The report covered
+the following aspects:
+
+Engage for better connect: Personalised advertisements, proximity marketing, leveraging modern technologies
+such as AR, VR, AI, chatbots, etc., are means through which brands—both offline and online—can engage with
+their consumers.
+
+Voice of consumer to be paramount: Listening to the consumers’ opinions, suggestions, and feedback is equally
+important for offering them the most suitable products based on their needs. Social media sites, company websites,
+blogs, emails, phone calls and texts, in-store communications, and other physical and online touch points should be
+used for this—brands must be omni-present across mediums to listen and act upon the consumers’ needs.
+Organise retail channels and trade to provide seamless and integrated solution: The retail market in India has
+evolved from a “Bricks-versus-Clicks” to “Bricks-and-Clicks” and is now moving towards an “Intermix”. In future, the
+most sustainable way for the brands to cater to consumers’ needs is to play across the confluence of multiple retail
+modes—traditional stores, modern brick-and-mortar stores, online channels, etc.,—to offer a seamless shopping
+experience.
+Loyalty to be built by going the extra mile: There is a need to redefine the Key Performance Indicators (KPIs) for
+loyalty measurement. In an environment where the consumers have a plethora of options and brands to choose from,
+benchmarking loyalty through traditional parameters becomes highly challenging and not reflective in true sense. The
+brands must go the extra mile to ensure that all its consumers have a memorable experience irrespective of whether
+any products are bought or not.
+Vouch for commitment: Consumers now actively gauge a brand’s commitment to its values and promises. They have
+become more conscious than before regarding the sustainability practices of brands and the impact of these practices
+on the environment. Hence, there is a growing need for public institutions and brands to collaborate and collectively
+ensure sustainable measures as a standard norm in their operational practices.
+Enhance product and service offering: While brands must use technology to engage with consumers more, there
+is also a need to enhance the shopping experience of the consumers through hyper-personalised offerings, bespoke
+marketing and loyalty solutions, agile and lean business models, etc. Another major trend is need for the vernacular
+content to cater to the consumers’ needs—many brands are now catering to the demands of both urban and nonconsumers by offering their services in non-English regional languages.
+
+47
+
+Resilience in the FMCG & Retail Sector
+
+Consumer LEADS (2018)
+The second edition of the annual series
+of reports had put consumers and their
+buying experiences at the forefront.
+While brands must remain connected to
+consumers throughout their shopping
+journey, listening to the consumer is
+
+CONSUMER
+
+L
+
+E
+
+Learn from millennials
+for innovation and
+strategy
+
+Engage with
+consumers to enhance
+brand connect
+
+• Showcases how the youth in the
+country are influencing the traditional
+buying behaviour, and the need for
+brands to work constantly to cater to
+these altering needs through innovation
+and prioritisation.
+• Highlights the importance of
+transforming the entire shopping
+
+48
+
+also important as he/she “LEADS” the
+conversation (moving from B2C to C2B).
+The report delved into key action items
+for brands, demonstrated through best
+practices and select case studies:
+
+A
+
+Accelerate digital
+investments to cater
+to new-age shoppers
+
+D
+
+Deliver value and
+convenience to be
+competitive
+
+S
+
+Sustainable practices
+to deliver responsibly
+
+journey of the consumers—awareness,
+consideration, purchase, aftersales, and
+loyalty—to make it more engaging and
+immersive for consumers.
+
+• Provides best practices and case study
+examples for brands to refurbish their
+value propositions to resonate with the
+consumers’ values and beliefs.
+
+• Develops a perspective for the brands
+to accelerate their investments in digital
+and technology to address the new-age
+consumer needs.
+
+• Highlights the importance of
+sustainable practices to ensure that the
+brands conduct responsible businesses.
+
+Resilience in the FMCG & Retail Sector
+
+KONNECTED to consumer (2017)
+This edition of the report explored the
+connectedness of consumers—the
+main aspect being that the internet
+and technology are driving the interconnectedness of consumers amongst
+
+themselves and with brands. It is critical
+for brands to be “connected” to their
+consumers/shoppers to win them. The
+report covered the following areas:
+
+K
+
+Knowledge of consumer data and insights
+“Big” data generated via digital/online and through technologies used by brands in myriad forms and ways to make the
+consumer retail journey and experience better. The knowledge from this valuable consumer data will help brands in
+customised targeting, personalised offerings, and to have a more “meaningful” dialogue with their consumers.
+
+O
+
+Omni-channel approach unlocking the prospects
+The infusion of offline and online retail modes has led to the emergence of omnichannel retail, where the shoppers may
+browse online and buy offline or vice versa. This has led to the shifting of major brands into both pure-play offline and
+pure-play online mode or a mix of both.
+
+N
+
+National policies impelling business growth and benefitting consumers
+Conducive policies have led to increased investments that not only help the country grow monetarily, but also assist in
+building infrastructure, bringing modern technologies, creating substantial social and environmental impact, etc.
+
+N
+
+Novelty attracting the new-age shoppers
+While affordability and convenience remain the most crucial factors to influence a consumer’s purchase decision, novelty
+or uniqueness in the offering also drives the sales. Novel approach by the brands to offer benefits via digital means also
+helps brands in connecting with their consumers and building loyalty.
+
+E
+
+Environment and social practices driving sustainability and influencing consumer behaviour
+Sustainable practices can help brands to stand out and build brand trust. Preference to sustainable practices such as
+sustainable sourcing, reduction in greenhouse gas emissions, waste management, clean packaging, natural and healthy
+food options, etc., is gaining traction.
+
+C
+
+Convenience bridging the gaps
+The growing consumer needs are pushing companies to implement improvements to their last mile delivery to make it
+easy for consumer and shoppers to access the products. This compelling need of convenience and wanting the product
+“now” is giving rise to hyperlocal start-ups, which connect local buyers and stores to penetrate remote areas, etc.
+
+T
+
+Technology augmenting consumer experience
+Factors such as improved digital infrastructure, greater use of smartphones, and increasing number of start-ups in
+technology space is assisting in wider acceptance and greater implementation of modern technologies for commercial
+retail, especially with the evolved general trade.
+
+E
+
+E-wallets scaling up the payment ecosystem and handiness
+Greater degree of convenience, increasing internet penetration, greater smartphone usage and government support
+have led to the exponential growth of Unified Payment Instruments (UPI), especially m-wallets.
+
+D
+
+Digital marketing as growth engine
+Advantages such as cost-effectiveness, consumer engagement, and personalised offerings are expected to drive the rapid
+growth of digital marketing in India. Going forward, native marketing—a completely non-intrusive ad format—will be used
+in India to make the ad experience of the consumers completely natural and in flow with their retail journey.
+49
+
+Resilience in the FMCG & Retail Sector
+
+About Deloitte
+All the facts and figures that talk to
+our size and diversity and years of
+experiences, as notable and important as
+they may be, are secondary to the truest
+measure of Deloitte: the impact we make
+in the world. So, when people ask, “what’s
+different about Deloitte?” the answer
+resides in many specific examples of
+where we have helped Deloitte member
+firm clients, our people, and sections of
+
+society to achieve remarkable goals, solve
+complex problems, or make meaningful
+progress. Deeper still, it’s in the beliefs,
+behaviours, and fundamental sense of
+purpose that underpin all that we do.
+Globally, Deloitte has grown in scale and
+diversity—more than 315,000 people in
+150 countries, providing multidisciplinary
+services yet our shared culture remains
+the same.
+
+About FICCI
+Established in 1927, FICCI is the largest
+and oldest apex business organisation
+in India. Its history is closely interwoven
+with India's struggle for independence,
+its industrialisation, and its emergence
+as one of the most rapidly growing
+global economies. A non-government,
+not-for-profit organisation, FICCI is the
+voice of India's business and industry.
+From influencing policy to encouraging
+debate, engaging with policymakers
+and civil society, FICCI articulates the
+
+50
+
+industry’s views and concerns. It serves
+its members from the Indian private and
+public corporate sectors and multinational
+companies, drawing its strength from
+diverse regional chambers of commerce
+and industry across states, reaching out to
+over 2,50,000 companies. FICCI provides
+a platform for networking and consensus
+building within and across sectors and is
+the first port of call for the Indian industry,
+policymakers, and the international
+business community.
+
+Resilience in the FMCG & Retail Sector
+
+References
+01. Consumer goods Forum (https://www.theconsumergoodsforum.com/events/the-global-summit/)
+02. Unilever (https://www.unilever.com/news/news-and-features/Feature-article/2021/27-brands-join-fight-to-protect-europesanimal-testing-ban.html)
+03. Tide (https://tide.com/en-us/our-commitment/sustainability/saving-energy)
+04. Forbes (https://www.forbes.com/sites/glenngow/2020/08/21/environmental-sustainability-and-ai/?sh=1f906c207db3)
+05. What the future holds for green retail (https://www.indianretailer.com/article/retail-business/retail-trends/what-the-futureholds-for-green-retail.a7076/)
+06. Responsible sourcing: Where ethics meet growth (https://www.genpact.com/insight/blog/responsible-sourcing-where-ethicsmeet-growth)
+07. Supply Chain Digital (https://supplychaindigital.com/procurement/responsibly-sourced-supply-chains-can-benefit-everyone)
+08. Ethical Sourcing (https://www.fibre2fashion.com/industry-article/7276/ethical-sourcing-and-consumer-awareness)
+09. World Economic Forum : Future of Consumption in Fast-Growth Consumer Markets: INDIA (http://www3.weforum.org/docs/
+WEF_Future_of_Consumption_Fast-Growth_Consumers_markets_India_report_2019.pdf)
+10. 2020 FMCG environmental sustainability trends (https://www.odgersinterim.com/us/who-we-are/intelligence/2020-fmcgenvironmental-sustainability-trends-4858/)
+11. Deloitte, Next Generation Sales and Operations Planning
+12. https://economictimes.indiatimes.com
+13. https://www2.deloitte.com/content/dam/insights/us/articles/4051_The-smart-factory/DUP_The-smart-factory.pdf
+14. https://www2.deloitte.com/us/en/pages/about-deloitte/articles/press-releases/2020-deloitte-and-mapi-smart-manufacturingstudy-accelerating-smart-manufacturing.html
+15. https://www2.deloitte.com/content/dam/Deloitte/us/Documents/process-and-operations/us-cons-digital-procurement.pdf
+16. https://www.deskera.com/blog/digital-procurement/
+17. https://10xds.com/blog/choosing-digital-transformation-partner/
+18. https://yourstory.com/2021/08/digital-supply-chain-driving-future-indian-companies/amp
+19. https://www2.deloitte.com/us/en/pages/operations/articles/iot-pilot-purgatory-infographic.html
+
+51
+
+Resilience in the FMCG & Retail Sector
+
+Connect with us
+Deloitte Touche Tohmatsu India LLP
+
+Rajat Wahi
+rajatwahi@deloitte.com
+
+Akash Srivastava
+srivastavaakash@deloitte.com
+
+Anandorup Ghose
+anandorup@deloitte.com
+
+Anand Ramanathan
+ranand@deloitte.com
+
+Easwaran Subramanian
+pseaswaran@deloitte.com
+
+Praveen Govindu
+pbgovindu@deloitte.com
+
+Dr. Inderjeet Singh
+
+Sudeepta Veerapaneni
+
+Shivam Kanojia
+
+Nikhil Kolur
+
+Mayank Mehrotra
+
+Ruby Pasricha
+
+Phanish Kumar
+
+Sourabh Joshi
+
+Anandita
+
+Sreejith Unnikrishnan
+
+Dimple Kataria
+
+Akshay Singh
+
+Contributors
+Deloitte Touche Tohmatsu India LLP
+
+FICCI
+Leena Jaisani
+
+52
+
+Resilience in the FMCG & Retail Sector
+
+Deloitte refers to one or more of Deloitte Touche Tohmatsu Limited, a UK
+private company limited by guarantee (“DTTL”), its network of member firms,
+and their related entities. DTTL and each of its member firms are legally
+separate and independent entities. DTTL (also referred to as “Deloitte Global”)
+does not provide services to clients. Please see www.deloitte.com/about for a
+more detailed description of DTTL and its member firms.
+This material is prepared by Deloitte Touche Tohmatsu India LLP (DTTILLP).
+This material (including any information contained in it) is intended to provide
+general information on a particular subject(s) and is not an exhaustive
+treatment of such subject(s) or a substitute to obtaining professional
+services or advice. This material may contain information sourced from
+publicly available information or other third party sources. DTTILLP does
+not independently verify any such sources and is not responsible for any
+loss whatsoever caused due to reliance placed on information sourced
+from such sources. None of DTTILLP, Deloitte Touche Tohmatsu Limited, its
+member firms, or their related entities (collectively, the “Deloitte Network”)
+is, by means of this material, rendering any kind of investment, legal or other
+professional advice or services. You should seek specific advice of the relevant
+professional(s) for these kind of services. This material or information is not
+intended to be relied upon as the sole basis for any decision which may affect
+you or your business. Before making any decision or taking any action that
+might affect your personal finances or business, you should consult a qualified
+professional adviser.
+No entity in the Deloitte Network shall be responsible for any loss whatsoever
+sustained by any person or entity by reason of access to, use of or reliance on,
+this material. By using this material or any information contained in it, the user
+accepts this entire notice and terms of use.
+© 2021 Deloitte Touche Tohmatsu India LLP. Member of Deloitte Touche
+Tohmatsu Limited
+
+

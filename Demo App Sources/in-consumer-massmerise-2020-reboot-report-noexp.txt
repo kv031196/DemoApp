@@ -1,0 +1,4718 @@
+FMCG and retail (e-commerce)
+REBOOT
+October 2020
+
+Brochure / report title goes here |
+ Section title goes here
+
+02
+
+FMCG and retail REBOOT
+
+Contents
+Foreword
+
+04
+
+Executive summary
+
+07
+
+Realign businesses and business priorities post COVID-19
+Impact of COVID-19
+Business priority decisions by FMCG
+
+15
+15
+18
+
+Enhance consumer and shopper experience
+Customers in India and their expectations
+from consumer brands
+Pillars can enable companies to build an experience strategy
+
+21
+
+Build distribution post COVID-19
+Impact of COVID-19 on existing FMCG and retail distribution
+How companies are innovating and rebuilding
+distribution systems post COVID-19
+Building future-proof distribution channels
+
+33
+33
+
+Omni-channel for expanding reach
+Trends and innovation in omni-channel retail strategies
+Critical success factors for omni-channel
+
+45
+46
+47
+
+Operate more efficiently
+Impact of COVID-19
+The impact and implications on supply chains of organisations
+Considerations for organisations
+
+51
+51
+52
+53
+
+Thrive by focusing on sustainability
+Changing consumer habits
+Impact of COVID-19
+Waste management rules and Extended Producer’s
+Responsibility (EPR) in the Indian context
+Challenges in accomplishing the sustainability agenda
+
+57
+57
+57
+
+Conclusive remarks
+
+63
+
+About Deloitte
+
+64
+
+About FICCI
+
+65
+
+Connect with us
+
+66
+
+Acknowledgements
+
+66
+
+21
+23
+
+36
+42
+
+57
+58
+
+03
+
+FMCG and retail REBOOT
+
+04
+
+FMCG and retail REBOOT
+
+Foreword Deloitte
+
+Rajat Wahi
+Partner
+Deloitte Touche
+Tohmatsu India LLP
+
+Porus Doctor
+Partner and Consumer
+Industry leader
+Deloitte Touche
+Tohmatsu India LLP
+
+The COVID-19 pandemic continues to
+affect the Indian economy across sectors,
+including FMCG and retail. These sectors
+have been facing massive disruptions
+over the past few months across the
+value chain, ranging from manufacturing
+and logistics, to distribution and retail.
+We have also seen drastic changes in
+consumers’ behaviour during and after
+the lockdown as they have continued to
+study and work from home. As brands
+adapt to the ‘new normal’, they have
+to move to an agile business model to
+minimise disruptions in the future as this
+may not be the last pandemic. Companies
+have to learn to proactively respond to
+the new shopping habits that consumers
+are developing in a continually changing
+landscape. Brands and retailers will
+need to re-learn the shopper journey
+for their categories, to create seamless
+shopping and consumer experience for
+their customers. They also need to look
+at putting consumers/shoppers in the
+centre of everything they do.
+
+The Deloitte−FICCI report “FMCG and
+retail REBOOT” is developed against
+this backdrop. The report looks at
+how FMCG and retail companies must
+REBOOT their business models as Indian
+consumer/shopper journey evolves in
+these changing times. In this paper, we
+talk about the importance of how the
+brands need to realign their businesses
+and business priorities to enhance
+consumer and shopper experience
+by building a flexible distribution
+network, accelerating the adoption
+of omni-channel across brands,
+continuously improving the supply chain,
+and focusing on sustainable business
+practices to operate efficiently and
+thrive in a new business landscape.
+In the ‘new normal’, brands need to be
+highly adaptive to cater to these changes.
+They need to be on top of new trends
+and best practices in India and across the
+globe, and alter their strategies quickly to
+meet consumers’/shoppers’ expectations.
+
+05
+
+FMCG and retail REBOOT
+
+Foreword FICCI
+
+Dilip Chenoy
+Secretary General
+FICCI
+
+India has emerged as one of the most
+attractive investment destinations
+with the increasing disposable income,
+rapid industrialisation, and a shift in
+the demographic pattern. Amongst the
+significant contributors to this growth
+story have been the consumer-centric
+sectors, such as retail, FMCG, and
+e-commerce. India is one of the world’s
+fastest-growing major economies and
+has immense potential. However, there is
+a need to further promote participation
+and involvement of businesses for
+furthering the cause of nation-building,
+and achieving the societal goals of
+inclusive growth and empowerment of
+the people.
+The COVID-19 outbreak is having a
+severe impact on people, economy,
+and business. The industry has shown
+tremendous commitment to work with
+the government and other agencies to
+contain the spread of the virus. As the
+
+06
+
+country unlocks itself and opens up,
+new trends and business practices are
+expected to emerge. In view of this, the
+theme for Massmerize 2020 is REBOOT.
+FICCI Massmerize provides a perfect
+platform to initiate a dialogue between
+the government and the retail, FMCG,
+and e-commerce sectors on various
+regulatory issues and consumer trends.
+The FICCI−Deloitte report that has the
+underlying theme of ‘‘REBOOT’’ is an
+attempt to analyse trends in the FMCG,
+retail, and e-commerce industries in the
+backdrop of the COVID-19 blow.
+We hope that the insights shared
+in this report will help identify new
+opportunities and in turn, improve
+performance across these sectors. At the
+end of the day when businesses succeed,
+the economy prospers and larger value
+creation takes place, which ensures a
+better future.
+
+FMCG and retail REBOOT
+
+Executive summary
+
+Sanjiv Mehta
+Chairman & Managing Director
+Hindustan Unilever Limited
+Vice President FICCI and
+Chair - FICCI FMCG Committee
+
+Herjit S. Bhalla
+Managing Director
+Hershey India
+Co-Chair - FICCI FMCG Committee
+
+The Deloitte-FICCI thought leadership
+report FMCG and retail REBOOT for
+Massmerize’20 looks at ‘re-starting’
+businesses as COVID-19 related lockdowns
+have eased. It looks at new trends and
+business practices emerging in the “new
+normal”, and changes in consumer/
+shopper behaviour in India. The report
+is the fourth in a series of Deloitte-FICCI
+reports released annually, following
+KONNECTED to Consumers in 2017,
+Consumer LEADS in 2018, and EVOLVE for
+consumer in 2019.
+FMCG and retail REBOOT: The fourth
+edition of the report, taking cues from
+the other three editions, examines how
+brands need to ‘reboot’ their business
+models and partnerships to thrive in
+the new normal. In many cases, they
+may consider abandoning age-old
+route-to-market models and marketing
+practices. As companies continue to
+adapt to this prolonged and unplanned
+lockdowns, their ability to rapidly digitise
+the value chain, form alliances for
+manufacturing, distribution, marketing
+
+and product development, use data
+analytics to understand consumers
+and shoppers better to maintain and
+possibly improve customer experience,
+will be the big differentiator in the
+industry. The lockdown has also given
+most companies a chance to review
+their operations, including their supply
+chain and sourcing models, and invest
+in cloud-based technologies, AI-enabled
+digital procurement, AR and VR, block
+chain, etc., to create demand-responsive
+supply chains to cope with and predict
+future disruptions. COVID-19 is a reminder
+to the consumer industry about the
+fragility in ways of doing business and
+building models that can adapt rapidly.
+As consumers and brands continue to be
+more “KONNECTED” through technology
+and the internet/e-commerce ecosystem,
+brands must realise that the consumer
+today LEADS the conversation (moving
+from B2C to C2B) even more. They need to
+cater to consumers’ needs in their product
+and service offerings. As a result, brands
+must EVOLVE and REBOOT their business
+models to succeed.
+
+07
+
+FMCG and retail REBOOT
+
+REBOOT for FY ’20 and beyond
+
+REALIGN
+businesses
+and business
+priorities post
+COVID-19
+
+ENHANCE
+consumer
+and shopper
+experience
+
+BUILD
+distribution
+post
+COVID-19
+
+OMNI-channel
+for expanding
+reach
+
+OPERATE
+more
+efficiently
+
+THRIVE by
+focusing on
+sustainability
+
+08
+
+R
+
+Companies are re-evaluating their priority segments, distribution, and product mix, investing in more
+agile planning solutions and exploring digitalisation. They are also re-assessing their manufacturing
+footprint, etc., with a focus on catering to Indian consumers, while using raw materials sourced from
+India and manufacturing in the country (under the government’s “Atmanirbhar” programme).
+
+E
+
+Companies are adopting strategies and harnessing digital technologies to cater to elevated consumer
+experience and developing a “single view” of the consumer. They are moving towards personalised
+zero-touch journey across the physical and digital channels (we see the emergence of ‘phygital’ retail),
+and predictive metrics using AI, ML, and other exponential technologies.
+
+B
+Companies are re-evaluating and re-building their operating and distribution models during the
+lockdown using new-age distribution channels (such as e-commerce, omni-channel, direct-toconsumer, hyperlocal delivery, and aggregator models). There has been an increase in focus on
+hyperlocal deliveries, regionalisation, and rural markets. Companies have been forging new strategic
+alliances to expand distribution capabilities and enable last mile delivery, while also looking to expand
+their direct coverage across rural India.
+
+O
+The current pandemic has accelerated the shift of consumers to online and low-touch shopping
+experience, as they continue to avoid visiting physical retail stores. As a result, brands and retailers
+are looking to integrate online and offline digital touchpoints to influence and enhance their shopping
+experience through the following measures: increasing hyper-personalisation; offering multiple and
+fast payment options; providing responsive customer support; and adopting innovative business
+models to facilitate last mile reach.
+
+O
+The changing dynamics post lockdown requires flexibility and agility in business operations. As
+organisations move to the recovery phase, in many cases, they are looking at next-generation
+manufacturing (Manufacturing 4.0), digital procurement based on AI and ML, sourcing, and physical
+network reorientation, to reach pre-COVID-19 volumes. They are also using partner alliances and
+ecosystems to facilitate this.
+
+T
+The COVID-19 crisis has caused disturbance across sectors. It has put sustainability on the back burner
+in many cases, as companies struggle to recover and stabilise their businesses. However, the spotlight
+on sustainability is likely to return in light of this pandemic as more governments are likely to push for
+stringent compliance to existing sustainability norms and establish new ones. This will put pressure on
+businesses to increase their investment to incorporate sustainability across their business strategies.
+
+FMCG and retail REBOOT
+
+The COVID-19 pandemic, ‘a stampeding
+event’ in the history, has fundamentally
+changed the business world. It has led
+to consumers living differently, buying
+differently, and in many ways, thinking
+differently about their priorities. Longterm trends have also been significantly
+disrupted, and changes anticipated over
+the next few years have occurred in the
+space of weeks, having a profound impact
+on many businesses. As a result, brands
+are reshaping their businesses in realtime; they are unsure how permanent
+some of these changes will be.
+
+Each chapter of the report looks at major
+trends during the lockdown from an Indian
+perspective. The chapters further highlight
+some best practices through case studies,
+which look at implementation of these in
+the new normal world post lockdown. We
+believe that the content and information
+provided in the report will be beneficial for
+stakeholders in the consumer and retail
+sectors—consumers, shoppers, industries,
+the government, and the academia.
+
+09
+
+FMCG and retail REBOOT
+
+EVOLVE for consumer
+The third edition of the four-year
+annual series of reports delved into
+the major aspects of a consumer’s
+shopping cycle where brands needed
+to “EVOLVE” to thrive in an evolutionary
+consumer landscape. Consumer markets
+are evolving rapidly with the help of
+technology in an environment where data
+is the new oil. In such a highly competitive
+scenario, the report highlighted that
+
+companies could not afford to overlook
+any aspect of the shopper journey and
+lag behind in the competitive market.
+Consumer experience has become more
+crucial today, and brands must constantly
+innovate to offer novel products and
+services to cater to modern consumers’
+evolving demands. The report covered
+the following aspects:
+
+Engage for better connect: Personalised advertisements, proximity marketing, leveraging modern technologies
+such as AR, VR, AI, chatbots, etc., are means through which brands—both offline and online—can engage with
+their consumers.
+
+Voice of consumer to be paramount: Listening to the consumers’ opinions, suggestions, and feedback is equally
+important for offering them the most suitable products based on their needs. Social media sites, company websites,
+blogs, emails, phone calls and texts, in-store communications, and other physical and online touch points should be
+used for this—brands must be omni-present across mediums to listen and act upon the consumers’ needs.
+Organise retail channels and trade to provide seamless and integrated solution: The retail market in India has
+evolved from a “Bricks-versus-Clicks” to “Bricks-and-Clicks” and is now moving towards an “Intermix”. In future, the
+most sustainable way for the brands to cater to consumers’ needs is to play across the confluence of multiple retail
+modes—traditional stores, modern brick-and-mortar stores, online channels, etc.,—to offer a seamless shopping
+experience.
+Loyalty to be built by going the extra mile: There is a need to redefine the Key Performance Indicators (KPIs) for
+loyalty measurement. In an environment where the consumers have a plethora of options and brands to choose from,
+benchmarking loyalty through traditional parameters becomes highly challenging and not reflective in true sense. The
+brands must go the extra mile to ensure that all its consumers have a memorable experience irrespective of whether
+any products are bought or not.
+Vouch for commitment: Consumers now actively gauge a brand’s commitment to its values and promises. They have
+become more conscious than before regarding the sustainability practices of brands and the impact of these practices
+on the environment. Hence, there is a growing need for public institutions and brands to collaborate and collectively
+ensure sustainable measures as a standard norm in their operational practices.
+Enhance product and service offering: While brands must use technology to engage with consumers more, there
+is also a need to enhance the shopping experience of the consumers through hyper-personalised offerings, bespoke
+marketing and loyalty solutions, agile and lean business models, etc. Another major trend is need for the vernacular
+content to cater to the consumers’ needs—many brands are now catering to the demands of both urban and nonconsumers by offering their services in non-English regional languages.
+
+10
+
+FMCG and retail REBOOT
+
+Consumer LEADS: The second
+edition of the annual series of reports
+puts consumers and their buying
+experiences at the forefront. While
+brands must remain connected to
+consumers throughout their shopping
+
+journey, listening to the consumer is
+also important as he/she “LEADS” the
+conversation (moving from B2C to C2B).
+The report delved into key action items
+for brands, demonstrated through best
+practices and select case studies:
+
+CONSUMER
+
+L
+
+E
+
+Learn from millennials
+for innovation and
+strategy
+
+Engage with
+consumers to enhance
+brand connect
+
+• Showcases how the youth in the
+country are influencing the traditional
+buying behaviour, and the need for
+brands to work constantly to cater to
+these altering needs through innovation
+and prioritisation.
+• Highlights the importance of
+transforming the entire shopping
+
+A
+
+Accelerate digital
+investments to cater
+to new-age shoppers
+
+D
+
+Deliver value and
+convenience to be
+competitive
+
+S
+
+Sustainable practices
+to deliver responsibly
+
+journey of the consumers—awareness,
+consideration, purchase, aftersales, and
+loyalty—to make it more engaging and
+immersive for consumers.
+
+• Provides best practices and case study
+examples for brands to refurbish their
+value propositions to resonate with the
+consumers’ values and beliefs.
+
+• Develops a perspective for the brands
+to accelerate their investments in digital
+and technology to address the new-age
+consumer needs.
+
+• Highlights the importance of
+sustainable practices to ensure that the
+brands conduct responsible businesses.
+
+11
+
+FMCG and retail REBOOT
+
+KONNECTED to Consumer: This edition
+of the report explored the connectedness
+of consumers—the main aspect being
+that the internet and technology are
+driving the inter-connectedness of
+
+12
+
+consumers amongst themselves and
+with the brands, and that it was critical
+for brands to be “connected” to their
+consumers/shoppers to win them. The
+report covered the following areas:
+
+K
+
+Knowledge of consumer data and insights
+“Big” data generated via digital/online and through technologies used by brands in myriad forms and ways to make the
+consumer retail journey and experience better. The knowledge from this valuable consumer data will help brands in
+customised targeting, personalised offerings, and to have a more “meaningful” dialogue with their consumers.
+
+O
+
+Omni-channel approach unlocking the prospects
+The infusion of offline and online retail modes has led to the emergence of omnichannel retail, where the shoppers may
+browse online and buy offline or vice versa. This has led to the shifting of major brands into both pure-play offline and
+pure-play online mode or a mix of both.
+
+N
+
+National policies impelling business growth and benefitting consumers
+Conducive policies have led to increased investments that not only help the country grow monetarily, but also assist in
+building infrastructure, bringing modern technologies, creating substantial social and environmental impact, etc.
+
+N
+
+Novelty attracting the new-age shoppers
+While affordability and convenience remain the most crucial factors to influence a consumer’s purchase decision, novelty
+or uniqueness in the offering also drives the sales. Novel approach by the brands to offer benefits via digital means also
+helps brands in connecting with their consumers and building loyalty.
+
+E
+
+Environment and social practices driving sustainability and influencing consumer behaviour
+Sustainable practices can help brands to stand out and build brand trust. Preference to sustainable practices such as
+sustainable sourcing, reduction in greenhouse gas emissions, waste management, clean packaging, natural and healthy
+food options, etc., is gaining traction.
+
+C
+
+Convenience bridging the gaps
+The growing consumer needs are pushing companies to implement improvements to their last mile delivery to make it
+easy for consumer and shoppers to access the products. This compelling need of convenience and wanting the product
+“now” is giving rise to hyperlocal start-ups, which connect local buyers and stores to penetrate remote areas, etc.
+
+T
+
+Technology augmenting consumer experience
+Factors such as improved digital infrastructure, greater use of smartphones, and increasing number of start-ups in
+technology space is assisting in wider acceptance and greater implementation of modern technologies for commercial
+retail, especially with the evolved general trade.
+
+E
+
+E-wallets scaling up the payment ecosystem and handiness
+Greater degree of convenience, increasing internet penetration, greater smartphone usage and government support
+have led to the exponential growth of Unified Payment Instruments (UPI), especially m-wallets.
+
+D
+
+Digital marketing as growth engine
+Advantages such as cost-effectiveness, consumer engagement, and personalised offerings are expected to drive the rapid
+growth of digital marketing in India. Going forward, native marketing—a completely non-intrusive ad format—will be used
+in India to make the ad experience of the consumers completely natural and in flow with their retail journey.
+
+FMCG and retail REBOOT
+
+13
+
+FMCG and retail REBOOT
+
+14
+
+FMCG and retail REBOOT
+
+Realign businesses and business
+priorities post COVID-19
+In addition to the COVID-19 pandemic, business leaders can
+learn critical lessons from studying other global upsets in the
+modern history.
+01. Seismic events cause the tectonic
+plates to shift and create entirely
+new landscapes — the world
+order, societal norms, and industry
+structures will never be the same. A
+“new normal” will emerge.”
+
+and have the foresight to guide their
+organisations through the storm and
+position their companies to recover
+and thrive. Leadership will be
+shaped.
+Indian consumers have been reported as
+most anxious compared with their global
+peers. However, with the total number of
+COVID-19 cases coming down in the past
+weeks, a sharp reduction is seen in the
+anxiety levels.
+
+02. Disruptive market conditions—
+when the steady pace of
+competition is replaced by volatility
+and uncertainty—create ideal
+opportunities for competitive
+breakaway. This has the lasting
+power of separating good from great.
+Winners and losers will be made.
+
+Indian consumers’ key concerns are around
+health, safety, and financial stability. They
+are still apprehensive with the proposition
+of going to a public place, such as malls,
+restaurants, or staying in a hotel.
+
+03. Despite the critical importance of
+responding swiftly to the crisis, some
+of the most successful business
+leaders look well beyond the clouds
+
+Global Anxiety Index – “I am more anxious than I was last week”
+As of 3 October 2020
+
+27 (43 on Aug 22)
+
+India
+South Africa
+
+5
+
+Chile
+
+4
+
+Spain
+
+4
+0
+
+USA
+Australia
+
+-5
+
+Japan
+
+-20
+
+Germany
+
+-42
+-50
+
+-40
+
+-30
+
+-20
+
+-10
+
+0
+
+10
+
+20
+
+30
+
+40
+
+Source: Deloitte State of the Consumer Tracker
+15
+
+FMCG and retail REBOOT
+
+Consumer concerns
+October 3
+
+August 22
+
+I’m concerned about my
+physical well-being
+
+76%
+
+79%
+
+I’m concerned about the
+health of my family
+
+82%
+
+84%
+
+I feel safe going to store
+
+54%
+
+57%
+
+I’m concerned about making
+upcoming payments
+
+44%
+
+52%
+
+I’m delaying large purchases
+
+62%
+
+69%
+
+I’m concerned about losing
+my job
+
+60%
+
+64%
+
+I feel safe going to a restaurant
+
+37%
+
+45%
+
+Source: Deloitte State of the Consumer Tracker
+
+The impact of the pandemic has been unprecedented. There continues to be great
+uncertainty regarding the duration and depth of the crisis. Stay-at-home mandates,
+and the resulting health and economic consequences are changing what we buy and
+consume as well as where and how we shop.
+
+16
+
+FMCG and retail REBOOT
+
+There are several fairly predictable outcomes on what we buy and consume. Various FMCG companies have already tried to respond to
+the changing trends in an agile manner.
+
+1.
+
+Trend
+
+Case Studies
+
+Acceleration in e-commerce sales with consumers preferring
+to stay at home; significant purchases were driven through
+e-commerce.
+
+• A company in the oral care space launched its made
+for e-commerce range across product categories and
+witnessed strong growth.
+• A consumer company focused on Ayurveda and natural
+products partnered with a food delivery player to deliver
+products to consumers and used e-commerce for new
+launches.
+
+2.
+
+Growth of the value segment – The financial uncertainty and
+families eating together due to lockdown, led to both SKU
+down trading in rural India at one end and family pack sizes
+in urban India on the other end. However, bulk packs are on
+a decline because of fewer institutional buyers.
+
+• A large conglomerate has launched a hand sanitiser at a
+price of half a rupee.
+• A large consumer company saw ~50 percent of the general
+trade business coming from lower-price and access points.
+• In the potato chips category, a player saw larger pack sizes
+of snacks moving faster off the shelves.
+• A biscuits player saw the sales of Glucose biscuits bounce
+back in the pandemic.
+
+3.
+
+Increased demand from Rural – COVID-19 has affected
+about 40 million internal migrants, with 50-60,0001 moving
+to rural areas in a span of days. With reverse migration and
+increased MGNREGA spend, rural demand has picked up
+favouring companies with strong rural distribution.
+
+• A consumer company focused on Ayurveda is investing to
+expand its rural coverage. It expects to connect with 60,000
+villages by the end of this fiscal year.
+
+4.
+
+Focus on health, hygiene, and nutrition – Health concerns
+and the need to build immunity have led consumers to
+buy home sanitation and immunity boosting products; this
+category saw drastic growth between March 2020 and May
+2020.
+
+• Several brands launched sanitisers and hand wash
+products. Players focused on Ayurveda had more than 50
+launches and those in a broader consumer category had 45
+launches.
+• An oral care player doubled down on its Ayurveda brand of
+toothpaste and mouth spray.
+• A large FMCG player launched 50+ new product/pack
+innovations during the pandemic largely focused on the
+health/hygiene/nutrition segments.
+• An FMCG player from South India launched a range of
+surface disinfectant sprays and partnered with a cab
+service provider (for drivers) and a bank (for customers and
+employees) for product activations.
+
+1
+
+World bank-COVID-19 Crisis Through a Migration Lens
+17
+
+FMCG and retail REBOOT
+
+With changing consumer preferences and operational
+constraints due to the pandemic, FMCG companies are being
+forced to make some hard choices on the business priorities.
+01. Save to thrive
+Based on a recent global study by Deloitte2,
+expectation for positive revenue growth
+has declined significantly due to COVID-19.
+Compared with pre-COVID-19 expectations,
+the percentage of respondents globally
+expecting positive revenue growth is down
+40 points. In India, the outlook is down by
+20 points.
+In India, 73 percent of the companies
+surveyed expect to undertake a cost
+reduction programme in the next 12
+months. They are concerned with their
+current cost structure. Companies have cut
+down on their discretionary spending,
+Due to COVID-19, companies optimised on
+their trade spend, with focus on ensuring
+product availability in the channel (as
+consumers stocked up) and reduction in
+advertisement budget across major players.
+Reduction in advertisements, specifically
+television advertisements, saw various B2C
+start-ups take up top advertisement spots.
+02. Re-evaluating priority segments
+and products
+With the reverse migration of labour and
+increased spend by the government in
+MGNREGA, the rural demand is expected
+to be stronger. Consumers continue to
+hold back on discretionary spending to
+save cash. Per a recent report by Nielsen3,
+increased focus on Middle and Rural India
+was reiterated as the majority of CXOs claim
+that they are increasing focus on Middle
+India and rural markets over the next six
+months. Contribution of lower town classes
+to overall e-commerce has increased from
+May to August vis-a-vis pre-COVID-19 levels.
+There are visible signs of consumers either
+downgrading to more affordable (mass and
+popular) offerings or shifting towards
+value-for-money large packs. Companies
+have been forced to re-evaluate their
+distribution and product mix in line with the
+changing trends. Per a recent Nielsen study3,
+2
+3
+
+36 percent CXOs plan to rationalise their
+consumer offerings in the next six months.
+03. Investments in digital
+With social distancing norms in place
+and uncertainty to general business,
+larger players have also invested in digital
+technologies to reduce cost structure and
+increase business continuity. Companies
+are extending partnerships with multiple
+digitally native players to expand reach with
+digitally native customers. A large FMCG
+player is participating in the digitalisation
+journey for general trade (GT) – an app for
+its GT stakeholders now has 0.23 million
+outlets onboard and seen a 2x rise in
+order value and number of SKUs ordered.
+Companies have also invested in more agile
+planning solutions and explored digital
+in manufacturing to enable continuity to
+business and respond better to the crisis.
+04. Re-evaluating supply chain
+Closure of international borders for a
+considerable time affected raw material
+sourcing, creating supply chain shocks.
+Several brands started vocalising about
+their Indian roots calling for “vocal for
+local”, influencing several consumers to buy
+products that use raw materials sourced
+from and manufactured in India. The trends
+have led companies to re-evaluate their
+manufacturing footprint for resilience
+to manage such shocks and changing
+consumer sentiments in the future.
+With the continued uncertainty caused by the
+pandemic and pressure on costs, companies
+will have to realign their ‘where to play’
+choices across geography, customers, and
+products to maximise their returns and make
+strategic business choices to ensure long-term
+sustainability of the business. To win, companies
+will have to ‘enhance’ consumer experience,
+‘build’ resilient distribution, enhance their ‘omni’
+channel play, ‘operate’ efficiently, and ‘thrive’ by
+focusing on agility and sustainability.
+
+Deloitte Survey: https://www2.deloitte.com/us/en/pages/operations/articles/global-cost-management-survey.html, 1089 respondents globally 44 from India
+COVID-19 Evolving Consumer Trends (Edition 5), Nielsen, September 2020
+
+18
+
+FMCG and retail REBOOT
+
+19
+
+FMCG and retail REBOOT
+
+20
+
+FMCG and retail REBOOT
+
+Enhance consumer and
+shopper experience
+Customer experience has been a critical
+pillar in the growth and transformation
+strategy of retail and consumer companies
+for over a decade. However, today’s
+consumers are raising the bar for what
+they expect along the shopping journey.
+Further, past few months brought
+fundamental shifts in the age-old habits
+of Indian consumers – the way they buy,
+consume, or engage with brands. These
+shifts might be more enduring than
+expected as consumers prefer remaining
+cautious in the backdrop of uncertainty
+caused by COVID-19.
+In response to the current and expected
+future consumer behaviour, companies
+are adopting strategies to deliver an
+
+enhanced and elevated experience.
+We are witnessing rapid and full-scale
+investments in new technologies to
+improve access, increase personalisation,
+and simplify interactions. It is crucial
+to note that consumer experience (CX)
+goes beyond traditional parlance of the
+support and service function. Customer
+experience is an outcome of every
+form of engagement covering product,
+brand, sales, relationship management,
+transaction servicing, and others. Hence,
+to be able to elevate customer experience,
+companies need to complement their
+technology investments with in-depth
+understanding of their customers’ needs,
+behaviour, and patterns.
+
+Customers in India and their expectations from
+consumer brands
+Before delving into various kinds of experience strategies that companies can design
+for their customers, let us understand Indian customers and their expectations from
+consumer brands:
+What experience means for different customer segments
+Customer segment
+
+Attributes
+
+Expectations
+
+Digital natives
+
+• Millennials or gen Z consumers
+• English speaking
+• Social media savvy and active as
+contributors
+• Multiple gadgets/device owners
+• Independent at young age
+• Open to peer reviews and influencers
+• Ready to experiment
+• Pricing not a primary consideration
+
+• Always on – anytime anywhere sales and service
+• Self-service across channels
+• Convenience over pricing
+• Freebies, offers, and promotions
+
+21
+
+FMCG and retail REBOOT
+
+Customer segment
+
+Attributes
+
+Expectations
+
+Digital adopters
+
+• Millennials, gen X/Y, or baby boomers
+• Willing to learn new technologies
+• Single gadget/device owners
+• Passive/reluctant presence on social media
+• Open to reviews from trusted sources
+• Late adopters of new channels
+• Price conscious
+
+• Make technology simple to use
+• Preference in vernacular languages
+• Tend to compare physical and digital channel
+experiences, products, and pricing
+• Remember my past interactions
+• Happy to pay reasonable premium for convenience
+to a limited extent
+
+Old school behaviour
+
+• Gen X/Y or baby boomers
+• Single device owners but limited use
+(beyond basic connectivity)
+• Low on trust with respect to new
+technologies and channels (seeing is
+believing)-adoption only as last resort or
+defer purchase/engagement if traditional
+channel is not available
+• Price sensitive
+
+• Continue the way it has been so far
+• Be available in the physical format near to my
+location
+• Pricing − critical driver in purchasing decision
+
+Source: Deloitte Analysis
+
+Companies should design and deliver human experience that is iterative and establishes
+a feedback loop to augment value chain – harnessed through a combination of
+experience and operational excellence to drive financial growth, spur innovation, and
+transform businesses.
+
+Human experience driven value loop
+“Drivers”
+
+“Operations”
+
+(H)
+(CX + WX +PX)
+
+Brand
+
+Experience
+excellence
+Predict and
+measure trustcum-behaviour
+across customer,
+partners, and
+employees
+to deliver
+personalised
+experiences.
+
+Price
+
+After care
+Product
+
+Advocacy
+
+Service
+
+Billing
+
+Spend
+
+Value definition
+Value is defined
+through differentiated
+customer value
+propositions
+Resolution
+
+Satisfaction
+
+“Measurement”
+
+Channel
+Partner
+
+Value creation
+Value is created
+through internal
+operations that
+allow to differ the
+experience
+
+Retail
+store
+Web
+
+Contact
+Center
+
+App
+
+“Touchpoints”
+
+Source: Deloitte Analysis
+CX – Customer Experience | PX – Partner Experience | WX – Workforce Experience | (H) – Human Centricity
+
+22
+
+Sales
+
+Empathy-led
+touchless
+customer
+journeys
+Re-imagine
+capabilities in
+the physical and
+digital spaces to
+drive sales and
+customer reengagement at a
+desired scale.
+
+FMCG and retail REBOOT
+
+Pillars enabling companies to build an
+experience strategy
+The following four pillars can enable
+companies to build an experience strategy
+aligned with business objectives and
+customer needs:
+01. Safety and convenience
+• COVID-19 has changed consumer
+expectations. The lockdown led
+rapid transition to online shopping.
+However, health and safety
+concerns are keeping customers
+away from physical stores even
+post lockdown. Consumers are in a
+constant flux of two opposing forces
+− concerns over visiting enclosed
+spaces (such as retail stores or
+malls), and at same time desire to
+move out and interact with one
+another.
+• Catering to both these concerns
+and desires in the most frictionless
+manner possible, is crucial for
+brands. We have seen most retail
+stores deploying safety measures.
+However, most of these measures
+were inconvenient to follow or did
+not cater to the scale of footfalls
+
+in the shop. This led to customers
+turning away or coming out
+with frustrated experiences and
+heightened concerns about their
+health. Some of these measures
+could include the following:
+– Complement safety measures
+with right convenience measures
+enabled by technology − Selfservice checkouts, click and collect
+models, curb-side delivery, queue
+less aisles, and others
+– Make behind-the-scenes action
+visible − Humans look for tangible,
+conspicuous signifiers that ensure
+safety; signs that they can see,
+feel, hear, and smell; awareness
+campaigns on measures being
+taken; frontline staff with uniform
+and badges/certification tags; and
+visibility on actions being taken
+– Build a proof of capacity to
+ensure social distancing − Queue
+counter displays, waiting time,
+appointment-based bookings, and
+other such measures)
+
+Case in point
+• Leading food delivery apps created visibility about safety measures by providing
+details such as name and temperature of stakeholders whose hands were passing
+the parcel – the chef cooking the meals, the packing counter boy, and the delivery
+boy carrying the meal. In addition, these apps adopted other measures, including
+the following:
+– Grading of participating joints based on safety and hygiene
+– Video blogs on food safety and hygiene, including measures taken such as
+touchless delivery
+• Leading private airport provider, re-engineered end-to-end traveller journey by
+keeping principles of hygiene at core; it further adopted a visible multi-channel
+communication and awareness strategy to generate confidence in travellers on the
+measures being taken.
+
+23
+
+FMCG and retail REBOOT
+
+02. Re-imagine channels where ‘old
+and new’ can complement and
+co-exist
+Today’s customers are not only
+digital savvy but fast becoming
+digital natives, leading to a need for a
+consolidated approach to customer
+experience aligned with product
+design and digital strategy. They
+have become a king enabled through
+several communication and social
+media channels. Multiple channels
+increase options for customers, and
+the ability to demand customised
+products and information. Customers
+are more aware of competitive and
+key service offerings across the
+board.
+
+by technological innovation at every
+turn. They also use digital tools to
+maximise productivity and efficiency,
+and create a dynamic, engaging
+experience.
+Retail stores from physical to
+phygital stores
+Reconsider the size and number
+of stores that will meet customers’
+needs, eliminating poorer-performing
+stores and focusing on flagship,
+showrooms, and pop-up store
+experiences. Consumers will no
+longer come in just to browse; they
+will arrive already knowing what they
+want, and the associate’s role will be
+to facilitate the purchase through an
+exceptional customer experience.
+
+Consumer and retail companies
+need to take a page from digital-first
+companies— it has never been more
+important to build a seamless omnichannel brand presence. Customers
+are looking for a digitised experience
+(both online and offline), enabled
+
+Companies should design preemptive and personalised zero-touch
+shopping journey across the physical
+and digital channels based on design
+principles mentioned below:
+
+Design principles
+A-Place
+
+B-Plan
+
+C-People
+
+D-Period
+
+Do you have
+to step out?
+
+Can you anticipate
+and plan actions?
+
+What is expected
+crowd size?
+
+What is the
+time needed?
+
+Pre-booked entry
+and QR code based
+access
+
+24
+
+Click and
+collect/shop and
+drop/curb-side
+delivery
+
+Virtual crowd/
+queue
+management
+
+Immersive shopping
+and service windowcum-BTS visibility
+
+AR/VR
+led trouble
+shooting
+
+FMCG and retail REBOOT
+
+Shown below is an indicative new normal journey in a shopping mall and a five-star hotel
+for consumers where the physical channel has been re-imagined and complemented
+with digital experience:
+Case in point – Indicative touchless journeys developed on principles of empathy led scale @usual
+Re-imagined journeys at a luxury hotel
+Pre-entry
+
+Hotel entry
+
+Barry and his friends
+are asked to take up
+health evaluations on
+the app before reaching
+the hotel.
+
+Touchless sanitisation
+tunnel, visual AI-based
+mask compliance, and
+thermal scanning for
+temperature.
+
+Risk evaluation is
+done for Barry using
+information about
+and after obtaining
+additional information
+from him.
+
+KYC documents
+collected before the
+entry through the app
+and verified through a
+selfie.
+
+Bags and other carryons are sanitised.
+The app has a complete
+360 degree view of
+Barry. Based on his
+previous bookings, he
+is provided additional
+offers and discounts.
+
+Barry and his friends
+are guided through the
+hotel to their rooms
+without any human
+interaction.
+
+Barry makes bookings
+after viewing the hotel
+capacity and various
+safety measures.
+
+Self check in kiosks,
+operated via the phone
+after scanning the bar
+code to confirm hotel
+entry.
+
+Barry receives
+personalised offers
+for booking a room
+based on customer
+preference.
+
+Immersive app
+
+Keyless entry is
+enabled through app
+and facial recognition.
+
+IoT
+
+Virtual/augmented
+experience
+
+Accommodation
+Barry receives in
+personalised and
+hotel communications
+through the app.
+He is also able to
+communicate with
+his friends in other
+rooms through the app
+(replaces intercom).
+
+Barry controls
+electronic devices in
+the room – lights, TV,
+etc, via the app on the
+phone.
+Virtual menus,
+brochures for virtual
+surfing, and placing an
+order for items on the
+app and pay through
+digital payments.
+Pre-book slots for
+areas such as gyms and
+spa, through the app,
+avail discounts based
+on prior behavioural
+patterns.
+
+Hotel navigation
+through real-time
+crowd density
+information based on
+visual 3D maps.
+
+Cognitive bots
+
+Exit
+
+Barry Allen
+Is a chemical
+engineer who has
+travelled with his
+friends Wally and
+Iris on a short stay
+vacation.
+He is quite
+tech savvy and
+anxious about the
+current pandemic
+situation.
+
+Barry can access the
+bill posted in the app/
+web account. He can
+pay using reward points
+accumulated.
+
+Mini bar consumption
+measured using
+sensors and photo
+uploaded by the
+customer.
+
+Barry gets reward
+points for his stay.
+He is able to redeem
+the points on many
+new partners
+establishments.
+
+Loyalty intervention
+
+25
+
+FMCG and retail REBOOT
+
+Re-imagined journeys at a shopping malls
+
+Pre-entry
+
+Shopping mall
+entry
+
+Receive
+approved slot
+of 3 hours
+
+Complete selfhealth evaluation
+
+SHOPPER JOURNEY
+
+Opt-in, self-assessment,
+consent to data sharing
+Select
+preferred
+time of visit
+
+Want to visit
+mall
+
+WHAT’S IN IT FOR THE MALL
+
+•
+
+26
+
+•
+
+•
+
+Open app and
+book table on
+food court
+
+Wear mask
+and go to
+mall
+
+Book
+parking slot
+on app
+
+Access the mall
+app and get a
+recommendation
+for nearby mall
+
+Shopping and
+check-out
+
+Use digital
+entry pass
+for access
+
+Access to
+customers
+preferences to
+draw out specific
+promotion
+and marketing
+schemes
+App adoptiondirect
+engagement with
+customers
+Preparedness for
+expected crowd
+density and
+ensuring minimum
+health risk
+
+•
+
+•
+
+•
+
+Location-based
+shopping
+information
+to consumerenabled through
+the mall navigation
+app to boost
+conversions
+Wow experience
+for customers
+through an endto-end touchless
+experience
+Goodwill and
+brand building
+with transparent
+information
+
+Use virtual
+aisle
+navigation and
+virtual try out
+
+Getting sick
+
+Access virtual menu card
+through the app and
+order on the go
+
+If required, open
+the app and extend
+slot by 60 mins (max
+allowable limit)
+
+Scan
+product
+barcode
+and make
+payment
+on the app
+
+Enter mall
+– touchless,
+thermal scanning
+
+Exit
+
+Redeem
+loyalty points
+
+Complete
+feedback
+(simple
+emoticons)
+
+Click the required button
+on the app in case of
+COVID-19 symptoms
+
+Receive
+reward/
+appreciation
+badge on
+the app for
+following
+social
+distancing
+norms
+
+Use real-time
+mall navigation
+(crowd density
+management)
+
+•
+
+•
+•
+
+Real-time
+personalisation
+of products
+(fit of product,
+customisation,
+etc.,), while
+customers are
+browsing digitally,
+to uplift sales
+conversion and
+slash returns
+Increased foodcourt footfalls
+Rich data source
+for analytics to be
+used for spatial
+re-deign
+
+Follow the app for
+directions to the
+nearest isolation
+room
+Leave
+mall from
+dedicated
+exit
+
+Mall uses information
+collected through the
+app to perform contact
+tracing
+
+•
+
+•
+
+Customer
+feedback and
+sentiment
+sensing
+Loyalty invoked
+and driving
+incentives for
+repeat footfall
+while giving a
+digital upbeat
+and touchless
+shopping
+experience
+
+•
+•
+
+Contact tracing
+Symptom
+reporting and
+case management
+
+FMCG and retail REBOOT
+
+Cloud and AI-driven call centres
+Contact centres are a key touchpoint
+where businesses can build strong
+connections, earn trust, and create
+loyalty. Artificial Intelligence (AI) remains a
+strategic priority for contact centres. Per
+the Global Contact Center Survey 20194
+by Deloitte, 75 percent contact centre
+leaders invested in AI capabilities and 56
+percent of them believed that AI has broad
+applications in call centre transformation.
+This was further accentuated in recent
+times where anytime, anywhere call
+centres became a reality. Service
+continuity and sales pressure forced
+companies to move from on-premise call
+centres to remote call centres. Immediate
+benefits realised from remote call centres
+usually outweighed the challenges faced,
+such as real estate savings, work-life
+balance, and higher workforce diversity.
+There is a growing acknowledgement that
+issues faced were not flaws of operating
+model design but attributable to timing
+of events. Hence, there is greater support
+for shifting to the ‘new normal’ in the
+customer community.
+As a result, many leading telecom
+operators, banks, and retail giants are
+considering adopting this as a norm.
+As customers are also gearing to the
+new normal in many facets of life, this
+is the right time for organisations to
+accelerate transformation of call centres.
+Organisations can adopt three kinds of
+AI-led service philosophies:
+High touch-AI/cognitive levers used for
+deflection to self-care; diagnosis to closure
+via human intervention
+
+4
+
+Lite touch-Low complexity managed via
+AI/cognitive; human intervention-based
+diagnosis and resolution for higher
+complexity issues
+Zero touch-E2E interaction managed
+via AI and cognitive for most call drivers;
+human intervention only for exception and
+premium handling
+Conversational AI
+Conversational AI refers to the use
+of messaging apps, speech-based
+assistants, and chatbots to automate
+communication and create personalised
+customer experiences at scale. Most
+chatbots are used for deflection, i.e.,
+channeling customers to the right queues.
+AI is now changing this. Corporates are
+investing significantly in conversational
+AI to understand the intent and offer
+first-point resolution to customers. This
+will enable them to improve operational
+efficiencies and elevate experience. Per
+the Global Contact Center Survey 2019 by
+Deloitte, use of chatbots and messaging
+is expected to double for complex
+interactions management in the next two
+years. To get competitive advantage from
+conversational AI, companies should focus
+on the following:
+• Integrate conversational capabilities
+with intelligent automation to enable
+extreme personalisation.
+• Use conversational AI platform focused
+on sales and collection along with
+support services (this will make the
+channel self-funding).
+• Deploy conversational AI not just for
+end customers, but also for managing
+workforce and channel partner
+experience.
+
+Deloitte Global Contact Center Survey 2019 representing 172 organisations headquartered in 16 countries
+27
+
+FMCG and retail REBOOT
+
+Digital properties – Apps and social
+media
+Digital properties remain a crucial channel
+in the experience value chain. However,
+companies need to focus on the following
+elements to ensure adoption at scale
+across customer segments:
+• Availability of digital properties in
+vernacular languages with easy-to-use
+visual interface
+
+• Education and adoption measures,
+including trust building activities for
+more customers to sign up and transact
+on digital properties
+• Multi-channel linkage and real-time
+information updates on digital
+properties
+• Linkage of digital experience with
+physical channels
+
+Re-imagined channels-Case in point
+• A global Fortune 500 company had to make an emergency shift to work from
+home call centre set-up, coupled with increased call volumes as physical channels
+were not available due to the lockdown. The company worked by making the
+shift from High Touch to Lite Touch call centre by strengthening IVR and bots, and
+empowering customers with self-validation controls.
+• Various B2C companies are running pilots to make digital properties available in
+vernacular languages. One of the use cases is on vernacular bots. Although these
+are in the nascent stage in India (due to 100+ dialects and language complexity),
+this channel has the maximum potential given a low smartphone penetration and
+literacy rates beyond urban India. Companies are exploring setting up voice bot
+capabilities in local languages for sales and service journeys.
+• Leading FS organisations are enriching conversational AI with ‘extreme
+personalisation’ using advanced AI/ML and intelligent automation. These measures
+will enable conversational AI to work as virtual voice agents for collection and
+recovery use cases. As a result, the system is able to determine what time to call
+which category of customers and how to adjust tone and wordings on the same
+script to have effective collection rates. Given the success on collection rates, the
+company is exploring deployment of extreme personalisation-led conversational
+AI in B2B virtual sales management.
+• A hyper market chain reformatted its store guidelines to sustain trust. These
+guidelines include allowing a number of people at a time and rationing units of
+purchase to avoid hoarding. It made the queue and crowd density information
+visible on digital properties (such as app or web). This helped customers plan when
+they could come. Further, they allowed customers to book slots when to visit (just
+like dining reservations), equipping them with information to serve customers
+better.
+• Various luxury brands launched their season sales over virtual pop-up stores on
+social media platforms and registered double-digit growth in sales and customer
+engagements compared with the past year.
+
+28
+
+FMCG and retail REBOOT
+
+03. Customer experience strengthened
+on pillars of workforce and partner
+experience
+Years of sub-optimal returns on
+transformation projects, along with
+COVID-19-driven shifts in human
+behaviour and business challenges,
+have revealed that silo focus on
+customer experience capabilities
+will not be enough to thrive into
+the future. Instead, exponentially
+growing results and flipping out of
+
+the current mode would start when
+organisations align and connect
+customer experiences with workforce
+and partner experience. Focusing on
+partners and workforce responsible
+for engaging and fulfilling customer
+needs (customer experience elevation
+requires an equal focus on partner and
+workforce experience), is crucial.
+A few interventions/use cases are
+mentioned below:
+
+Customer experience
+
+Partner experience
+
+Workforce experience
+
+• Make visible changes in customer
+journey, displaying safety and
+generating trust
+• Make new, easy-to-use channels
+available to customers
+• Being digital in vernacular languages
+• Virtual queue management
+• Personalised virtual shopping guides
+• Showcase how we care and adjust to
+new norms
+• Generate trust by demonstrating
+transparency on behind-the-scene
+activities
+• New ways of engagement and
+working for virtual walk-ins
+• Notification and messaging factory
+• Define authentic messaging
+• Personalised offers and service
+interactions
+• Pre-emptive pulse on the resilience
+index
+• Conduct event-based sentiment
+check
+
+• Partner safety – extending
+benefits and communications
+• Channel programmes for better
+brand perception
+• COVID-19 partner resource hub
+• Virtual onboarding and
+expansion
+• New code of conduct and values
+• KPIs and SLAs on what customer
+service means in the new normal
+• Changes in business behaviour
+attributes
+• Transparent communication on
+invoice payments and dues
+• Real-time, two-way
+communication channel
+• Trust generating communication
+• Sensing on willingness to coinvest, co-risk, and grow
+• Event-based sentiment check
+• Focusing on partner business
+continuity
+
+• Convenience and safety concierge for employees
+due to closed schools and limited day care support
+• Touchless employee journeys
+• Provide tools (such as alerts) to combat COVID-19
+when they move between green zones and red
+zones
+• Information, empowerment, and recognition to
+service customers
+• Empathy-focused new code of conduct and values
+• Re-profile and redeploy staff with higher
+vulnerabilities (e.g., expecting ladies in frontline)
+• Changes in expected behavioural attributes
+• Communicate job security and stability
+• Re-iteration unending support
+• Flatten listening hierarchies and provide more
+channels
+• Share stories of strength within a company
+• Fit-for-person motivation drivers
+• Pre-emptive pulse on fatigue and the resilience
+index
+• Event-based sentiment check
+• Skill refresh interventions, including soft skills
+• Valued engagements through crowdsourcing/
+innovation hackathons
+
+04. Weaving experience as a true
+differentiator
+Using AI, ML, and other exponential
+technologies, companies are replacing
+conventional metrics of experience
+with predictive metrics of behaviour
+and real-time emotional sensing. This
+helps companies with the following:
+•
+
+Segment customers based
+on their values and subconscious behaviour for
+sharper personalised offerings,
+communication, and service
+
+•
+
+Sharpen existing segmentation by
+a combination of behavioural data
+with sales and operational data
+
+•
+
+Predictive understanding
+of human behaviour and
+expectations than reactive survey
+collation
+
+•
+
+Real-time insights and sensing
+to enable corrective actions with
+intuitive close looping workflow
+
+29
+
+FMCG and retail REBOOT
+
+Further, organisations are
+complementing experience excellence
+intent with equal competence across
+the value chain. This includes designing
+for new normal; preparing for ‘never
+seen before’ rainy day scenarios; and
+driving experience-linked business
+outcomes on revenue acceleration,
+cost, and efficiency savings.
+Organisations must take a step back
+and drive experience elevation focused
+on three core elements – culture,
+technology, and operations – using the
+following underlying principles:
+• Align culture, technology and data,
+and operations towards a common
+vision
+
+Vision refresh
+
+Measure
+and adopt
+
+Consumer
+
+Employee
+
+• Accelerated time to value and
+reduced risk; use digital tools to
+deliver tangible benefits across
+customer journey, offerings, and
+internal operations
+• Agile development with continuous
+measurement, learning, and
+improvement
+The two foundations of customer
+loyalty, trust, and confidence are being
+put to test. Corporates and brands
+must put customers’ interests first to
+shine in these uncertain times. Those
+that act quickly can capture loyalty via
+human-centric transformations in the
+next few months to build a legacy of
+loyalty. As a leader, now is the time to
+build trust, signal safety, and redefine
+connection.
+The COVID-19 crisis and the technology
+revolution are fast giving way to the
+human revolution − now, more than
+
+30
+
+Partner
+
+Stakeholders
+
+Develop
+strategy and
+operating model
+
+Plan and
+develop
+
+Quick wins:
+Model the
+experience
+
+• In-depth user understanding and
+insights-driven choices; re-model
+traditional business propositions to
+cater to the shifting demand pool
+• Strategise differentiated value
+propositions while tackling
+key consumer sentiments and
+showcasing empathy during a crisis
+
+Gather insights
+and assess
+current state
+
+Business
+Organisation
+Operations
+
+Entice
+
+Enter
+
+Engage
+
+Culture
+technology, and data
+operations
+
+ever, people are seeking human
+connection. To be competitive in this
+human age, companies must elevate
+the human experience by providing
+purpose and meaning through shared
+experiences that enable connection
+across workers, customers, and
+partners. Therefore, the human
+experiences organisations create are
+becoming a vital part of their ability to
+thrive. Humanising the experience by
+designing right channels and journeys,
+is crucial.
+
+Exit
+
+Extend
+
+FMCG and retail REBOOT
+
+31
+
+FMCG and retail REBOOT
+
+32
+
+FMCG and retail REBOOT
+
+Building distribution
+channels post COVID-19
+Impact of COVID-19 on existing FMCG and retail distribution
+The pandemic has forced many retail
+stores and intermediaries to either
+scale down or shut shop, causing
+unprecedented disruption in retail
+activity. Distribution channel partners
+have suffered significant losses from
+lockdown disruptions. In the retail and
+FMCG segments, the pandemic has
+affected critical areas, such as consumer
+preferences/behaviour, fulfillment and
+logistics, channel partner operations, and
+workforce.
+Changing consumer preferences:
+COVID-19 pushed customers into
+prioritising essentials and buying
+more online
+The pandemic has significantly altered
+consumer preferences, purchase patterns,
+and customer touchpoints. A recent
+Deloitte consumer survey5 in the Indian
+market revealed a growing trend towards
+online shopping, preference for hyperlocal
+deliveries, and blended commerce.
+Consumers are giving importance to
+safety and hygiene, thus avoiding visiting
+physical marketplaces. Other trends being
+observed are consumers’ willingness
+to pay for convenience while cutting
+down on discretionary spending due to
+reduced income.
+Fulfillment and logistics: During
+the pandemic, movement of trucks
+decreased to 95 percent from normal
+scenario with trucks stranded at
+warehouses
+The logistics sector, an indicator of the
+overall health of the economy, saw the
+
+Critical areas affected that need to be rebuilt
+
+Fulfilment
+& Logistics
+
+Channel Partner
+Operations
+
+Consumer
+Preferences
+
+Workforce
+Critical
+Levers
+
+maximum impact of the pandemic in
+the initial days of the lockdown when
+the movement of trucks decreased
+significantly. The only movement witnessed
+was that for essential goods. Intermittent
+market lockdowns, and numerous security
+and health checks significantly affected the
+movement of raw materials and last-mile
+delivery of products.
+E-commerce players also had to suspend
+their logistics services for sellers on their
+platforms. According to the Retailers
+Association of India (RAI), the supply chain
+of about 25,000-30,000 supermarkets had
+been affected.6
+
+https://www2.deloitte.com/in/en/pages/consumer-business/articles/state-of-the-consumer-tracker.html
+https://economictimes.indiatimes.com/small-biz/sme-sector/hit-by-a-virus-and-lockdown-the-wheels-are-coming-off-the-indian-logistics-industry/
+articleshow/74882675.cms?from=mdr
+5
+6
+
+33
+
+FMCG and retail REBOOT
+
+“Intermittent market lockdowns and numerous checks on
+movement of goods led to the blocking of a number of pin
+codes by logistics firms. There were rumours floating around
+customers rejecting shipments in fear of contamination,
+companies planning to fire staff owing to reducing orders,
+etc., that added to the panic“
+Representative of a logistics firm
+
+As the country’s economy gradually
+opened up and resumed normal
+operations, logistics activities and players
+witnessed a muted recovery due to
+disruptions in market operations and
+consumer sentiments.
+Channel partner operations were
+affected and resulted in lower cash
+flows
+Due to COVID-19 induced lockdowns,
+many retailers and distributors saw a
+sudden and dramatic halt in their cash
+inflows as consumers stayed indoors
+and reduced spend on non-discretionary
+purchases. As retail stores remained shut,
+distributors fearful of non-payment from
+retailers (of consumer goods, electronics,
+
+smartphones, etc.) and an increase in
+lending strictness from banks and NBFCs,
+started dealing only in cash instead of
+continuing with the usual practice of
+offering up to three weeks of credit. This
+is because they feared defaults by small
+retailers.
+This adversely affected flow of goods. The
+problem was more pronounced in smaller
+towns where local kirana shops often
+provide goods to regular customers on
+credit. The pandemic pushed these buyers
+(including migrant workers who returned
+from cities) in smaller towns to default.
+Slowing of credit rotation led to a reduced
+return on investment across the retail
+supply chain.
+
+Cash crunch leading to a slowdown in the FMCG/retail sector
+
+Retail sales
+plummet due
+to lockdown
+
+34
+
+Retailers face
+cash crush,
+need credit
+
+Distributors
+fearing default
+supply only for
+cash
+
+Bulk purchases
+reduce both by
+retailers and
+distributors
+
+Factorydistriutorretailer chain
+slows down
+
+FMCG and retail REBOOT
+
+More than one crore migrant
+workers7 moved back to their
+hometowns during the pandemic
+As companies struggled to create
+and fulfill consumer demands, they
+faced another challenge in the form of
+reverse migration. Even when lockdown
+restrictions were eased and companies
+were allowed to resume operations, a
+majority of their workforce had travelled
+back. This has forced stores to operate at
+reduced capacities. Distributors operating
+with minimal staff were unable to supply
+goods down the channel, forcing retailers
+to arrange delivery of goods.
+
+“We have stocks ready to be transported
+in our godowns but are unable to find
+people who can help us deliver them
+to kirana outlets. The majority of the
+loading, transportation, and unloading
+activities were done by migrant
+labourers from other states who are now
+unavailable. Additionally, we are losing
+customers as small retail shop owners
+are shutting shops and moving back to
+their hometowns.“
+Distributor of a leading FMCG player
+
+7
+
+http://164.100.24.220/loksabhaquestions/annex/174/AU2044.pdf
+
+35
+
+FMCG and retail REBOOT
+
+How companies are innovating and rebuilding
+distribution systems post COVID-19
+The pandemic revealed that companies
+using digital channels, such as
+e-commerce, omnichannel, and direct-toconsumer, were able to adapt and recover
+faster. Companies that were ahead of the
+curve in the digital transformation journey
+proved to be best-equipped to manage
+
+the repercussions and navigate the
+pandemic with a relatively lesser impact.
+Companies that relied only on traditional
+distribution channels to service customers
+were at a greater disadvantage. The major
+trends that are emerging in rebuilding
+distribution are the following:
+
+Emerging trends in distribution
+
+New-age distribution
+channels leveraging
+omnichannel and market
+aggregators
+
+Focus on hyperlocal
+and regionalisation
+
+Digital technologies
+enabling remote
+sales and enhance
+fulfilment
+
+Strategic alliances to
+expand distribution
+capabilities
+
+Focus on rural
+markets
+
+36
+
+FMCG and retail REBOOT
+
+Increasing focus on hyperlocal and
+regionalisation
+The distribution trend that has gained
+significant attention from business
+leaders today is hyper localisation. In
+the past, companies had experimented
+with hyperlocal distribution to achieve
+varying levels of success. However, a
+supporting ecosystem of customers,
+technology platforms, and last-mile
+delivery players have been gradually
+building up. Additionally, there has been
+a growing acceptance of channel partners
+during the pandemic. Distributors/dealers
+are looking at it as another channel to
+capture the market rather than treating
+it as competition. The pandemic saw
+a significant increase in the hyperlocal
+delivery of essential items, such as
+groceries, fruits, and hygiene. Consumers
+who had been compelled to stay indoors
+because of the fear of infection, quickly
+transitioned to online marketplaces
+offering delivery at doorsteps.
+Another trend observed in case of
+companies with global sourcing and
+distribution systems was the prolonged
+impact of disruptions on operations.
+Companies and their channel partners
+suffered from an acute shortage of
+raw material/finished goods as the
+sourcing countries went into lockdown.
+This dependency and reliance on global
+partners are compelling them to reevaluate their strategy of centralised
+distribution and sourcing. The flexibility
+offered by multi-level sourcing and
+distribution channels is capturing leaders’
+interest. The sourcing and distribution
+channel is undergoing a significant change
+and witnessing the re-emergence of
+regional logistics hubs.
+Case: Companies launching hyperlocal
+platforms and delivery capabilities
+One of India’s largest marketplaces has
+piloted a hyperlocal delivery model to
+deliver products across categories such
+as grocery, mobiles, electronics, and
+home accessories. The company provides
+
+“The company witnessed 3-5x growth
+in demand for hyperlocal delivery of
+essential goods during market lockdowns.
+Demand for other non-essential product
+categories is also increasing.“
+Leading logistics player
+
+consumers an option to fulfill orders in
+90 minutes or book a 2-hour slot on the
+basis of their preference. At present, the
+company has tied up with 3PL for lastmile delivery. However, it plans to move
+towards a hybrid model wherein they can
+use local shop owners and their existing
+logistics capability to deliver products.
+Increasing use of digital technologies
+to take orders remotely and enhance
+fulfillment levels
+The traditional model of flooding the
+market with the inventory at channel
+partners and stores is sub-optimal at
+many levels. Sensing demand, forecasting
+accurately, and building visibility in the
+system are essential for companies to
+extract maximum value from existing
+infrastructure and assets. Building a
+flexible and adaptive channel is now a key
+requirement for sustaining a business.
+The right combination of route to market,
+digital solutions, and technology adoption
+is crucial for building a responsive
+distribution. Real-time visibility on
+facilities, operations, and logistics will
+play a key role in enabling the business to
+make informed decisions. Companies use
+new-age technologies, such as IoT, artificial
+intelligence, sales automation tools, big
+data, and analytics to enable visibility and
+traceability, and build digitally connected
+networks.
+
+37
+
+FMCG and retail REBOOT
+
+Companies have witnessed a manifold
+increase in the adoption of salesforce
+automation tools, enabling teams to do
+remote/telephonic selling. Remote selling
+capabilities, coupled with demand visibility
+and order fulfillment, have enabled
+companies to effectively service outlets
+with optimal inventories.
+Case: Companies using analytics/tech
+to build innovative fulfillment options
+A leading apparel manufacturer has
+undertaken a transformation journey to
+enhance its sales operations and strategy
+with the help of new-age digital solutions.
+The company had implemented sales
+automation tools for both the company
+and channel/franchise partners to
+enable greater visibility on operations
+and enhance productivity. Data captured
+from these tools are used to create
+performance dashboards for leadership
+to take proactive business decisions.
+The company has witnessed a significant
+improvement in the adoption of these
+tools since the outbreak of the pandemic.
+Encouraged by the improvements, the
+company is investing in building remote
+sales capabilities to enable business
+continuity and ensure minimal impact
+on sales.
+Rural markets driving consumption and
+growth recovery
+Rural India accounts for about 65 percent8
+of the total population and contributes
+significantly to the overall FMCG spend.
+Reverse migration, decreasing digital
+divide, and increased government focus
+and expenditure, are expected to expand
+markets and increase demand in rural
+areas. Further, recent government
+reforms in the agri space are likely to
+improve returns for farmers and improve
+average household income/consumption.
+Contribution from agriculture and allied
+services is expected to fuel rural/Indian
+economic growth, especially during
+COVID-19.
+
+8
+9
+
+Drivers of rural consumption and demand
+include the following:
+• Increase in purchasing power due
+to growth in agricultural output and
+the government’s focus on increasing
+agricultural income and output
+• Augmented government spending on
+rural infrastructure development and
+poverty elimination programmes
+• Increased production in rural; the share
+of rural industrial output as a percent of
+the total industrial output, has doubled
+in the past few years9
+In light of increasing rural consumption,
+companies are re-focusing their strategies
+on reaching out to rural customers, and
+investing in building and strengthening
+their distribution capabilities in rural
+markets. Traditionally, companies had
+built indirect distribution capabilities to
+serve rural markets. This led to limited
+visibility on the flow of products and
+consumer purchase patterns, and a
+relatively higher cost to serve. With
+increasing consumer demand, companies
+now focus on building their direct
+distribution to gain a stronger foothold in
+the market and boost sales.
+Case: Investment in expanding
+distribution capabilities in rural
+markets
+A leading Indian conglomerate is
+expanding its reach in rural markets by
+investing in building warehousing and
+distribution capabilities. The company
+plans to use these warehouses in addition
+to their brick and mortar outlets as lastmile connection points for its e-commerce
+venture. The company also plans to
+set up internet-enabled kiosks at these
+points to allow rural consumers to place
+online orders. Using these new innovative
+connection centres, the company intends
+to sell a wide range of products that
+have a long shelf life and do not require
+installation assistance. Additionally, these
+centres can act as delivery/collections
+
+https://data.worldbank.org/indicator/SP.RUR.TOTL.ZS?locations=IN
+https://niti.gov.in/writereaddata/files/document_publication/Rural_Economy_DP_final.pdf
+
+38
+
+FMCG and retail REBOOT
+
+centres. The company has plans to extend
+this model to groceries, personal care
+products, apparel, footwear, etc. After the
+successful implementation of this project,
+the company intends to have an effective
+presence and direct access to ~95 percent
+of the Indian population.
+Strategic alliances to expand
+distribution capabilities and reach
+Building or expanding a business cannot
+be successfully achieved solely on the back
+of a great product/service and business
+plan. Ensuring visibility and product
+availability for the right set of customers at
+the right time is an essential component.
+Companies have explored numerous
+distribution channels and configurations
+to achieve this.
+The pandemic, with market lockdowns,
+compelled companies to re-configure
+their distribution systems within a short
+period. As customers were locked indoors,
+companies had to explore omni-channel
+and hyperlocal delivery models. New and
+unconventional partnerships were forged
+to achieve this feat.
+
+FMCG companies partnered with
+online marketplaces to showcase their
+products on online marketplaces.
+They also partnered directly with
+third-party delivery services to enable
+doorstep delivery. Fulfilment of these
+orders were routed via a company’s
+existing channel partners to support
+the entire value chain.
+
+Post the pandemic, we are witnessing a
+seismic shift in how companies are reconfiguring and re-thinking distribution
+strategies. More companies are exploring
+alliances that can offer greater value
+than a simple movement of goods
+across locations. We are witnessing an
+
+increasing trend, and need for companies
+to enter into strategic and unconventional
+partnerships to enhance visibility,
+expand coverage, and penetration
+while optimising cost to serve. These
+new-age partnerships serve a varied
+set of purposes related to capability
+enhancement, logistical support, and
+market and consumer insights.
+Case: Enhancing reach and revamping
+consumer shopping experience
+A leading Indian conglomerate’s retail
+arm partnered with a popular instant
+messaging platform to deploy a
+conversational commerce platform for
+grocery orders. Customers can search
+for a local business on the app, browse
+through its catalogue, and complete
+purchase either on the app itself or place
+an order online and collect products from
+the store. The partnership may later be
+extended to include the distribution of
+medicines, fashion, lifestyle products,
+food, etc.
+New-age distribution channels using
+omni-channel and aggregator models
+Rise of omni-channel models
+With evolving consumer and market
+trends, urbanisation, burgeoning
+millennials, consumption-driven society,
+brand awareness, and rising income,
+companies have had to modify business
+models and operations to cater to
+these market disruptions. Knowledge of
+consumer, micro-markets, demography,
+real-time view of operations thus becomes
+essential. Companies have progressed
+from traditional distribution channels
+servicing brick and mortar outlets to
+e-commerce and further to multi-channel.
+They are now gradually progressing
+towards an omni-channel approach. Each
+model has brought companies closer to
+their customers.
+
+39
+
+FMCG and retail REBOOT
+
+Omni-channel will be the next step in the evolution of retail10
+Omni-channel is the next step in the evolution of retail moving from intersection
+of multiple channels towards integration of multiple channels
+The Past
+
+The Recent Past
+
+The Present
+
+The Future
+
+Physical Stores
+“Customers will
+come to us”
+
+e-Commerce
+“We need to sell
+on-line”
+
+Multi Channel
+“Many customers
+shop across channels”
+
+Omni-channel
+“Functionality and
+connectivityat the point
+of need”
+
+Brick & Mortar
+eCommerce
+Mobile
+Social
+Digital Apps
+
+Interaction Points
+
+The FMCG market had been growing with
+an increasing share of e-commerce and
+direct-to-customer models. The pandemic
+further accelerated this trend. Digital
+collaborative distribution models became
+the need of the hour for companies to
+connect and service customers offering
+a convenient, hygienic, personalised,
+and consistent offline-to-online (O2O)
+experience.
+The share of e-commerce and DTC
+channels is rising, driven by the following:
+• Increasing digital spend by millennials
+
+10
+
+Deloitte Research
+
+40
+
+• Growing need for personalisation and
+customisation
+• Rising preferences for convenience and
+faster deliveries
+• Growing in-home consumption
+Digital native brands, the early adopters
+of direct distribution channels, have
+proven the potential of this channel. The
+changing consumer and market trends are
+now coercing traditional brands to enter
+this space and build it as an additional
+channel.
+
+FMCG and retail REBOOT
+
+Emergence of aggregator models for
+distribution
+This shift towards online channels can
+be witnessed across the B2B space as
+well. While some players have existed
+for decades, the majority of the other
+companies failed to make a mark. Recent
+structural market changes in the form of
+GST, rising internet penetration, growth
+of digital payments, government and PE/
+VC funding, and even demonetisation
+are fostering the growth of these startups and aggregators. Start-ups such as
+Udaan, Jumbotail, ShopX, and Ninjacart
+have raised significant funding in the
+past few years. Encouraged by this trend,
+even the government has launched an
+e-marketplace to improve procurement
+efficiencies at public-sector enterprises.
+These aggregators, primarily operating
+in the B2B space, are re-defining the
+distribution ecosystem by increasing
+efficiencies, reducing prices, and rising
+effective margins available to channel
+partners. They offer a wide range of
+services, including the following:
+• Product visibility/discovery via an online
+marketplace
+• Platform for conducting commerce
+activities
+• Finance and credit facilities
+• Logistics and last-mile delivery services
+• Value-added services, such as analytics
+and advertising
+
+Retailers and enterprises are finding value
+in these players as they provide direct
+access to a wider range of customers,
+along with transparency in operations.
+In the B2B space, customers find value
+in this model as they can easily compare
+services across multiple players and get
+guaranteed delivery. During the pandemic,
+acceptance of online commerce has
+improved in the retailer community, which
+was a major challenge before the onset of
+the pandemic.
+Case: B2B e-commerce channel to
+expand reach/coverage and offer
+innovative business models
+• A B2B start-up currently present in
+Bengaluru is serving about 20,000
+neighborhood kirana stores. The
+company has created an ecosystem
+wherein it offers the following services:
+– Order fulfillment via their warehouses
+– Last-mile and home delivery
+– Supply services to local stores
+– Credit and working capital support
+• Another B2B e-commerce player
+focusing primarily on rural markets
+aims to act as a bridge between
+rural consumers and manufacturer/
+primary markets. The company offers
+a wide range of services, including the
+following:
+– Direct to home delivery for consumers
+– E-commerce tech platform for a retailer
+to cater to their sourcing requirements
+from the convenience of their shops
+– Credit, marketing, analytics, and
+logistics support to local retailers
+
+41
+
+FMCG and retail REBOOT
+
+Building future-proof distribution channels: Potential
+interventions and critical success factors
+Companies that learn from market
+disruptions and put customers at the
+heart of their operations (i.e., transform
+their mindset and enable channel partners
+to progress from simply catering to
+consumer requirements to identifying
+the latent need, shaping requirements,
+
+and proactively delivering solutions) are
+more likely to succeed in future-proofing
+their businesses. Companies are exploring
+digital and sales interventions across the
+channel that will help them extract greater
+value and build sustainable distribution
+channels.
+
+Multiple sales acceleration initiatives can be undertaken using digital solutions
+as an enabler (illustrative)11
+Sales
+automation
+tools – SFA,
+DMS, remote
+sales, etc.
+
+Company
+
+Micro DMS,
+Loyalty
+
+Distributor/
+Stockist
+
+Re-distributor/
+Sub-stockist
+
+Digital
+catalogue,
+retail app,
+conversational
+commerce
+
+Retailer
+
+Multi/
+Omnichannel
+
+Credit
+facility
+
+Alliance with
+other companies,
+3PL players,
+NBFC, etc.
+
+E-commerce/
+3PL players
+
+Social/
+Apps
+Potential Revenue Enhancement Interventions
+
+11
+
+Deloitte Research
+
+42
+
+DTC, Central
+e-catalogue
+portal
+
+FMCG and retail REBOOT
+
+To build future-proof distribution with the help of channel partners, the focus should be
+on the following key elements-Engage, Innovate, and Empower
+
+Engage
+
+Innovate
+
+• Create a superior customer
+experience
+• Connect and engage with
+channel partners and key
+stakeholders
+• Incremental value for
+channel partners
+
+Empower
+
+• Leverage insights to design
+innovative and responsive
+distribution strategies
+• Re-define customer value
+proposition basis customer
+and market insights
+
+A
+
+B
+
+Engage: Distribution has always
+been a customer-centric business
+with interactions playing a key role.
+With the rise of new distribution
+trends and channels, this aspect
+has been further amplified with
+distribution channels to engage in
+more effective communications
+across the value chain and with
+customers. Easy access to data
+and information have empowered
+customers and stakeholders across
+the value chain to become more
+informed and require engagement
+across various touchpoints (online
+and offline).
+
+Innovate: Distribution channels
+need to use insights through
+data and process improvements
+to extract exponential value
+from existing infrastructure
+and assets. Companies need to
+work with channel partners to
+optimise key components, such
+as pricing, SKU management,
+inventory management, and
+network optimisation, to transform
+operations, optimise cost to serve,
+and enhance efficiencies within the
+value chain. Managing trade-off
+between service and stock levels,
+product assortment carried, and
+re-imagining channel configuration
+can drive greater value from existing
+assets, and enable companies
+to invest in building innovative
+customer servicing and fulfillment
+strategies. This will help bring in
+agility and improve receptiveness to
+pilot and experiment with innovative
+strategies to develop micro-market
+specific distribution strategies.
+
+Distribution channels and partners
+can no longer survive by overflowing
+the market with inventory, sales
+representatives, and branch offices.
+To build a sustainable and preferred
+route to market, channels/channel
+partners need to capture a wide
+range of data points and collaborate
+with partners to derive insights and
+new applications. Companies need
+to build a holistic offering package
+for their channel partners, and drive
+productivity and effectiveness.
+
+• Empower channel partners
+with digital technologies
+• Micro-market segmentation
+and strategy
+• Leverage digital and
+analytics to mine insights
+
+C
+Empower: To empower channel
+partners, companies will need
+to leverage digital and new-age
+technologies, embrace data, and
+generate insights from them.
+Technology implementations have
+transitioned from being a mere
+change of systems to transformation
+drivers that help re-imagine
+business with new streamlined
+processes and automated functions.
+Companies can build a single
+view of customers, markets, and
+operations, resulting in a deeper
+market understanding for micromarket segmentation and designing
+specific distribution strategies.
+Additionally, an empowered
+channel facilitates the capturing
+of valuable data across customer
+touchpoints, thereby enabling a
+superior customer experience and
+transformed operations.
+
+43
+
+FMCG and retail REBOOT
+
+44
+
+FMCG and retail REBOOT
+
+Omni-channel for expanding reach
+Omni-channel is being fuelled by increased digital
+influence, demand for differentiated experience, and
+tailored experiences for and orientation of consumers.
+The proliferation of digital touchpoints has transformed consumer behaviour. Customers
+want same service levels and access to information throughout their purchase journey
+regardless of interaction channel (physical store, mobile device, or website). In addition,
+tailored and engaging experiences and an emotional connect are strong drivers for
+choosing a brand.
+
+Changing consumer preferences are driving omni-channel adoption
+
+Anytime anywhere access
+Consumers want to have a twoway conversation and access
+brands across channels.
+Personalisation
+Consumers are looking for options
+that are tailored to their needs and
+customised to their preferences.
+Emotional connect
+Consumers want to discover
+unique brands with mission
+statements that they align with.
+Differentiated experience
+Consumers are drawn to engaging
+and relevant experiences that turn
+them from a passive recipient to
+an active shopper.
+
+In response, retailers use a combination
+of online and offline digital touchpoints
+to influence and delight consumers. This
+has become especially important in the
+current pandemic, which has accelerated
+the shift of consumers to an online and
+low-touch delivery experience. While
+consumers have become accustomed
+to online shopping during the current
+lockdown, a need for ‘real-world’
+experiences that physical stores offer will
+always exist. To meet this need, retailers
+
+are looking to seamlessly integrate
+channels and extend offline experiences
+to include online platforms.
+Hence, omni-channel is the retail model
+of the future with a shift in focus from the
+company to the customer. In addition, by
+adopting this model, retailers can increase
+footfall in stores, improve conversions,
+and offer a better experience to customers
+than competition.
+45
+
+FMCG and retail REBOOT
+
+COVID-19 has accelerated omni-channel strategy formulation
+To future-proof their business, retailers had already embarked on an omni-channel
+journey. The pandemic has accelerated this shift. This scenario also demonstrated that
+retailers who were either prepared for or had completed this transformation before the
+pandemic struck have been able to weather the storm better.
+Case study
+After implementing effective omni-channel strategies, an American retail
+corporation witnessed a 141 percent increase in digital sales despite the majority of
+its stores having remained open. This contributed to a same-store sales growth of
+10.8 percent. The retailer also acquired 5 million new customers. In April, sales on
+curb-side pickup increased nearly 1,000 percent. The same-day delivery option via
+multiple fulfilment options also was popular with a growth of 278 percent.
+Case study
+One of the top retail jewellers in India introduced gold ownership certificates to
+enable customers to make continued purchases during the lockdown. Multiple
+lockdown-related campaigns were also launched to capture the consumer mind
+space. The store landscape was modified to ensure social distancing, and enable
+appointment and occasion-based purchases. Convenient payment options were
+enabled through e-gift cards
+
+Trends and innovation in omni-channel retail strategies
+
+Hyper-personalisation
+
+Multiple
+payment options
+
+46
+
+Responsive
+customer support
+
+1
+
+3
+
+2
+
+4
+
+Innovative business
+models
+
+FMCG and retail REBOOT
+
+Technology-driven hyperpersonalisation
+Businesses use tools and technologies
+such as CRM and IoT-enabled devices to
+gather data of a customer’s interaction
+with the brand across multiple
+touchpoints. This allows them to offer
+customised experiences using AI,
+augmented reality/virtual reality, etc., in
+the physical and digital environments.
+Multiple payment options
+Launch of new technologies and growth of
+fintech have led to convenient and faster
+checkout processes. Contactless payment
+is also gaining steam because of the
+pandemic.
+Customers are now embracing digital
+payment options, such as QR code
+enabled transactions, mobile wallets, NFC,
+and UPI. According to NPCI data, volume
+of UPI transactions almost doubled
+between Sept 2019 and Sept 2020.12
+Responsive customer support
+In 2018, brands in the US lost US$75
+
+billion of business as customers switched
+brands because of bad customer service.13
+Customers want immediate help and
+support during their purchase journeys.
+Businesses are setting up integrated
+contact centres to provide anytime and
+anywhere customer support through
+phone calls, social media, email, text,
+video, and live chat.
+Innovative business models
+As working from home has become the
+new normal, businesses are using digital
+interventions, such as remote selling/
+video calling to connect with consumers.
+This will also help re-evaluate priority
+customers and cater to the shift in focus
+from urban to rural on account of rapid
+reverse migration.
+Remote selling consists of an end-toend sales cycle starting from creating
+awareness to providing after sales service.
+Given the pandemic, brands are expected
+to continue to explore this option to
+provide better customer experience and
+augment sales.
+
+Critical success factors for omni-channel retail
+Key features and functionalities
+Single view of
+customers
+
+Integrated CRM system
+
+Customer lifecycle
+management strategy
+
+Single customer master
+
+Single view of
+inventory
+
+Real-time stock visibility and
+accuracy
+
+Endless aisle and crosschannel purchases
+
+Single product master
+
+Single view of
+products
+
+Integrated pricing
+
+E-catalogue
+
+Single design codes for
+products
+
+Seamless customer
+experience
+
+Integrated promotions
+
+Omni-channel cart access
+
+Virtual and crosschannel trials
+
+Convenience and
+personalisation
+
+Home delivery, BOPIS, ship from
+store, and try and buy at home
+
+• Product customisation
+
+Targeted discounts and
+offers
+
+Access to a customer’s shopping
+profile across channels and regions
+
+Digital tabs to view
+products across stores
+
+Digitally empowered
+store staff
+
+12
+13
+
+• Personalised browsing
+
+Mobile cashier to enable
+faster checkout and
+skipping queue
+
+Source: NPCI website: https://www.npci.org.in/product-statistics/upi-product-statistics
+Source: https://www.forbes.com/sites/shephyken/2018/05/17/businesses-lose-75-billion-due-to-poor-customer-service/#4b94634616f9
+47
+
+FMCG and retail REBOOT
+
+Capability
+
+Description
+
+Benefits
+
+Single view of product
+
+Ensure single and consistent product for
+product look-up across channels.
+
+Enable creation of a single repository of productrelated data.
+
+Single view of inventory
+
+Provide real-time visibility to cross-channel
+stock and enable inventory placement.
+
+Enable strategic placement of inventory across the
+supply chain to meet expected demand.
+
+Single view of customer
+
+Enable a single view of customer, including
+profile and interaction data across channels.
+
+Enable focus on each customer to create targeted
+messaging and offerings.
+
+Capability
+
+Description
+
+Benefits
+
+Seamless customer
+experience
+
+Develop processes, tools, and infrastructure
+to provide the ability to transact at every
+touchpoint.
+
+Enable capturing customers’ orders consistently
+across channels, provide order visibility, and update
+customers and store associates.
+
+Convenience and
+personalisation
+
+Create customer delight by providing
+convenient and tailored experiences.
+
+Leverage analytics and ensure consistent
+communication with customers across channels to
+enhance their experience.
+
+Digitally empowered
+store staff
+
+Provide enhanced in-store connectivity and
+digital tools to associates and customers.
+
+Enable convergence of digital and store experience
+driven by associate engagement and enabled by store
+connectivity.
+
+Three steps to becoming an omni-channel organisation
+
+Expand
+e-commerce
+Organisations
+can embark on
+their omni-channel journey
+by refreshing their online
+Expand
+e-commerce
+–
+presence
+to meet digital
+Organisations
+embark
+on
+consumers’can
+needs.
+While
+their
+omni-channel
+journey
+e-commerce
+remains
+a by
+refreshing
+their
+onlinestores
+presence
+separate
+channel,
+can
+to meet
+digital
+consumers’
+needs.
+be used
+to provide
+offline
+While
+e-commerce
+remains
+a
+trials.
+This can range
+from
+separate
+stores
+simplechannel,
+changes,
+such can
+as be
+used
+to provide
+offline
+This
+upgrading
+UI/UX
+to trials.
+enhanced
+canbuying
+range from
+simple
+changes,
+features
+(such
+as digital
+such
+upgrading
+UI/UX
+to
+3Dastrials
+and home
+trials).
+enhanced buying features (such as
+digital 3D trials and home trials).
+
+01
+
+48
+
+Integrate
+channels
+
+Transform to
+omni-channel
+
+The next step
+can be to allow
+interoperability across online
+and offline channels. Store
+Expand
+e-commerce
+inventory
+is visible –to online
+Organisations
+on
+customers can
+and embark
+centralised
+their
+omni-channel
+journey
+by
+control
+exists over
+product
+refreshing
+their
+online
+presence
+fulfillment
+and
+listing.
+Retailers
+to meet
+digital
+consumers’
+needs.
+can look
+at offering
+in-store
+While
+e-commerce
+a
+experience
+that remains
+complements
+separate
+channel,
+stores can
+beas
+the online
+experience
+(such
+used
+to provide
+offlinepurchase
+trials. This
+tracking
+customer
+canhistory
+range from
+simple
+changes,
+across
+channels).
+such as upgrading UI/UX to
+enhanced buying features (such as
+digital 3D trials and home trials).
+
+The final step in the
+journey is to become
+a full-fledged omni-channel
+organisation with a customerExpand
+e-commerce
+–
+centric
+approach. Customers
+Organisations
+embarkplace
+on
+can browsecan
+products,
+their
+omni-channel
+journey
+by
+orders,
+and receive
+delivery
+refreshing
+their across
+online channels.
+presence
+and returns
+to meet
+digital
+consumers’
+needs.
+Retailers
+have
+a single view
+While
+e-commerce
+remainsand
+a
+of inventory,
+customer,
+separate
+channel,
+can be
+product
+acrossstores
+channels,
+used
+to provide
+offline
+trials. This
+enabling
+them
+to maximise
+canproductivity
+range from and
+simple
+changes,
+match
+such
+as upgrading
+consumers
+withUI/UX
+right to
+products,
+enhanced
+buying
+features (such as
+services,
+and experiences.
+digital 3D trials and home trials).
+
+02
+
+03
+
+FMCG and retail REBOOT
+
+Business capability canvas for omni-channel retail
+To win in an omni-channel world, retailers need to develop customer-and organisationfacing capabilities covering key business functions. A business capability view provides a
+map to navigate the journey.
+Front end
+
+Back end
+
+Customer experience and support
+
+Inventory management
+
+• Define omni-channel experience
+strategy across channels
+• Define features and functionalities
+to enhance customer experience
+• After sales customer service and
+support
+• Define framework for CSAT and NPS
+
+• Merchandise allocation and
+replenishment (planogram)
+• Real-time inventory visibility across
+channels
+• Demand planning and forecasting
+(during key sale events)
+• Optimising inventory stocking points
+
+Product strategy and pricing
+
+Customer management
+
+• Single product master
+• Product catalogue management
+• Merchandise and assortment
+planning
+• Price setting and price execution
+management
+
+• Single customer master
+• Create customer personas and
+journey maps
+• Customer Lifetime Value (CLTV)
+management
+• Customer loyalty management
+
+Order management and payments
+
+Logistics and fulfilment
+
+• Integrated order management
+system
+• Integrated payment options
+• Cross-channel product movement
+
+• Delivery and returns options – Clickand-collect, home delivery, etc.
+• Logistics options – In-house vs.
+outsourced
+• Define approaches for returns and
+refund management
+• Define an approach for internal
+transfers
+
+Demand generation
+
+Margin sharing and entity considerations
+
+• Define customer branding and
+marketing approach
+• Customer lead management
+• Customer segmentation
+• Integrated campaign planning and
+execution
+
+• Margin sharing and sales attribution
+governance between entities/stores
+• Global/local sourcing and
+procurement considerations
+• Legal and compliance considerations
+
+49
+
+FMCG and retail REBOOT
+
+50
+
+FMCG and retail REBOOT
+
+Operate more efficiently
+Impact of COVID-19
+Orchestrating the recovery to the pre-COVID-19 levels would require significant
+collaboration and coordination within and across organisations as new operating models,
+partnerships, and national policies continue to evolve. Absence of a precedent and the
+simultaneous impact across nations are adding to the complexity as serial learnings
+cannot be applied. Hence, there are no proven playbooks to date. In such situations,
+three timeframes over which a crisis plays out are mentioned below:
+Prepare and
+manage continuity
+
+3
+
+PHASES
+Plan to return to
+normal in a new
+context
+
+Focus on critical
+areas and neccessary
+actions
+
+Respond – During which organisations are focused on dealing with the present situation
+to ensure survival, continuity, and safety
+Recover – During which organisations use their learnings from the Respond phase and
+emerge stronger and become more competitive in the marketplace
+Thrive – During which organisations shape the future of their businesses
+Over the past seven months, the priority
+of businesses and their leaders in India
+has been responding effectively to the
+dynamics of the marketplace except
+in a few sectors (including food and
+pharmaceuticals) where organisations
+now focus to recover and thrive. However,
+given the changing dynamics requiring
+flexibility and nimbleness, organisations
+across sectors need to consider three
+timeframes concurrently and accordingly
+allocate time, effort, and resources.
+With the added dimension of Non-
+
+Pharmaceutical Interventions (NPIs), this
+would require levels of orchestration
+and coordination that have not been
+attempted before over an extended period
+of time given the current state of the
+pandemic. The criticality emerges from the
+fact that organisations’ decisions will have
+a significant impact on their business and
+operating models. Hence, these decisions
+would be the foundation for the business
+to thrive, and achieve sustained and
+profitable growth and performance post
+the pandemic era.
+
+51
+
+FMCG and retail REBOOT
+
+Impact and implications on supply chains
+of organisations
+There are a number of significant supply
+chain implications on businesses that
+have been created/evolved from the way
+the ecosystem has responded to the
+pandemic.
+Fatigue of intermediaries
+In the recent past, supply chains have
+been characterised by a significant
+increase in “Go Direct to Customer”
+models specifically in the consumer
+business segment. In our estimates,
+most leading organisations have moved
+exponentially to about 15 percent of their
+total sales being direct to consumer. This
+is also being accelerated by customer
+expectations that are now characterised
+by “fatigue of intermediaries.”
+Changing expectations require
+organisations to provide a multitude of
+fulfillment options to customers (e.g., ship
+from store, pickup at store, same-day
+delivery, and digital delivery). In the near
+term, to add to the complexity, customers
+would be able to choose and change the
+fulfillment option while the product is in
+transit.
+Instant fulfillment orientation
+In a significantly proliferated portfolio
+that organisations are expected to carry
+in India, they need to hold inventory to
+meet demand from different channels
+while catering to customer expectations
+on both service levels and defined delivery
+windows. This, coupled with the range
+of fulfillment modalities, significantly
+increases inventory in the channel/
+working capital requirements and/or stock
+outs for the business.
+(Un) predictability of demand
+With price in perspective, convenience
+drives customers’ purchase decisions.
+Hence, the shift in channels as they access
+goods and services makes it difficult for
+organisations to hardwire their supply
+chain infrastructure and ecosystem.
+Without real-time information and
+predictive models, organisations may not
+be in a position to forecast demand and
+52
+
+run the danger of duplicating demand
+data across channels.
+Bi-directional supply chains
+With a proliferated portfolio, on-line
+ordering and multiple variables to choose
+from, expectation mismatches exist. This
+creates significant pressure on supply
+chains to configure a robust and visible
+reverse supply chain that sustains the cost
+structure of a business and addresses
+complexity (as products could be returned
+through a different channel than what was
+considered for ordering).
+Drag of technology
+“Digital supply chains” is the buzzword
+for businesses. However, with
+uncertainty caused by the pandemic,
+most organisations in India have to
+make the decision of replacing their
+ecosystem of aging, inefficient, and fragile
+legacy systems that lack the flexibility,
+responsiveness, and computing power to
+appropriately orchestrate an India-wide
+multi-node, multi-echelon, dynamic supply
+chain. Furthermore, most systems are at
+best point solutions or a range of solutions
+which are not integrated. Hence, they
+would not be able to provide end-to-end
+visibility required to optimise and address
+emerging dimensions.
+Fragmented physical footprint
+Many of today’s largest retailers have
+grown through acquisition, resulting in a
+network footprint which is far from any
+theoretical optimal solution. Distribution
+centre coverage may overlap; it is usually
+not enough to justify capital required for
+consolidation. Facilities of different eras
+and leadership ambitions may challenge
+efforts to standardise processes and
+handling.
+
+FMCG and retail REBOOT
+
+Considerations for organisations
+This is a unique moment for organisations
+in which they can plan and execute
+actions for tomorrow without a significant
+baggage of the past. Seven key actions
+that are expected to characterise
+the successful journeys of leading
+organisations are discussed below.
+What to own in the supply chain – value
+delivery or value addition?
+With uncertainty in demand,
+organisations are forced to do more
+with less to preserve cash and enhance
+competitiveness. This, coupled with
+changing customer preferences and
+expectations, is forcing organisations to
+rethink their value proposition. Focus
+is now on answering the fundamental
+question of what in the supply chain
+should the organisation own and what
+should be leveraged from others. The
+
+focus has now shifted from value addition
+to value delivery that goes beyond
+traditional outsourcing or contracting.
+An example is the new ecosystem that
+is being created in logistics where the
+core organisation is at the periphery of
+the ecosystem. Although the ecosystem
+includes automotive OEMs, it has the
+mindshare of the customer from an
+experience viewpoint. This enables
+organisations to focus on their core supply
+chain competencies and capabilities that
+would enhance customer experience
+while using best practices for sustained
+competitiveness.
+This has significant ramifications including
+the ones on the talent models. Tasks that
+would require a full-time employee in an
+office could now be farmed out to ‘gig
+economy’ workers.
+
+The evolving logistics ecosystem
+
+Organisation
+
+Licence plate owners
+
+Logistics platforms
+
+Service and parts
+channel partners
+for vehicle
+
+The new logistics
+ecosystem in India
+
+OEMs/vehicle
+manufacturers
+
+Service owner
+at the core
+
+Emerging start-up companies
+for niche solutions (e.g.,
+logistics track and trace)
+
+Drivers/co-drivers
+
+Vehicle finance companies/
+captive finance companies
+53
+
+FMCG and retail REBOOT
+
+Operating model – a move to hyper
+segmentation
+The primary requirement from supply
+chains is the alignment to the business
+and customer strategies. As organisations
+are fine-segmenting their market to
+enhance customer experience, they also
+need to segment their supply chain for a
+synchronous planning and fulfillment of
+customer requirements.
+Class-leading companies have now
+embarked on the journey of hyper
+segmenting their portfolios to
+plan, source, make, and deliver in a
+heterogeneous model aligned to market
+demands. This should be based on
+fulfillment, service levels, and cost to
+serve than a homogenous model that is
+unidimensional for most markets and
+segments. The collateral impact of this
+is the reduction in complexity for the
+business and therefore, the enhanced
+focus of the leadership on exceptions in
+the value chain.
+Comprehensive digital acceleration
+Most digital interventions are planned as
+a set of un-coordinated point solutions
+with the primary purpose of rapidly
+digitising old processes and operating
+models for functional effectiveness. While
+
+Create
+
+Outfitting the physical process with
+sensors that measure critical inputs from
+the physical process and its surroundings
+
+Communicate
+
+Seamless, real-time, bi-directional
+integration/connectivity between the
+physical process and the digital platform
+
+Data ingestion into a data repository −
+Aggregate processed and prepared for analytics
+
+Analyse
+
+Data is analysed and visualised to
+develop iterative models that generate
+insights and guide decision-making
+
+Insight
+
+Insights from analytics are presented
+through dashboards that indicate areas
+potentially needing investigation or
+change
+
+Act
+
+Actionable insights are fed back to the
+physical asset and the digital process
+to achieve the impact of the digital twin
+
+54
+
+these provide instant gratification to both
+leaders and executives involved in the
+programmes, their impact on business
+competitiveness even in the short term is
+questionable.
+Leading organisations are taking the
+alternate route of working on a broader
+organisation platform that includes their
+extended supply chain to create and
+deploy solutions that help solve data and
+digital problems across the extended
+enterprise. The outcome is a “Digital
+Twin,” which is an evolving digital profile
+of the historical and current behaviour
+of a physical object or process that helps
+optimise business performance (based on
+massive, cumulative, real-time, real-world
+data measurements across an array of
+dimensions).
+This would be the building block for an
+integrated capability connecting internal
+and external supply chain systems with
+relevant customer insights pulled in
+from various nodes of the supply chain
+– consumption, patterns, velocity, time
+windows, etc. This data-rich network helps
+generate real-time customer insights
+from a supply chain perspective, enabling
+appropriate decision-making to minimise
+lost sales and customers.
+
+FMCG and retail REBOOT
+
+Physical network reorientationInfrastructure for flexibility and rapid
+response
+Companies need to use the opportunity
+presented by changing customer
+preferences on fulfillment to replace
+or optimise legacy supply chain
+infrastructure, including physical
+distribution sites and delivery capabilities,
+to prepare for a more transparent and
+flexible supply chain. This would mean
+not just consolidation and aggregation
+of the footprint but a significant move
+towards optimising space, enhancing
+quality of infrastructure, and filtering the
+associated partners. An optimisation rate
+of 20 percent in the legacy footprint is
+envisaged.
+
+In summary
+As executives and businesses make
+the decisions required to ensure their
+organisations’ recovery, supply chain
+functions are getting closer to the
+decision-making process and providing
+insights required to drive strategy. First
+is a specific focus on the dimensions of
+scenario planning that help business
+understand both the short-and mediumterm implications. The second has
+been the impact on improved capital
+performance enabled by digitalisation of
+the supply chain to provide actionable
+recommendations.
+
+Leverage partner alliances and
+ecosystems
+One of the key disruptions has been the
+emergence of start-up ecosystems that
+can provide competitive advantages
+through best-in-class solutions. As
+organisations make decisions on these,
+key factors for consideration should not
+be limited to traditional models of cost
+of ownership but focus on differentiating
+elements, including acquisition and
+retaining of talent, and technological
+flexibility to tackle both the problems of
+today and the decade. These decisions will
+affect competitiveness, speed-to-market,
+and general business agility.
+
+55
+
+FMCG and retail REBOOT
+
+56
+
+FMCG and retail REBOOT
+
+Thrive by focusing on
+sustainability
+Sustainability has become a buzzword in
+the spheres of innovation and marketing
+over the past few years. With disruptions
+in the environment due to natural and
+man-made disasters, sustainability has
+also gained prominence in boardroom
+discussions. Besides climate change, the
+three key factors that put sustainability
+at the top of organisational agendas, are
+discussed below.
+
+Changing consumer
+habits
+As businesses seek to become more
+responsible corporate citizens, consumers
+too are now acknowledging the need to
+reduce carbon footprint.
+A recent survey found that more than
+43 percent consumers are choosing
+brands based on brands’ environmental
+values. About 34 percent consumers’
+buying behaviour is based on a brand’s
+ethical credentials, and two-thirds of
+the consumers surveyed indicated
+a significant reduction in the use of
+single-use plastics.14
+A demographic study revealed that people
+over 45 years are most likely to reduce their
+consumption of single-use plastic. They are
+also keen to engage in other environmental
+issues, such as cutting carbon emissions.
+While those aged 18-34 are most likely to
+choose brands for their ethical values. People
+of all ages are adopting more sustainable
+consumer behaviours.14 With this in mind,
+brands are proactively looking to build
+sustainable practices across their supply
+chain.
+
+14
+
+Impact of COVID-19
+The COVID-19 crisis has also put
+sustainability in the spotlight. Businesses
+are looking at reorganising their supply
+chain to build operational resilience and
+incorporate sustainability across strategies.
+It often takes a great deal of upheaval
+and strife to cause a fundamental
+societal change. COVID-19 is seen to be
+providing that uncomfortable upheaval
+across sectors right now. It is expected to
+cause a fundamental shift in investment
+and activity towards sustainability. The
+question is how far will these changes go?
+It is almost a certainty that there will be a
+massive reassessment and realignment of
+supply chains. It is also likely that investors
+and consumers will factor sustainability
+much more strongly while evaluating
+opportunities.
+
+Waste management rules
+and Extended Producer’s
+Responsibility (EPR) in the
+Indian context
+The Plastic Waste Management Rules 2016
+and the E-Waste (Management) Rules 2016
+have become wider in their ambit, and
+specifically refer to the EPR. Both these
+rules have been adopted at a central level
+and applied throughout India. Some states
+have extended applicability beyond these
+provisions and banned single-use plastic.
+
+https://www2.deloitte.com/uk/en/pages/consumer-business/articles/sustainable-consumer.html
+57
+
+FMCG and retail REBOOT
+
+The Plastic Waste Management Rules 2016
+impose obligations on “brand owners”,
+“producers,” and “importers.” These rules
+have introduced the notion of EPR in the
+context of plastic waste management. For
+the first time, the rules also cover “waste
+generators” that include every individual
+generating waste.
+The e-waste rules contain specific e-waste
+collection targets that producers must
+achieve as part of their obligations as
+members of the producer responsibility
+organisation − starting with 10 percent of
+the quantity of waste generated to going
+up to 70 percent by 2023.
+
+need to factor in while working on their
+sustainability agenda are mentioned below:
+• Every company is not on the same level
+of maturity regarding sustainability,
+making it difficult to have a standardised
+benchmark for sustainability.
+• Aligning sustainability with business
+objectives across various geographies
+and businesses is crucial.
+• Lack of awareness and sophistication
+amongst supplier networks (key
+emission contributors) remains a barrier
+in achieving sustainability targets.
+• On-ground implementation still
+remains an important challenge.
+
+EPR is a means to enable large
+corporations in India share the burden
+of waste management, as is being
+done in several countries. Over the
+years, companies have been allocating
+disproportionately higher funds towards
+developing new plastic materials but
+hardly anything for post-consumer
+management. India’s uniform framework
+on EPR offers a timebound effort and
+provides for progressive intervention in
+the future on part of corporations.
+
+• Consumers may be seen as advocates
+for change, but they are rarely activists
+for change.
+
+For corporation, EPR in India entails
+economic responsibility (all or part
+of the expenses for the collection,
+recycling, or final disposal of products
+they are manufacturing); physical
+responsibility (physical management
+of products); and informative
+responsibility (information on the
+environmental properties of products).
+
+Looking around
+Sustainability has become a watchword
+for organisations and governments across
+the world. Enterprises can look around to
+understand and implement regulations
+that stem from government initiatives to
+become more sustainable. They can also
+seek inspiration or use capabilities from
+the business environment to respond to
+these initiatives and use sustainability as a
+driver for innovation.
+
+Aligning green goals and meeting their EPR
+responsibilities will help brands fulfil their
+corporate social responsibility, and assist
+them in building brand trust and gaining
+allied competitive advantages.
+
+Challenges in
+accomplishing
+sustainability agenda
+While sustainability is the need of the
+hour, some aspects that organisations
+
+15
+
+Sustainability has now reached a tipping
+point where enterprises that embrace
+it will reap potential benefits. Those
+that do not adopt it may miss out on
+relevant opportunities. Let us learn
+how organisations can overcome these
+challenges to accelerate their growth and
+transformation by looking around, looking
+inside, and looking ahead.
+
+01. Global environment, COVID-19, and
+the plastic ban
+Research from the Pew Charitable
+Trusts and SYSTEMIQ indicates that 11
+million metric tonnes of plastic flowed
+into oceans in 2016. This number
+is projected to be 29 million metric
+tonnes in 2040. The same research
+found that 40 percent of today’s
+global plastic waste ends up in the
+environment, with single-use plastics
+being the main culprit.15
+
+https://www2.deloitte.com/global/en/blog/responsible-business-blog/2020/tackling-waste-in-post-covid-world.html
+
+58
+
+FMCG and retail REBOOT
+
+In light of this global climate crisis,
+China announced in 2017 that it would
+ban the import of plastic waste from
+around the world. This was a catalyst
+for change, and the world took notice.
+It prompted Thailand and Canada to
+impose a ban on single-use plastics.
+Local action was taken in the US
+with states such as California and
+Massachusetts eliminating or working
+to eliminate certain types of plastics.
+In June 2018, Prime Minister Narendra
+Modi announced that India would
+eliminate single-use plastics by 2022.
+Overall 127 countries have restrictions
+on manufacturing, distribution, or use
+of plastic bags, while some levies a tax.
+Before the COVID-19 pandemic hit
+the world, global decision-makers
+were beginning to make meaningful
+progress towards eliminating singleuse plastics. However, many of these
+gains were lost when the pandemic hit,
+as reusable items (such as grocery bags
+and coffee cups) were abandoned over
+fears of virus transmission. Instead
+consumers went back to single-use
+plastics to limit human contact and
+decrease virus transmission.
+To regain lost ground in the agenda
+and reduce single-use plastics
+consumption, governments,
+businesses, and NGOs need to regain
+momentum together by continuing to
+focus on three key areas: innovation,
+waste management and policy
+reforms, and evidence-based decisionmaking. And, this must be done within
+the parameters of our ‘next normal,’
+where depending on single-use
+plastics is not necessary. Economies
+are rebuilt to optimise reusable and
+design-out waste.
+02. Sustainability best practices
+By viewing sustainability through
+the lens of growth and opportunity,
+businesses have been able to apply
+their creativity and innovation to tackle
+some sustainability challenges, and are
+also opening up new business models,
+strategies, products, and services.
+By innovating for sustainability,
+
+businesses can also identify ways
+to accelerate towards their future
+business strategy.
+Deloitte Canada’s sustainability team
+is working with a global chemical
+company to improve the circularity of
+plastic value chains through blockchain
+technology. As another example,
+an automaker company anticipates
+producing 22 million Electric Vehicle
+(EV) units by 2030, when EVs are
+expected to comprise 40 percent of
+the automaker’s offerings.
+Some businesses may lack the
+necessary knowledge, skills, or
+technology, to achieve the desired
+scale or pace of their sustainability
+transformation. Rather than building
+or buying these capabilities, companies
+can use the capabilities of others
+within their ecosystem. For instance, a
+consumer goods company has made
+a commitment that 100 percent of
+its packaging will be recyclable or
+reusable by 2025. Recognising that the
+company would struggle to achieve
+this alone, it opened the Institute of
+Packaging Sciences in 2019 to codevelop and test new environmentally
+friendly packaging materials and
+systems, together with suppliers,
+research institutions, and start-ups.
+The opportunity for system-changing
+innovation is now. Consumers are
+looking for new, environmentally
+friendly alternatives and governments
+are struggling to tackle the sheer
+volumes of plastic waste.
+Looking inside: Deloitte’s approach to
+responsible business
+With a longer-term narrative in place,
+executives can look inside their business
+to see what initiatives they could launch in
+the immediate or near future to accelerate
+the path towards a sustainable future.
+Organisations that take a transformative
+approach to sustainability have made
+several characteristic shifts to think and
+act differently, as illustrated below:
+
+59
+
+FMCG and retail REBOOT
+
+Several key shifts characterize companies that take transformative approaches to sustainability
+From
+
+01
+02
+03
+04
+05
+06
+07
+
+Riskfocused
+
+Opaque
+
+Profitdriven
+
+Enterprisefocused
+
+Companies see sustainability through
+the lens of disruption and risk, focusing
+on how sustainability could damage the
+company’s bottom line.
+
+Companies see sustainability through
+the lens of growth and opportunity,
+Opportunity- focusing on how sustainability could
+increase the company’s bottom line.
+focused
+
+Companies do not reveal information
+about their sustainability performance,
+choosing to shy away from technology or
+reporting practices that could expose poor
+performance.
+
+Companies adopt technology advances
+to enable radical transparency,
+and openly discuss sustainability
+Transparent
+performance and improvement areas.
+
+Profit-driven companies are committed
+to create financial returns for their
+shareholders. Profit-driven companies
+draw on the commitment to profit to
+drive strategy and decision-making.
+
+Enterprise approaches operate within
+a company’s traditional boundaries.
+Interactions with external stakeholders, such
+as customers, suppliers, or communities, are
+transactional rather than reciprocal.
+
+Purpose-driven companies seek
+to create long-term value for all
+stakeholders, not just shareholders.
+Purpose-driven Their purpose guides strategy and
+decision-making.
+
+Ecosystemfocused
+
+Ecosystem approaches aim to
+transcend a company’s traditional
+boundaries to involve the wider
+ecosystem, recognizing the company’s
+interdependencies with external
+stakeholders.
+
+Consultative approaches aim to
+raise awareness, exchange
+information, build support, and
+Consultative secure buy-in from stakeholders.
+
+Collaborative approaches aim to
+engage in co-innovation and
+partnerships with stakeholders
+Collaborative to build mutual interest in
+sustainable outcomes.
+
+A preservative model aims to
+sustain the present state. This
+model adopts a “do no harm”
+Preservative Preservative approach to sustainability.
+
+A regenerative model aims to go
+beyond the current state to restore and
+reconstruct. This model aims to “do
+Regenerative more good than harm.”
+
+Linear
+
+Source: Deloitte Analysis
+
+60
+
+To
+
+Companies take a linear, “takemakeconsume-waste” approach to using
+resources. The raw material is transformed
+into a product, which is thrown away after it
+ends its life cycle.
+
+Circular
+
+Companies strive to adopt a circular
+model with the aim of preventing
+waste. A circular model is renewable by
+design and aims to gradually decouple
+growth from the consumption of raw
+materials to preserve finite resources.
+
+FMCG and retail REBOOT
+
+Looking ahead: Sustainability strategies
+While looking ahead, organisations need
+to focus on how to take advantage of
+new growth opportunities related to
+sustainable development, as well as what
+threats and challenges may arise from it.
+Due to the COVID-19 pandemic, most
+organisations have experienced some sort
+of supply chain disruption. To be able to
+sustain in the ‘new normal’, organisations
+should take into consideration the
+following practices from a supply chain
+perspective.
+Identify and plan for supply chain risks
+Organisations need to put in place
+processes to identify and ensure that
+sustainability can be built in the supply
+chain, end-to-end. Sustainability should
+not just be a function of ensuring nothing
+bad will ever happen (that is not a
+realistic goal). Rather, it is a function of
+designing and implementing processes
+to understand, anticipate, and manage
+sustainability, and its related risks when
+they materialise.
+Increase in transparency
+To achieve resilience and improve their
+supply chain, organisations must move
+beyond tier 1 suppliers and go onto tier 2,
+3, 4 and even beyond. They also need to
+understand who are their suppliers, where
+are they located, where do they source
+from, etc.
+Responsible businesses need to prioritise
+sustainability over everything. The way
+to do this is to engage with stakeholders,
+have a candid discussion on key issues
+affecting them, agree on areas where
+
+there is a problem, and then look at
+solving them together.
+If a supplier is polluting an environment
+advertently or inadvertently, responsible
+businesses can join hands with them and
+come to a mutual understanding on what
+needs to be changed. Working together
+to solve the problem can eliminate the
+damage that other stakeholders are
+doing to the environment, while also
+depriving less responsible competitors
+from engaging with that supplier. This can
+send a strong message to peers and other
+clients that sustainability is the need of
+the hour and only responsible businesses
+will be given precedence and priority
+by consumers. Taking this “responsible
+business” approach strengthens the
+overall supply chain. This also protects the
+reputation of the buyer’s industry – which
+is a source of risk shared by competitors.
+Re-assess the supply chain
+In the ‘new normal’, organisations will
+need to reassess their supply chain risks
+and redefine their supplier relationships.
+Earlier, cost was the primary criterion
+to select suppliers. However, now that
+is expected to be replaced by cost/risk
+analysis with an emphasis on transparency
+keeping the sustainability agenda in mind.
+Re-assessing the supply chain will help
+organisations achieve transparency as well
+as supply chain resilience.
+Building a sustainable supply chain will
+lead companies to understand risks,
+assess and monitor how their suppliers
+are managing those risks, and diversify
+their supplier portfolios to decrease
+vulnerabilities.
+
+61
+
+FMCG and retail REBOOT
+
+It is the time to transform and make an
+impact that matters
+COVID-19 has created a need to achieve
+greater sustainability. Environmental, Social,
+and Corporate Governance (ESG) leaders have
+outperformed during this crisis. Crises always
+bring with them a degree of opportunity. As
+the global economy starts to motor back to life,
+investors are keeping an eye on sustainable
+companies and industries, as they will be far
+more resilient against future global disruptions.
+Looking ahead, looking inside, and looking
+around can help organisations understand the
+importance of adding sustainability into their
+
+62
+
+business models, and identify opportunities
+that can arise from a crisis. Sustainability can
+only be long term if it is embedded within an
+organisation’s policies. Responsible businesses
+need to put sustainability high on the
+management agenda and individual department
+KPIs, to initiate action. Tracking progress against
+well-defined quarterly and yearly targets will
+help inculcate this practice in the minds of key
+stakeholders.
+Companies need to take these readily
+achievable steps to meet the sustainability
+need to respond, recover, and thrive in the ‘new
+normal’.
+
+FMCG and retail REBOOT
+
+Conclusive remarks
+COVID-19 has fundamentally transformed
+the world. As a result, the consumer and
+retail sectors are evolving rapidly and longterm trends have been majorly disrupted.
+Changes anticipated over the next few
+years have occurred in the space of weeks
+and months, having a profound impact
+on the ways of doing business. To survive,
+brands and retailers need to “REBOOT”
+their businesses in real-time, with lasting
+impact across many areas.
+Brands need to realign businesses and
+business priorities across manufacturing,
+distribution, and product mix, enabling
+them to respond to the crisis better. To
+enhance and shape the next generation
+of consumer and shopper experience,
+brands have accelerated their investment
+in digital and predictive technologies.
+Further, companies are working towards
+
+building a resilient distribution
+network by expanding into new channels,
+forming alliances, and collaborating
+with distribution partners, to expand
+capabilities and enhance fulfillment levels.
+Safety concerns have led to an increase
+in online “touchless” shopping, and
+brands are unlocking the prospects
+of increased sales by strengthening
+their omni-channel play and moving
+businesses to O2O, D2C, etc. Brands are
+also updating their business models and
+digitalising their supply chain to operate
+efficiently and evolve with the changing
+trends. Environmental and social practices
+have gained paramount importance
+post lockdown. Companies will thrive
+by focusing on sustainability in such a
+dynamic business environment.
+
+63
+
+FMCG and retail REBOOT
+
+About Deloitte
+All the facts and figures that talk to
+our size and diversity and years of
+experiences, as notable and important as
+they may be, are secondary to the truest
+measure of Deloitte: the impact we make
+in the world.
+So, when people ask, “what’s different
+about Deloitte?” the answer resides in
+the many specific examples of where we
+have helped Deloitte member firm clients,
+our people, and sections of society to
+
+64
+
+achieve remarkable goals, solve complex
+problems or make meaningful progress.
+Deeper still, it’s in the beliefs, behaviours,
+and fundamental sense of purpose that
+underpin all that we do.
+Deloitte Globally has grown in scale and
+diversity—more than 315,000 people in
+150 countries, providing multidisciplinary
+services yet our shared culture remains
+the same.
+
+FMCG and retail REBOOT
+
+About FICCI
+Established in 1927, FICCI is the largest
+and oldest apex business organisation
+in India. Its history is closely interwoven
+with India's struggle for independence,
+its industrialisation, and its emergence as
+one of the most rapidly growing global
+economies.
+
+articulates the industry’s views and
+concerns. It serves its members from the
+Indian private and public corporate sectors
+and multinational companies, drawing its
+strength from diverse regional chambers
+of commerce and industry across states,
+reaching out to over 2,50,000 companies.
+
+A non-government, not-for-profit
+organisation, FICCI is the voice of India's
+business and industry. From influencing
+policy to encouraging debate, engaging
+with policymakers and civil society, FICCI
+
+FICCI provides a platform for networking
+and consensus building within and across
+sectors and is the first port of call for the
+Indian industry, policymakers, and the
+international business community.
+
+65
+
+FMCG and retail REBOOT
+
+Connect with us
+Please contact us at inconsumerbusiness@deloitte.com for any information/assistance.
+
+Acknowledgements
+Deloitte
+Partners
+
+Anand Ramanathan
+ranand@deloitte.com
+
+Antony Prashant
+prantony@deloitte.com
+
+Deepti Sagar
+deeptisagar@deloitte.com
+
+Easwaran Subramanian
+pseaswaran@deloitte.com
+
+Rajat Wahi
+rajatwahi@deloitte.com
+
+Santosh Kumar
+santoshkumar@deloitte.com
+
+Avinash Chandani
+
+Aditya Bagri
+
+Ruby Pasricha
+
+Thandavarayan Kathir
+
+Pulkit Saxena
+
+Natasha Vanskuiwalla
+
+Phanish Kumar
+
+Rati Acharya
+
+Ira Gopal
+
+Ankit Sharma
+
+Kumar Shivam
+
+Subject matter experts
+
+FICCI
+Leena Jaisani
+
+66
+
+FMCG and retail REBOOT
+
+Deloitte refers to one or more of Deloitte Touche Tohmatsu Limited, a UK
+private company limited by guarantee (“DTTL”), its network of member firms,
+and their related entities. DTTL and each of its member firms are legally
+separate and independent entities. DTTL (also referred to as “Deloitte Global”)
+does not provide services to clients. Please see www.deloitte.com/about for a
+more detailed description of DTTL and its member firms.
+This material is prepared by Deloitte Touche Tohmatsu India LLP (DTTILLP).
+This material (including any information contained in it) is intended to provide
+general information on a particular subject(s) and is not an exhaustive
+treatment of such subject(s) or a substitute to obtaining professional
+services or advice. This material may contain information sourced from
+publicly available information or other third party sources. DTTILLP does
+not independently verify any such sources and is not responsible for any
+loss whatsoever caused due to reliance placed on information sourced
+from such sources. None of DTTILLP, Deloitte Touche Tohmatsu Limited, its
+member firms, or their related entities (collectively, the “Deloitte Network”)
+is, by means of this material, rendering any kind of investment, legal or other
+professional advice or services. You should seek specific advice of the relevant
+professional(s) for these kind of services. This material or information is not
+intended to be relied upon as the sole basis for any decision which may affect
+you or your business. Before making any decision or taking any action that
+might affect your personal finances or business, you should consult a qualified
+professional adviser.
+No entity in the Deloitte Network shall be responsible for any loss whatsoever
+sustained by any person or entity by reason of access to, use of or reliance on,
+this material. By using this material or any information contained in it, the user
+accepts this entire notice and terms of use.
+© 2020 Deloitte Touche Tohmatsu India LLP. Member of Deloitte Touche
+Tohmatsu Limited
+
+

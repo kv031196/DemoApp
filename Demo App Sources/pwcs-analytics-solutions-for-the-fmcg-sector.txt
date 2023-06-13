@@ -1,0 +1,1856 @@
+www.pwc.in
+
+PwC’s analytics
+solutions for the
+FMCG sector
+Strictly private
+and confidential
+
+Overview
+Indian consumers are changing at a faster pace than expected. Today,
+FMCG manufacturers rely on consumers ‘pulling’ products through the
+supply chain; thus, they require a better understanding of consumer
+behaviour and choices. Consumers are well-informed about product
+information—in particular, promotions and price comparisons via
+the Internet—which makes predicting behaviour very complex. This
+is where business analytics plays a very important role, as it allows
+organisations to derive predictive insights to enable competitive factbased decisions. Armed with deeper insights into consumer behaviour,
+FMCG manufacturers will be able to direct R&D investment, improve
+the effectiveness of marketing and maximise supply chain efficiencies.
+Let’s look at a few scenarios where analytics plays a crucial role in
+solving the challenges encountered by FMCG companies.
+
+2 PwC
+
+Business insights using
+FMCG analytics
+Pricing insights
+Know what price point will draw
+customers and increase profitability
+
+Customer insights
+Sell what customers want at their
+preferred point of purchase
+
+Sales insights
+Adopt new ways to sell based
+on how customers are buying
+
+Marketing insights
+Deliver personalised promotions
+and optimised marketing spend
+PwC
+analytics
+
+Supply chain insights
+Optimise inventory levels
+with minimal stock-outs
+
+Business success
+Drive maximum revenue and
+profitability through all channels
+
+PwC’s analytics solutions for the FMCG sector 3
+
+1: Trade promotion optimisation
+Business challenges
+
+Analytics solution and results
+
+•
+
+Identify the right price and discount point that
+maximises sales lift and return on investment (ROI)
+
+•
+
+•
+
+Optimise promotions to improve sales performance
+of newly launched products
+
+Build a linear regression model to understand the impact
+of demand drivers on historical sales volume and
+calculate base volume
+
+•
+
+Calculate total ‘true’ cost of promotions based on the
+individual components
+
+•
+
+Calculate ROI for historical promo events
+
+The results: Improved ROI on trade promotions
+•
+
+Gained insights into the profitability of promotions
+across stores, regions and products
+
+•
+
+Enhanced ability to benchmark scheme performance
+
+Sample snapshots and reports
+1
+
+Baseline volume calculation
+60
+Actual volume
+40
+
+20
+Base volume
+0
+
+2
+
+SKU
+
+Promotion ROI calculation
+5
+
+ROI
+
+4
+3
+2
+1
+0
+
+4 PwC
+
+Stores
+
+Regions
+
+Products
+
+2: Marketing mix modelling
+Business challenges
+
+Analytics solution and results
+
+•
+
+Calculate ROI of advertisement spend across
+various channels like television, print and web
+
+•
+
+Develop an analytic model showing impact of various
+marketing campaigns on sales
+
+•
+
+Understand consumer behaviour with regard to
+exposure to advertising
+
+•
+
+Evaluate media effectiveness, ROI and simulate
+what‑if scenarios
+
+The results: Media channel effectiveness
+•
+
+Prioritised advertisement and promotion spend in favour
+of channels that provide better ROI
+
+•
+
+Reduced the overall spend on advertising and promotion
+
+Sample snapshots and reports
+1
+
+Identify channels, campaigns, causal factors that impact sales
+
+Historical data
+
+Market
+spend data
+
+Macroeconomic
+factors
+
+Market mix model
+• Parse out seasonality
+• Create baseline
+• Analyse drivers
+• Identify lift from activity
+
+Assumptions
+and business
+constraints
+
+Output
+
+2
+
+Develop model-driven scenario analysis to analyse their impact on sales
+
+TV
+
+Print
+
+Paid
+search
+
+Display
+online
+
+Store
+demo
+
+Media spending
+
+PwC’s analytics solutions for the FMCG sector 5
+
+3: Vendor selection model
+Business challenges
+
+Analytics solution and results
+
+•
+
+Find a vendor evaluation method to facilitate an
+objective, unbiased selection process
+
+•
+
+Analytic hierarchy process (AHP) is a prominent approach
+in solving multi-criterion decision-making problems.
+
+•
+
+Identify the key metrics of vendor performance that
+can help during negotiation with vendors on
+specific points
+
+•
+
+The method allows the incorporation of judgements on
+intangible qualitative criteria alongside tangible
+quantitative criteria.
+
+•
+
+Find a robust framework that can measure
+vendors’ performance
+
+The results: A tool for vendor negotiation
+•
+
+Helped avoid conflicts through collaborative decision making
+
+•
+
+Generated a repeatable process that saves time
+
+•
+
+Measured vendor performance among peers and across time
+
+Sample snapshots and reports
+1
+
+Defining and ordering criteria
+Vendor selection
+Capability
+
+Packaging
+
+Pricing
+
+Quality
+
+Supply desired
+quantity
+
+Management and
+organisation
+
+Variety of SEU’s
+base packaging
+
+Margin/cost
+
+Production
+quantity
+
+Adherence to
+standards
+(ingredients-wise,
+formula, et al)
+
+Automation
+
+Variety of delivery
+packaging
+
+Minimum order
+quantity
+
+Hygiene
+
+Delivery network
+
+Delivery
+lead time
+
+Credit period
+
+Evaluating vendors and selecting the best one
+Criteria
+
+Capability
+
+Process
+
+Packaging
+
+Pricing
+
+Quality
+
+6 PwC
+
+Local
+weights
+
+26.2%
+
+21.9%
+
+18.5%
+
+17.6%
+
+15.7%
+
+Sub-criteria
+
+Local Combined Ranks
+weights weights
+
+Quantity
+
+33.2%
+
+8.7%
+
+4
+
+Standards
+
+38.3%
+
+10.0%
+
+1
+
+Delivery network
+
+28.5%
+
+7.5%
+
+8
+
+Management and
+organisatoin
+
+30.6%
+
+6.7%
+
+10
+
+Automation
+
+39.3%
+
+8.6%
+
+5
+
+Delivery lead time
+
+30.2%
+
+6.6%
+
+11
+
+SKU packaging
+
+49.3%
+
+9.1%
+
+3
+
+Delivery packaging
+
+50.7%
+
+9.4%
+
+2
+
+Margin cost
+
+36.7%
+
+6.5%
+
+12
+
+Minimum order
+quantity
+
+38.9%
+
+6.9%
+
+Credit period
+
+24.4%
+
+Product quality
+Hygiene
+
+Weights alloted to criteria
+
+30
+25
+7.5%
+% score
+
+2
+
+Processes
+
+20
+
+6.6%
+
+15
+
+9.4%
+
+10.0%
+
+4.3%
+7.9%
+
+8.6%
+
+10
+
+6.9%
+
+5
+
+8.7%
+
+6.7%
+
+9.1%
+
+0
+
+6.5%
+
+Capability Process Packaging Pricing
+
+7.9%
+Quality
+
+Hygiene
+
+Margin/cost
+
+Automation
+
+Product quality
+
+Delivery packaging
+
+9
+
+Credit period
+
+SKU packaging
+
+Management and
+organisation
+
+4.3%
+
+13
+
+Deliver lead time
+
+50.0%
+
+7.9%
+
+6
+
+Minimum order
+quantity
+Standards
+
+50.0%
+
+7.9%
+
+6
+
+Quantity
+
+Delivery network
+
+4: Sales forecasting
+Business challenges
+
+Analytics solution and results
+
+•
+
+Identify a scientific methodology to accurately
+predict future sales volumes
+
+•
+
+Develop a robust sales forecasting model through
+aggregation and statistical analysis of data
+
+•
+
+Improve target setting by identifying current
+market conditions and their impact on
+customer sales
+
+•
+
+Develop a structured what-if analysis mechanism to create
+multiple scenarios
+
+The results: Improved planning
+•
+
+Predicted sales volumes based on critical demand drivers
+
+•
+
+Improved decision making through structured
+scenario analysis
+
+Sample snapshots and reports
+1
+
+Identify the key events, causal factors that impact sales
+Demand metric
+
+Events
+
+Trends
+
+Causal variables
+
+Sales promo event
+
+Product prices
+
+Seasonality
+
+Festival seasons
+
+Advert expense
+
+Randomness
+
+Competitor activity
+
+Income, GDP, IIP
+
+Forecasted sales
+
+Develop model-driven scenario analysis to analyse their impact on future sales
+18000
+16000
+14000
+12000
+10000
+8000
+6000
+4000
+
+Apr13
+
+May13
+
+Mar13
+
+Jan13
+
+Feb13
+
+Dec12
+
+Oct12
+
+Nov12
+
+Sep12
+
+Aug12
+
+Jul12
+
+Jun12
+
+May12
+
+Apr12
+
+Mar12
+
+Jan12
+
+Feb12
+
+Dec11
+
+Oct11
+
+Nov11
+
+Sep11
+
+Jul11
+
+Aug11
+
+Jun11
+
+Apr11
+
+May11
+
+Mar11
+
+Jan11
+
+Feb11
+
+Dec10
+
+Oct10
+
+Nov10
+
+Sep10
+
+0
+
+Jul10
+
+2000
+Aug10
+
+2
+
+PwC’s analytics solutions for the FMCG sector 7
+
+5: Pricing recommendation
+Business challenges
+
+Analytics solution and results
+
+•
+
+Understand the impact on sales for a given change
+in price (pricing elasticity) across products and
+understand the impact on the contribution margin
+
+•
+
+Build a pricing model to enable an effective pricing
+structure for various product categories
+
+•
+
+•
+
+Ensure a consistent scientific methodology is
+being applied to pricing decisions across
+categories/outlets
+
+Optimise pricing to improve margins and
+bottom‑line profitability
+
+The results: Improved planning
+•
+
+Data-driven pricing suggestions for greater sales and
+incremental contribution margin
+
+Sample snapshots and reports
+1
+
+Establishment of price elasticity across the product portfolio
+Price elasticity by category
+
+Price elasticity
+
+High price elasticity for
+products usually treated as
+a discretionary purchase
+
+Low-price elasticity driven by
+‘needs’ purchase; provides
+‘bundling’ opportunity when
+combined with impulse purchases
+
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+G
+
+Products
+
+Suggest optimal pricing to drive immediate contribution margin
+100%
+
+300
+
+250
+
+Gross margin (%)
+
+80%
+
+200
+60%
+150
+40%
+100
+20%
+
+0%
+
+8 PwC
+
+50
+
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+I
+
+J
+
+K
+
+L
+
+M
+
+N
+
+O
+
+P
+
+Q
+
+R
+
+S
+
+T
+
+0
+
+Gross margin ( in USD)
+
+2
+
+6: Sentiment analysis
+Business challenges
+
+Analytics solution and results
+
+•
+
+•
+
+Web crawlers to capture unstructured data across various
+social media platforms
+
+•
+
+A text mining model for parsing conversations into positive,
+neutral and negative buckets
+
+•
+
+Capture customer feedback across various social
+media platforms and derive meaningful
+conclusions, which could be sent to relevant
+functions within the organisation
+Improve brand strength and engage with customers
+in a meaningful way
+
+The results: Instant customer feedback
+•
+
+Sentiment analysis can help to track consumer behaviour
+in real time across channels, monitor online brand health
+and also uncover the levers that can have a significant
+business impact.
+
+Sample snapshots and reports
+1
+
+Capture customer conversation on social media platforms
+
+Company
+
+Competitors
+
+Market
+
+2
+
+Develop sentiment analysis for business insights
+
+PwC’s analytics solutions for the FMCG sector 9
+
+7: Inventory optimisation
+Business challenges
+
+Analytics solution and results
+
+•
+
+Align inventory planning, forecasting and
+execution capabilities across the organisation
+
+•
+
+Employ statistical modelling techniques to perform
+inventory stock level vs lost sales scenario analysis
+
+•
+
+Obtain insights from vast volumes of data at the
+SKU location on a weekly/daily level to improve
+inventory forecasting
+
+•
+
+Develop robust demand forecasts through statistical
+analysis of data across outlets
+
+The results: Improved inventory management
+•
+
+Suggested order quantity recommendations to reduce
+out-of-stock frequency
+
+•
+
+Optimised balance between inventory stock and lost
+sales based on the economics and competitive
+environment of the business
+
+Sample snapshots and reports
+Perform inventory stock vs lost sales scenario analysis
+
+330
+
+Starting inventory/
+lost sales
+
+300
+
+220
+More optimal sales vs.
+inventory trade-off
+scenarios
+
+200
+
+120 115
+Current
+
+2
+
+Inventory
+
+1
+
+Aggressive
+
+95
+
+75 Lost sales
+
+Moderate
+
+Conservative
+
+Optimise inventory levels taking into account all supply and demand variables
+SKU
+
+Suggested order
+
+Actual order
+
+Suggested order
+
+Actual order
+
+Suggested order
+
+Actual order
+
+AB123
+
+25
+
+28
+
+20
+
+20
+
+25
+
+21
+
+CD456
+
+10
+
+10
+
+10
+
+10
+
+16
+
+16
+
+EF789
+
+7
+
+7
+
+5
+
+9
+
+9
+
+9
+
+Total
+
+42
+
+45
+
+35
+
+39
+
+50
+
+46
+
+10 PwC
+
+8:	Product launch benchmarking
+and cannibalisation
+Business challenges
+
+Analytics solution and results
+
+•
+
+Leverage analytics to identify factors critical to new
+product success
+
+•
+
+Structure a set of indicators to measure a product launch
+based on multiple analytical and modelling techniques
+
+•
+
+Understand how sales and contribution margin of
+a new product should be benchmarked to
+assess performance
+
+•
+
+Estimate the impact of the product launch on overall market
+share through statistical analysis and field analytics
+
+•
+
+Analyse the level of cannibalisation from a newly
+launched product
+
+The result: Recommendations to steer early launch
+execution to ensure greater success or to limit investment on
+launches likely to fail
+
+Sample snapshots and reports
+Assess new product comparative
+launch momentum
+
+Cumulative volume (%)
+
+Existing product volume
+Forecast vs. actual
+
+2.5
+
+100
+Forecast
+Actual
+
+2.0
+80
+60
+40
+
+Different products have
+different early launch profiles
+(function of category, brand
+power, market demand, etc.)
+
+20
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9 10 11 12 13
+
+Week
+
+Incremental portfolio value
+
+Understand cannibalisation of
+existing products
+
+New product launch momentum
+
+120
+
+3
+
+2
+
+Volume (MM)
+
+1
+
+1.5
+1.0
+0.5
+0.0
+
+A
+
+B
+C
+Existing products
+
+D
+
+Develop insights to steer the success of the newly
+launched product
+
+Keep
+
+Scale
+
+Refine
+investment
+
+Kill
+
+Total cost of launch
+
+PwC’s analytics solutions for the FMCG sector 11
+
+9: Price and pack analytics
+Business challenges
+
+Analytics solution and results
+
+•
+
+•
+
+Define the right brands, packs and prices for the
+specified channel/customer to meet targeted
+consumer and shopper needs
+
+Using modelling, PwC’s price and pack analytics optimises
+channel performance, package diversity, pricing and other
+key value drivers.
+
+The result: Increased SKU efficiency
+•
+
+Increased revenue across the portfolio
+
+•
+
+Increased market share and value share
+
+•
+
+The right packs and prices by outlet
+
+Sample snapshots and reports
+1
+
+Identify SKUs for potential deletion based on a variety of factors, from current contribution margin
+to time in the market and substitutability
+SKU volume
+rank
+
+SKU revenue
+rank
+
+Gross profit
+(in thousand
+USD)
+
+New or old?*
+
+Competitive
+products
+exist?
+(Y/N)
+
+Unique
+product
+role?
+(Y/N)
+
+Component
+of growth
+vision?
+(Y/N)
+
+Keep or
+delist?
+(Y/N)
+
+244
+
+253
+
+9
+
+Old
+
+Y
+
+N
+
+Y
+
+Y
+
+245
+
+260
+
+1.7
+
+Old
+
+N
+
+N
+
+N
+
+N
+
+246
+
+188
+
+12
+
+New
+
+N
+
+Y
+
+N
+
+Y
+
+247
+
+255
+
+4.8
+
+New
+
+Y
+
+N
+
+Y
+
+Y
+
+* New products defined as introduced in past six months
+
+2
+
+Understand pricing distribution across brands as a percentage of volume
+Single serve transaction split
+by price range, by manufacturer
+
+50%
+
+% of category volume
+
+40%
+
+30%
+
+20%
+
+10%
+
+0%
+Less than 1 USD
+
+1 USD–2 USD
+Brand 1
+
+12 PwC
+
+Brand 2
+
+Brand 3
+
+Over 2 USD
+Brand 4
+
+10: Vending machine ROI
+Business challenges
+
+Analytics solution and results
+
+•
+
+Forecast incremental volume and contribution
+margin associated with new vending opportunities
+
+•
+
+Identify true cost to serve of vending machine network,
+including both direct and indirect costs
+
+•
+
+Understand ROI of adding cashless swipe to new
+and existing machines, including both cost and
+precision pricing
+
+•
+
+Develop data-driven fact base for precision price setting,
+with and without cashless swipe
+
+The result: ROI by vending machine
+•
+
+Profit drivers quantified (commission, location, cost to
+serve, etc.)
+
+Sample snapshots and reports
+1
+
+Develop a data-driven fact base for precision price setting
+15%
+
+20%
+
+10%
+
+10%
+
+5%
+1.05 USD
+
+0%
+0.85 USD
+
+0.9 USD
+
+0.95 USD
+
+1.1 USD
+
+1.15 USD
+
+1.2 USD
+
+0%
+
+1 USD
+
+Incremental margin
+
+Incremental volume
+
+Price-point analysis
+30%
+
+-10%
+
+-5%
+
+-20%
+
+-10%
+Price point
+
+-30%
+
+-15%
+Incremental volume
+
+2
+
+Incremental margin
+
+Calculate incremental contribution margin and ROI of potential vending machine recommendations
+Incrementality analysis
+Volume
+
+Profit
+
+Sales
+
+Incremental contribution: 23 USD
+ROI: 34%
+
++270
+
+1,483
+
+84
+USD
+
+1,213
+745 USD
+
++23
+USD
+
+829 USD
+
+-46 USD
+
+110 USD
+87 USD
+
+PwC’s analytics solutions for the FMCG sector 13
+
+11: Assortment intelligence
+Business challenges
+
+Analytics solution and results
+
+•
+
+Track the competitors’ assortments and their
+pricing dynamically (real time) to optimise
+personal product portfolio
+
+•
+
+Real-time price monitoring and analytics using advanced
+artificial intelligence (AI), semantic analysis, data mining,
+and image-recognition algorithms
+
+•
+
+Identify products, brands and categories where one
+has a unique advantage
+
+•
+
+•
+
+Identify gaps in catalogues so as to take decisions
+on adding them and overlaps to price them at
+extremely competitive rates
+
+Trend analysis (trending now, popular) using predictive
+algorithms in order to sell the right products at the right
+time and drop products that are cooling in popularity
+
+The result: Growing bottom line
+•
+
+Provided view of competitors’ product assortments,
+enabling a company to quickly adjust its own product mix
+and pricing so as to make profitable pricing decisions and
+drive sales performance
+
+Sample snapshots and reports
+1
+
+Analyse the gaps and overlap with competitors’ products
+Competitor A
+300
+items
+
+Competitor B
+15% (32 items)
+Not in my inventory
+
+155
+items
+
+22% (30 items)
+Not in my inventory
+
+Competitor D
+260
+items
+
+2
+
+35% (55 items)
+Not in my inventory
+
+Optimise assortment by understanding how the competition managed their catalogues
+
+Average price
+
+Price over product lifetime
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+Weeks
+Competitor 1
+
+14 PwC
+
+Client’s price
+
+Competitor 2
+
+9
+
+12: Multichannel advertising analytics
+Business challenges
+
+Analytics solution and results
+
+•
+
+The solution involves three broad activities:
+
+Understand which combination of ad exposures
+interacts to influence the consumer to make
+a purchase
+ADS
+
+•
+
+For example: A TV ad can prompt a Google search
+on a mobile phone, which can lead to a clickthrough on a display ad and ultimately end in sales.
+
+•
+
+Identify whether the company is investing the right
+amount at the right point in the customer decision
+journey to purchase a product
+
+a)
+
+Attribution: Quantifying the contribution of each element
+of advertising
+
+b)
+
+Optimisation: Use of predictive analytics tools to run
+scenarios for business planning
+
+c)
+
+Allocation: Real-time redistribution of resources across
+marketing activities according to optimisation scenarios
+
+The result: Measure how TV, print, radio and online ads
+each functioned independently to drive sales and then
+allocate marketing spend based on lift and ROI.
+
+Sample snapshots and reports
+1
+
+Understand the relationship of ads across channels
+Other
+economic
+factors
+Unemployment rates
+Consumer
+Fuel prices
+confidence
+
+MARKET
+CONDITIONS
+Print ads
+
+MARKET
+ACTIONS
+
+Direct
+mail
+Native
+content
+
+Television
+ads
+
+Senson
+
+1
+Attribution
+
+Social
+Radio
+media
+Paid
+search Online
+display Mobile
+apps
+Cinema
+Public
+Earned Pricing
+relations
+media
+
+2
+
+2
+Optimisation
+
+3
+Allocation
+
+Search
+Online chatter
+Store visits
+Purchasing
+
+BUSINESS OUTCOMES
+
+Sales
+activities
+Newproduct
+releases
+Pricing
+
+Promotions
+Customer
+service
+
+CONSUMER RESPONSE
+
+ANALYTICS ENGINE
+
+Unit sales
+Revenues
+Margins
+Market share
+Share of voice
+Customer lifetime value
+
+Competitor
+advertising
+Promotions
+
+COMPETITIVE
+ACTIVITIES
+
+Measure cross-media, cross-channel effects on retail traffic
+SEARCH
+QUERY
+VOLUME
+
++90%
+AD SPENDING
+REALLOCATION
+
+TV GROSS
+SPENDING
+NOV
+
+DEC
+
+CAMPAIGN
+BUDGET
+PRODUCT
+SALES
+
++32%
+
+JAN
+
+85%
+62%
+TV
+
+45 6
+25
+
+PAID
+SEARCH
+
+5 8
+
+-12%
+
+TV
+
+YOUTUBE
+
+PAID SEARCH
+
+ONLINE YOUTUBE
+DISPLAY
+
+PwC’s analytics solutions for the FMCG sector 15
+
+PwC can help you deal with all
+of these and other challenges
+through the use of analytics,
+allowing you to have access
+to information quickly and
+accurately and in formats
+that will enable you to make
+meaningful business decisions
+in real time.
+
+16 PwC
+
+Why PwC?
+Strong FMCG sector
+expertise
+
+Scalable, flexible and costeffective offerings
+
+Our consultants have a proven track
+record of working with leading FMCG
+players in India and have strong domain
+knowledge in the consumer space.
+
+Our analytics solutions can be
+customised as per an FMCG player’s
+specific needs across different areas.
+
+Cutting-edge technology
+We have expertise in implementing
+FMCG analytics through leading market
+tools by aligning them to the client’s
+technology landscape.
+
+PwC’s analytics solutions for the FMCG sector 17
+
+Our Data and Analytics
+offerings
+
+Analytics strategy
+Analytics maturity assessment and benchmarking
+Analytics model implementation
+Analytics competency centre set-up
+
+Data and Analytics key industry-wise services
+• Regulatory technology
+• Financial crime
+• Claims loss analytics
+• Liquidity risk
+Financial
+services
+• Tax analytics
+• Fraud analytics
+• CM dashboard
+
+Government
+
+• Revenue assurance
+• Quality of service analysis
+• Pricing analytics
+• Human capital analytics
+
+Retail and
+consumer
+
+Pharma
+and
+healthcare
+
+D&A
+
+Telecom
+
+• Customer analytics
+• Supply chain analytics
+• Demand forecasting
+• Store operations analytics
+• Marketing ROI/trade promotion
+• Sales and distribution analytics
+
+Industrial
+products
+
+• Sales force analytics
+• Demand forecasting
+• Physician targeting
+
+• GPS-based smart logistics
+• Promoters’/chairman’s dashboard
+• Predictive asset maintenance
+
+Cross-industry offerings
+• Big data strategy and implementation
+• Data management
+• Business intelligence and data management strategy
+• Vendor evaluation
+
+18 PwC
+
+• Social media analytics
+• Master data management
+• Financial planning, budgeting and consolidation
+• Analytics competency centre set-up
+
+Healthcare and pharma
+
+Analytics offerings
+
+Financial planning, budgeting and consolidation
+
+Manufacturing
+
+Enterprise-wide data warehouse implementation
+
+Government and public sector
+
+Business intelligence on enterprise resource planning
+
+Retail and consumer
+
+Data offerings
+
+Business intelligence and data management strategy, vendor evaluation
+
+TICE
+
+FS (BCM, insurance, PE, investment management)
+
+Industry
+
+About PwC
+At PwC, our purpose is to build trust in society and solve important problems. We’re a network of firms
+in 157 countries with more than 2,23,000 people who are committed to delivering quality in assurance,
+advisory and tax services. Find out more and tell us what matters to you by visiting us at www.pwc.com.
+In India, PwC has offices in these cities: Ahmedabad, Bengaluru, Chennai, Delhi NCR, Hyderabad,
+Kolkata, Mumbai and Pune. For more information about PwC India’s service offerings, visit www.pwc.
+com/in
+PwC refers to the PwC International network and/or one or more of its member firms, each of which is a
+separate, independent and distinct legal entity. Please see www.pwc.com/structure for further details.
+©2016 PwC. All rights reserved
+
+pwc.in
+Data Classification: DC0
+This document does not constitute professional advice. The information in this document has been obtained or derived from sources believed by PricewaterhouseCoopers
+Private Limited (PwCPL) to be reliable but PwCPL does not represent that this information is accurate or complete. Any opinions or estimates contained in this document
+represent the judgment of PwCPL at this time and are subject to change without notice. Readers of this publication are advised to seek their own professional advice
+before taking any course of action or decision, for which they are entirely responsible, based on the contents of this publication. PwCPL neither accepts or assumes any
+responsibility or liability to any reader of this publication in respect of the information contained within it or for any decisions readers may take or decide not to or fail to take.
+© 2016 PricewaterhouseCoopers Private Limited. All rights reserved. In this document, “PwC” refers to PricewaterhouseCoopers Private Limited (a limited liability company
+in India having Corporate Identity Number or CIN : U74140WB1983PTC036093), which is a member firm of PricewaterhouseCoopers International Limited (PwCIL), each
+member firm of which is a separate legal entity.
+SUS-IMS/Dec2016-8259
+
+
