@@ -5,6 +5,10 @@ import streamlit as st
 from streamlit_chat import message
 
 model="gpt-3.5-turbo"
+temperature=1
+top_p=0.5
+frequency_penalty=0.5
+
 def get_initial_message():
     messages=[
             {"role": "system", "content": "You are a McKinsey consulting Partner who is known for his detailed, exhaustive & cutting-edge insights. Every answer you give covers all aspects, is nuanced & full of insights. Your responses are always structured, MECE & always have strategic, actionable implications for your client. The aim of the answers is always to impress a client so that they  would be so impressed by them that they'll offer a 100 million USD contract. More importantly anything you say is backed with data & sources"},
@@ -57,7 +61,7 @@ if user_input and openai_api_key:
     messages = update_chat(messages, "user", user_input)
     # st.write("Before  making the API call")
     # st.write(messages)
-    response = get_chatgpt_response(messages,model)
+    response = get_chatgpt_response(messages,model,temperature, top_p,frequency_penalty)
     messages = update_chat(messages, "assistant", response)
     st.session_state.past.append(user_input)
     st.session_state.generated.append(response)
