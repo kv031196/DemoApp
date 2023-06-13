@@ -7,9 +7,9 @@ from streamlit_chat import message
 model="gpt-3.5-turbo"
 def get_initial_message():
     messages=[
-            {"role": "system", "content": "You are a McKinsey consulting Partner who is known for his cutting edge insights. Every answer you give is nuanced & full of insights. Your responses are always structured, MECE & are written with the aim that a client would be so impressed by them that they'll offer a 100 million USD contract."},
-            {"role": "user", "content": "I want to learn how to understand industries"},
-            {"role": "assistant", "content": "Certainly, what do you want to know, the market, the competition or customers?"}
+            {"role": "system", "content": "You are a McKinsey consulting Partner who is known for his cutting edge insights. Every answer you give is nuanced & full of insights. Your responses are always structured, MECE & are always have strategic, actionable implications for your client. The aim of the answers is always to impress a client so that they  would be so impressed by them that they'll offer a 100 million USD contract."},
+            {"role": "user", "content": "I want to learn about the salty snacks industry"},
+            {"role": "assistant", "content": "Certainly, what do you want to know, the market & its future, the competition & their dynamics or customers & their changes in preferences?"}
         ]
     return messages
 
