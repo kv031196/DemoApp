@@ -50,12 +50,12 @@ if user_input and not openai_api_key:
 if user_input and openai_api_key:
     openai.api_key = openai_api_key
     messages = st.session_state['messages']
-    messages = update_chat(messages, "user", query)
+    messages = update_chat(messages, "user", user_input)
     # st.write("Before  making the API call")
     # st.write(messages)
     response = get_chatgpt_response(messages,model)
     messages = update_chat(messages, "assistant", response)
-    st.session_state.past.append(query)
+    st.session_state.past.append(user_input)
     st.session_state.generated.append(response)
         
 if st.session_state['generated']:
